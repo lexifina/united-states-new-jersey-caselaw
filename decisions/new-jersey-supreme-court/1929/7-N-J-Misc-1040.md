@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-11-14"
+citations: ["7 N.J. Misc. 1040"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE BOARD OF MEDICAL EXAMINERS OF NEW JERSEY, PROSECUTOR, v. HARRY DeBAUN, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/7/cases/1040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446783
+---
+
+# State Board of Medical Examiners v. DeBaun
+
+## Majority (Pee CüEiAjf.)
+
+Pee CüEiAjf.
+Harry DeBaun was charged with the violation of section 10, chapter 221, Pamph. L. 1921, in that he practiced medicine and surgery without a license. The case was tried before the District Court of the First Judicial District of the county of Bergen, the judge thereof sitting without a jury, and found not guilty. This proceeding is by writ of certiorari to review the finding of the court.
+The defendant is a licensed chiropractor. The facts proven by the plaintiff are not in substance disputed. The question is whether the defendant as a licensed chiropractor, by virtue of his license, has the legal right to commit the acts complained of. The testimony of Delia Orr included a recital that the defendant caused the witness to disrobe gown, and lie upon a cot with a large electric lamp over it, that after a time the defendant placed upon her body two discs, one on her stomach and one on her back, and that these discs were connected with an electric machine from which the power was gradually turned on until it got as strong as the witness could endure, whereupon the power in that degree was left on for about a half hour; that at the end of that period the defendant turned the power off, said that the process would draw the muscles of the stomach back in their proper place and that if it didn’t he would try something else; for which service the witness paid two dollars. DeBaun on direct examination was asked with reference to the testimony of Delia Orr: “Q. She testified that you put two wet pads, one under and one over, with the use of some electric contrivances. Will you explain? A. That was galvanic current which produces heat for relaxation.” These excerpts from the testimony will illustrate the character of acts that were charged against and admitted by the defendant. The defense is two-fold, namely, that the practices in question were not a violation of the direct prohibitions of the statute and that if they be within the direct prohibitions they are nevertheless waived by section 9 of the act referred to, which provides that “the prohibitory provisions in this act as amended shall not apply to * * * the giving of treat- meat by electricity by any person resident of this state who has been continuously engaged in giving treatment by electricity herein during the past fourteen years; provided, that said person has graduated from a legally incorporated electrotherapeutic school in good standing.”
+The defendant by his own testimony is not a graduate of a legally incorporated electro-therapeutic school in good standing. Consequently, the waiving clause in section 9 is not applicable.
+The defendant was admitted to the practice of chiropractic in 1920 under chapter 4 of the pamphlet laws of that year, “An act to regulate the practice of chiropractic,” by the first section of which “chiropractic” is defined—omitting expressions unimportant in this connection-—to be the “art of permitting restoration * * * by placing in juxtaposition the abnormal concrete positions of definite mechanical portions with each other by hand * * *.” Electricity is a dangerous instrumentality with the ever present capacity to do serious bodily harm unless restrained within proper limitations. It is essential that its use as applied to the human body should be under the direction of authorized persons. Its use in the instant case was a part of the art of healing. The specific use above referred to in nowise involved the function of hand manipulation. We are unable to conceive of any hypothesis in the proofs in the case upon which the use of electricity in the manner stated is a part of the practice of chiropractic. We consider that the acts of the defendant were contrary to the prohibitory provisions of section 10 of the 1921 act, and that they were not within the exception of section 9. State Board v. Lezenby, 1 N. J. Mis. R. 20; State Board v. Livesey, 6 Id. 177; State Board v. Baudendistel, Ibid. 14; State Board v. Blechschmidt, Ibid. 682.
+The judgment of the District Court of the Eirst Judicial District of the county of Bergen is reversed.

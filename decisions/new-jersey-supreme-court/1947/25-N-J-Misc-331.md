@@ -1,0 +1,37 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1947-06-17"
+citations: ["25 N.J. Misc. 331"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOROUGH OF FAIR LAWN, A MUNICIPAL CORPORATION OF THE COUNTY OF BERGEN AND STATE OF NEW JERSEY, PLAINTIFF, v. FAIRLAWN TRANSPORTATION, INC., A NEW JERSEY CORPORATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/25/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 435431
+cites_cases: ["33 N. J. L. 273", "35 Atl. Rep. 913", "40 N. J. L. 1", "41 Atl. Rep. 964", "42 N. J. L. 497", "59 N. J. L. 201", "62 N. J. L. 571"]
+---
+
+# Borough of Fair Lawn v. Fairlawn Transportation, Inc.
+
+## Majority (Leyden, S. C. C.)
+
+Leyden, S. C. C.
+The crux of this matter is the interpretation of the term “town corporate” as used in the statute of limitations, R. S. 2:24-22; N. J. S. A. 2:24-22, as follows:
+"All actions or informations which shall be brought or exhibited for any forfeiture upon any penal statute made or to be made, shall be brought or exhibited within the periods of time herein prescribed, and not thereafter:
+“a. Within two years next after the offense committed or to be committed against the statute, when the forfeiture is or shall be limited by the statute to the state of New Jersey only;
+“b. Within two years next after the offense committed or to be committed against the statute, or cause of action accrued, when the benefit of the forfeiture and the action therefor is or shall be limited or given to the party aggrieved;
+“c. Within one year next after the offense committed or to be committed against the statute, when the benefit of the forfeiture and the action therefor is or shall be limited or given by the statute to any person or persons who shall prosecute for the same, or to the state of New Jersey, and to any other who shall prosecute in that behalf, except that, in default of such action, the same shall be brought or exhibited for the state of New Jersey, at any time within one year after the termination of the aforesaid year;
+“d. Within one year next after the offense committed or to be committed against the statute, when the forfeiture is or shall be limited by the statute to any county, township, or town corporate, or to any officer of such county, township, or town corporate, or to any person or persons for the use of such county, township, or town corporate, or to the use of the poor of such township or town corporate, either in whole or together with any other person or persons who may lawfully sue for the same.
+'^Where, however, any action or information is or shall be limited by any statute to be brought or exhibited within a shorter time than is limited by this section, such action or information shall be brought or exhibited within such shorter time so limited by such statute.”
+The matter arises out of a dispute over the collection of franchise taxes, interest thereon and penalties allegedly due the 'plaintiff borough from the defendant. The borough and the transportation company agreed prior to the passage of thé statute providing for the payment of a gross receipts tax, R. S. 48:4-14; N. J. S. A. 48:4-14, that the defendant would charge a five cent fare, and in return the borough would impose a license fee of $10 per year per bus. This agreement was in effect for more than twenty years.
+The borough recently became aware of the possibility of collecting the franchise taxes provided for in the law above cited. Suit was started to collect these taxes, interest thereon and the statutory penalty of $100 for each neglect or refusal to make the monthly statement or payment of taxes when due R. S. 48:4-16; N. J. S. A. 48:4-16.
+The answer, among others, sets up three separate defenses, each alleging that so much of the plaintiff borough’s cause or causes of action which did not accrue (a) within six years, (b) within one year, and (c) within two years before the commencement of the suit is barred by the statute of limitations in such case made and provided.
+The present motion under rule 40, Eules of Supreme Court, N. J. S. A. tit. 2, is to determine the sufficiency in law of these separate defenses under a reservation therefor in the reply, and this in turn brings up for interpretation the term “town corporate” as used in R. S. 2:24-22; N. J. S. A. 2:24-22, hereinabove set forth at length.
+Concededly the separate defenses setting up the six year and the two year statute of limitation are insufficient in law and will be stricken.
+The term “town” is inexplicit. It is a word of varying signification in our laws. As was pointed out in Banta v. Richards, 42 N. J. L. 497: “Sometimes it is employed in a broad, generic sense, embracing both townships and cities, and the whole range of bodies corporate less than counties, established for local government.” Sometimes it is used in a specific, restricted sense as in Stout v. Glen Ridge, 59 N. J. L. 201; 35 Atl. Rep. 913, and Day v. Morristown, 62 N. J. L. 571; 41 Atl. Rep. 964. “When the words are not explicit the intention of the legislator is to be gathered from the occasion and necessity of the law, the defect in the former law and the designed remedy; being the causes which move the legislature to enact it.” Banta v. Richards, supra.
+The statute in question apparently came to us from England and has been in force in New Jersey since 1728. Boswell (qui tam, &c.) v. Robinson, 33 N. J. L. 273. It is a statute of .limitation and should be liberally construed to prevent a penal action from being unlimited.
+Analyzing the statute, it limits all actions or informations for any forfeiture upon any penal statute to (a) within two years next after the offense when the forfeiture is to the State of Hew Jersey only; (b) within two years when the forfeiture is,given to the party aggrieved; (e) within one year when thé benefit of the forfeiture is given to any person who -shall prosecute for the same or to the State of Hew Jersey and to any other who shall prosecute in that behalf; and (d)'within one year after the offense when the forfeiture is to any county, township or town corporate for the use of said county, township or town corporate.
+In view of the history of1 the legislation, the occasion and necessity for the law, and the designed remedy, the word ‘down” or the term “town corporate” as used-in the act is synonymous with the term “municipality” as defined in R. S. 40:42-1-; N. J. S. A. 40:42—1, and intended to include the whole range of.bodies corporate .established for local government below the grade of county. Cf. Van Riper v. Parsons, 40 N. J. L. 1; Pell v. Newark, 40 Id. 550. - -
+.. .Were we to accord the term “town” as used in the act its, narrower signification, it would lead to an unusual result. The legislature would have enacted a law limiting the state apd individuals in actions to recover penalties to a two year, period, and limiting counties, townships-and towns to a one year period, but imposing no limitation upon cities, boroughs, villages and municipalities governed by boards of epmmis-. sioners or .improvement commissions. Such, an,absurdity, was obviously not .the legislative intention. ...
+The. separate defense setting-up the one year statute of limitations is sufficient in law and the motion to stribe it is therefore denied. " , , . . , .

@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-06-05"
+citations: ["1 N.J. Misc. 311"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN KEAVEY, PLAINTIFF, v. CHARLES W. RANDALL, INSPECTOR OF BUILDINGS OF THE TOWN OF WEST HOBOKEN, ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/1/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586599
+cites_cases: ["118 U. S. 356", "26 Fed. Rep. 471", "92 N. J. Eq. 505"]
+---
+
+# Keavey v. Randall
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This matter comes before this court on a rule to show cause why a peremptory or alternative writ of mandamus should not be issued to the inspector of buildings of the town-of West Hoboken, commanding him to grant to John Keavy, a permit for the erection of a building on a tract of land owned by Mr. Keavey in the town of West Hoboken. The record shows that Mr. Keavy is the owner of a tract of land at the northwest corner of Palisade avenue and Malone street, in the town of West Hoboken, which has a frontage of seventy-five feet on Palisade avenue and a frontage of one hundred feet on Malone street. On December 20th, 1921, Mr. Keavey made a written application to the inspector of buildings for a permit to erect on said tract of land a one-story brick building, seventy-five feet front and rear, and one hundred feet in depth, to cost $40,000. In the application Mr. Keavey stated that the building was to be occupied as a garage. With the application for a permit complete plans and specifications were filed.
+Under the ordinance of the town of West Hoboken, before any person shall erect any building or structure, he shall first apply for and obtain from the inspector of buildings a permit signed by the said inspector. A supplement to this ordinance provides that the inspector of buildings shall, without unnecessary delay, issue permits for the erection of dwelling houses and other buildings in the town of West Hoboken. Notwithstanding the fact that Mr. Keavey’s application for a permit, with complete plans and specifications, was filed on December 20th, 1921, no permit was issued to Mr. Keavey for upwards of four months. The evidence taken under the rule shows that the reason for this delay, as explained by the building inspector, was that the town council would not allow him to promiscuously give permits for the building of garages. His testimony was “the town council would not allow me to promiscuously give permits for garages for the reason on account of going into certain locations that they felt would not be advisable unless they would be first consulted. They requested me to do that.”
+He further testified that in all cases he was compelled to go before the town council. On February 22d, 1922, the town council voted to deny a garage permit to Mr. Keavey. Mr. Keavey had made no application to the town council for a garage permit. His application was for a building permit. The defendants seek to justify their refusal to pass upon the application of Mr. Keavey by an ordinance passed on May 5th, 1920, entitled “An ordinance to regulate the request and use of garages or parts of other buildings which are used for the storage of automobiles or other motor-driven vehicles.” The seventh section of this ordinance provides as follows: “No building or part of building shall be used as an automobile garage or shelter if the use of any such building or part of building shall materially increase the fire hazard of adjacent property,- nor shall any such building be hereafter converted to such use unless a permit therefor shall have been first obtained from the town council upon blanks provided therefor.”
+If this section be so construed as to require the consent of the town council to the erection of a building, as appears to be the position taken by the defendants, then we think that the ordinance is illegal in that it is discriminatory and does not apply to all persons alike. An ordinance which leaves it within the control of a municipal body to grant some permits and refuse others is invalid. South Orange v. Heller, 92 N. J. Eq. 505; Yick Wo v. Hopkins, 118 U. S. 356; In re Wo Lee, 26 Fed. Rep. 471.
+The defendants also rely in part, as the basis for their refusal, upon a zoning ordinance passed on June 14th, 1922. This ordinance was passed after the application for the permit was made. Section 20 of the ordinance, however, expressly provides that the ordinance shall not apply to plans already filed. We see no legal reason why the building permit asked by Mr. Heavy should not be granted. Since these proceedings have been instituted, a new building inspector, William Weir, has been appointed in the place of Charles W. Eandall, who was the inspector of buildings at the time Mr. Keavey’s application was made.
+A writ of peremptory mandamus will be awarded to Mr. Keavey against William Weir, as inspector of buildings of the town of West Hoboken, commanding him to issue the building permit applied for.

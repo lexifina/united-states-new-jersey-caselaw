@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-10-14"
+citations: ["7 N.J. Misc. 856"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIUS W. CORDTS, ADMINISTRATOR AD PROSEQUENDUM, OF HILDEGARDE CORDTS, DECEASED, v. CLARENCE VANDERBILT."]
+source_url: "https://static.case.law/nj-misc/7/cases/0856-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446720
+cites_cases: ["135 Atl. Rep. 504", "144 Atl. Rep. 322", "47 N. Y. 319", "76 N. J. L. 539"]
+---
+
+# Cordts v. Vanderbilt
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The case arises out of an automobile accident. On Eebruary 3d, 1926, Mrs. Cordts, a young married woman of about thirty-five years of age, with her young son, went in the late afternoon a few blocks to see the old grandmother who lived at Westfield on 'a street called Trenton avenue which runs northeasterly into South avenue. The Cordts family lived on South avenue. It was the middle of winter and there was, or had been, a very severe snow storm. The evidence is contradictory as to whether it was snowing at the time of the accident or had cleared off.
+The streets were well lighted after dark, when the mother and son started back in an easterly direction from the grandmother’s to their own home. There were abont eighteen inches of snow on the gronnd and this had, according to the boy’s testimony, covered what sidewalk there was and left only the roadway to be nsed by pedestrians as well as by vehicles. Presently, the lights of a car were seen and the mother said to the boy that he had better go up on the sidewalk or out of the road quickly because it was coming very fast. lie did the best he could but he was struck, though not seriously injured, and when he collected his senses, he saw his mother lying in the road some feet away and the car some three hundred feet further. The mother was picked up and carried into a neighboring building, and on examination she was found to be dead. The defendant’s story was that it was snowing hard; that he could see no more than two feet ahead, although his windshield wiper was working and his headlights were on; that he did not see the woman nor her son and did not know they were there until he felt a jar. IIis estimate of his own speed was fifteen miles an hour.
+The three reasons argued are—first, that the verdict is against the weight of evidence; secondly, that the plaintiff should have been nonsuited, and third, that the plaintiff did not show that he had suffered any pecuniary loss or injury by reason of the death of his wife.
+We think that the verdict is not against the weight of evidence; and if not, the matter of nonsuit requires no discussion. Counsel argues that, because the night was so stormy, the woman should have remained ‘ on the sidewalk; but the evidence justified the jury in finding that the sidewalk was impracticable because of snow. We agree with plaintiff’s counsel that the defendant’s own testimony convicts him of negligence; for if the physical condition prevented him from seeing what was ahead of him, he was under a duty of greater care commensurate with the increased danger. Ball v. Camden, &c., Railway Co., 76 N. J. L. 539, 541; Anderson v. Public Service Corp., 81 Id. 700; Minarcsik v. Blank, 102 Id. 231, 234; Osbun v. DeYoung, 99 Id. 204; Hammond v. Morrison, 90 Id. 15; Devine v. Chester, 144 Atl. Rep. 322; 7 N. J. Mis. R. 131. As to contributory negligence, it was clearly a jury question, and we take no exception to their finding, as they must found, that none had been satisfactorily shown.
+The last reason argued is that the plaintiff did not show that he suffered any pecuniary loss or injury by reason of his wife’s death. Under this head the argument is that “there should have been no damages allowed.” We are therefore not concerned with the excessiveness or otherwise of the verdict, but only with the question whether a substantial verdict can be supported. There was no evidence of pecuniary loss in figures. The claim of plaintiff as husband, recognized by the amendment of 1913 to the Death act (Pamph. L., p. 586), must he based in large measure on her services as housekeeper in his home, and for which he must pay in case of her death, unless he should remarry. It was held in New York that the damage in case of a young child need not be proved in figures. Ihl v. Forty-Second Street, &c., Railroad Co., 47 N. Y. 319. See, also, 17 C. J. 1352. This proposition may not have been formulated in our decisions, hut must have been applied in a number of them, as e. g., Smiley v. Reid Ice Cream Co., 135 Atl. Rep. 504; Fleming v. Lobel, 59 Id. 27; Maggio v. Flusser, 67 Id. 932. The death of a wife and mother where as in this case, she seems to have been the working home member of the family, reasonably connotes a substantial pecuniary injury. Hence we conclude that a substantial verdict was justifiable.
+The rule will be discharged.

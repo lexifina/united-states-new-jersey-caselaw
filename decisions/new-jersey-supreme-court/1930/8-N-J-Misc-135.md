@@ -1,0 +1,34 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1930-02-26"
+citations: ["8 N.J. Misc. 135"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSE NAPLES, INCORPORATED, PLAINTIFF, v. GREAT NOTCH DEVELOPMENT COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/8/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426656
+---
+
+# Jose Naples, Inc. v. Great Notch Development Co.
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+There was a verdict in the Passaic Circuit in favor of the plaintiff against the defendant for $6,629.45. The action was brought to recover the amount certified by the engineer, to be due plaintiff from the defendant for work done by the former, pursuant to an original and supplemental contract between the parties, concerning the construction of a sewer system on defendant’s property, at Great Notch, New Jersey.
+A reading of the testimony clearly indicates that the controversy between the parties, and the theory on which the cause was presented to court, by counsel, was confined to the question whether the sewer was built substantially water-tight, and not whether there had been a strict and complete compliance with the terms of the contract.
+It appears from the evidence that on the 29th day of December, 1927, the engineer, for the defendant company, and in charge of the work for the said company, gave a certificate to the plaintiff, from which it appears that there was due to the plaintiff $6,724.11. The verdict was for the sum of $6,354.11 with interest of $275.34, making a total of $6,629.45. This deduction apparently was due to the fact that it appeared there had been an omission on part of the plaintiff to construct two manholes at $85 each and also of its failure to comply with that part of the contract which required it to replace the macadam, the cost of which was estimated at $200.
+The first reason, presented in the brief of counsel of defendant for a new trial, is, that on the issue of substantial performance the verdict was against the clear weight of the evidence. A fair reading of the testimony leads us to the conclusion that the finding of the jury, that there was a substantial performance of the contract, was warranted by the evidence.
+The main ground upon which counsel of defendant bases his contention that there was no substantial performance of the contract, is, that the sewer was not so constructed as to be literally water-tight.
+According to the testimony of expert engineers, it appears that the term "water-tight sewer” did not demand a strictly water-tight sewer; it did not demand that the sewer be absolutely free from water, and that even if three inches of water collected in the pipes that circumstance would not be considered that it was a sewer not water-tight, but that some water might be anticipated in a water-tight sewer.
+In a colloquy between court and defendant’s counsel concerning the term "water-tight” the latter said: "I might concede for the purpose of argument that the contract does not mean an absolutely water-tight job; but on the other hand, I presume also that there are certain practices and certain standards set by the engineering profession as to what shall constitute a water-tight job, within the meaning of that term. Now, it does not appear that this witness is familiar with that engineering standard, or that there is one, if there is one.” The court: “My notion is that you may be right. But the issue in this case is not whether there is a small quantity ol water in these pipes, an inch or hall an inch, but whether there is not a considerable amount of water.” To this counsel of defendant excepted.
+The trial judge submitted the question to the jury and we think properly so, whether there was an excessive amount of water remaining in the sewer beyond that which good engineering practice would require, and as has already been said, there was testimony from which the jury might have properly found that the sewer was water-tight in the sense as adopted by practical and expert enginers, and, hence, determined the case against the defendant’s contention.
+We do not think there was any error in the admission by the trial judge of testimony tending to show that water in the sewer would not interfere with its proper working facilities, for that character of testimony appears to be germane as to whether or not the presence of a small quantity of water rendered the sewer non-water-tight to the extent that it interfered wiih its proper working facilities. We do not think there was any error committed by the trial judge, in accepting the meaning of the term “water-tight” as applied to sewers, in the engineering profession, of the character in controversy..
+It is further urged on behalf of defendant, that the plaintiff failed to prove a condition precedent to its right to recover, namely, the issuance of a valid certificate by the engineer. We think this statement is founded upon captious criticism.
+While it is true, that the certificate does not show on its face in words at length, that the work was done to the satisfaction of the engineer, which circumstance is alleged to be a requirement of the contract, the fact that the engineer gave the certificate to the complainant, expresses a satisfaction by him of the work done, by actual deed. The engineer was the defendant’s engineer, and his act was the act of his employer. His satisfaction of the work done was the satisfaction of the company, his employer.
+It is further said that the certificate of the engineer was incorrect, and, therefore, cannot be made the basis, of a recovery by the plaintiff, because it was never approved by the defendant. There is a clause in the contract, “that the engineer shall determine the intention and requirements of the plans and specifications, the quality of the material to be used, the manner of performing the work contemplated, and the character of and the amount of work to be paid for, and that the engineer’s decision shall be final and conclusive.”
+Another clause in the contract provides: “Payments will be made on certificate of the engineer on completion of the work, to the satisfaction of the company and engineer, for the total cost of the work done, less five per cent, hereinafter provided for.”
+The testimony discloses that the defendant’s engineer testified that he issued the certificate in good faith. An examination of the defendant’s answer and of the testimony adduced in the cause fails to disclose any charge in the answer, or in the evidence, that the engineer in giving the certificate to the plaintiff had acted fraudulently or in bad faith.
+Lastly, it is argued that the verdict is excessive. We find no merit in this contention.
+The rule to show cause is discharged, with costs.

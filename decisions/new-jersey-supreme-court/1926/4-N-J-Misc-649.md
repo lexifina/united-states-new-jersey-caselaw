@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1926-05-04"
+citations: ["4 N.J. Misc. 649"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES R. NUGENT, PROSECUTOR, v. JOHN H. SCOTT ET AL., RESPONDENTS. JAMES R. NUGENT, PROSECUTOR, v. STUART LINDSLEY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/4/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 583864
+cites_cases: ["87 N. J. L. 562"]
+---
+
+# Nugent v. Scott
+
+## Majority (Per Curiajyi-.)
+
+Per Curiajyi-.
+Each of the above cases brings up to this court for review a deed made by the comptroller of the city of Newark to Elorence E. Cahill as the result of a sale of land for delinquent taxes, and the proceedings preliminary and subsequent to the sale from which the execution of the deed resulted.
+The premises in each of the cases were sold by the compr troiler of the city of Newark at a public sale of lands for unpaid taxes, held May 28th, 1906, under the provisions of the statute commonly known and referred to as the “Martin act” (Pamph. L. 1886, p. 149) and the supplements and amendments thereto. Each tract was purchased at the saie by Florence E. Cahill. The purchaser received a certificate of sale for each of the premises. These certificates were duly acknowledged and delivered by the comptroller. Each bears date May 28th, 1906.’ About November 7th, 1907, the said Florence E. Cahill filed two petitions in the Circuit Court of Essex county pursuant to the statute praying for orders directing the comptroller to execute tax deeds to her for the premises. Upon these petitions proceedings were taken resulting in the making of two orders by the Circuit Court, dated December .19th, 1908, directing the comptroller of the city of Newark to make, execute and deliver to the said Florence E. Cahill, and her heirs and assigns forever, a deed for each of the tracts. On January 28th, 1909, the comptroller executed and delivered the two deeds bearing date on that day. They were both recorded on February 9th, 1909. On January 28th, 1909, the said Florence E. Cahill and her husband executed a deed conveying the two tracts in question with other lands to Stewart Lindsley, one of the respondents.
+The prosecutor of'the writs of certiorari claims the premises in the first case under a deed from Christian M. May and husband, dated April 30th, 1925. In the second of the above cases the prosecutor claims an undivided interest in the premises by virtue of a deed made by Hattie Condit Smith and husband, dated June 21st, 1922. Between the date of the deeds made by the comptroller of the city of Newark to the said Florence E. Cahill and the date of the allowance of. the writs of certiorari in the above cases over sixteen years elapsed. The proceedings taken by Florence E. Cahill were under the authority of the case of Jacobus v. Cahill, 87 N. J. L. 562, invalid, because the premises were not described by metes and bounds in the proceedings had to acquire the deeds from the comptroller.
+The question, however, involved in this case is whether or not, after a lapse of sixteen years, proceedings taken under tax sales can be questioned. We think not. In our opinion the writs were improvidently granted. Our reasons for this view are that under the Martin act it is expressly stipulated that no writ oí certiorari shall be allowed after the expiration of two years from the date of the execution of a deed made under the act. At the time the deeds of the comptroller of the city of Newark were delivered the statute concerning writs of certiorari provided that no writ of certiorari should be allowed to review any sale of land to enforce any assessment or tax unless such writ was allowed within three years of the date of the sale. By an amendment to this act (Pampk. L. 1915, p. 580) the time within which writs might issue was limited to eighteen months. The prosecutor contends that the 1925 amendment (Pamph. L. 1925, p. 77) of section 14 of the act relative to writs of certiorari permits the present proceedings. This subject has been considered in a ease between the same parties decided on May 4th, 1926, and reported in 4 N. J. Mis. R. 504. In this case it was held that the amendment of 1925 was not retroactive and did not warrant a proceeding of this character. In that case the writ was dismissed as having been improvidently issued. Eor the same reason the writs in the two cases above mentioned will be dismissed as having been improvidently issued, with costs.

@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-04-15"
+citations: ["10 N.J. Misc. 561"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FAUN L. WALLACH, PLAINTIFF, v. JAMES R. HENSLER, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/10/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739361
+cites_cases: ["103 N. J. L. 604"]
+---
+
+# Wallach v. Hensler
+
+## Majority (Lawrence, C. C J.)
+
+Lawrence, C. C J.
+This was an accident ease tried before me and a jury at the Ocean Circuit. Plaintiff has a verdict for $7,400, and defendant took out the present rule and argues for a new trial on several grounds, chiefly, that it was against the weight of the evidence, contrary to law and the charge of the court; that it should be set aside on newly discovered evidence, based upon the claim that plaintiff withheld from the court and jury, in representing that the permanency of her injury was due to the accident in question, the fact that it resulted from another received several months later; and finally that the sum awarded is excessive.
+It appeared that on December 24th, 1930, plaintiff came out of a building (owned by defendant) where she was employed and slipped on some ice which had formed on the sidewalk, alleged by her to have been due to water freezing after it had escaped from a disconnected or broken drain pipe attached to the structure. The claim was that the pipe had negligently been allowed to remain in the condition stated for so long a time that knowledge thereof was impliedly, if not expressly, chargeable to defendant, since his agent had undertaken the duty of inspecting the building from time to time and that his failure to discover the condition of the pipe which had existed for sometime was due to his negligence. In view of the evidence offered at the trial, the jury could have found, as they apparently did, that this was so. In falling, plaintiff claimed that she had received a head injury, a slight concussion, and a compound fracture of her right arm near the elbow; that she was thereafter incapacitated and had been unable to work at her accustomed employment in a beauty shop for over a year, by reason of the injured arm, which became infected and required two or more operations, ultimately resulting in the removal of dead bone, ■which caused a permanent stiffness and loss of function at the elbow joint. Her medical, surgical and hospital expenses were said to have approximated $2,400, and her loss of earnings $5,000. In estimating her damages, the jury apparently included no compensation for the injury and the attendant pain and suffering.
+The theory upon which the case was submitted to the jury, under the evidence, was predicated on the rule laid down in Zwicki v. Broadway Theatre Co., 103 N. J. L. 604, and it cannot be said that the verdict was so clearly against the weight of the evidence on the issue of negligence as to warrant setting it aside. The so-called newly discovered evidence turned upon the question as to whether plaintiff had had a second fall after the one which gave rise to this suit and had fractured her arm in the former rather than the latter. This comprehended a re-examination of one of the surgeons who had attended her and who had appeared as a witness at the trial. The new examination, however, disclosed no real variation from that recorded, with the result that there was no such proof as is required under the rule relating to newly discovered evidence. The other grounds suggested for a new trial have been examined and found without substance, excepting as to the amount of the damages awarded.
+The complaint that the sum assessed is excessive appears to be justified. Under the proofs, it was not at all clear that the medical, surgical and hospital expenses aggregating the amount stated and also that claimed for loss of earnings were supported thereby. The evidence offered at the trial suggested, indeed, some doubt as to whether plaintiff was required or expected to assume the obligation for any such sum as $2,400, for medical, surgical and hospital care and treatment, while her own testimony as to her loss of earnings was not of a convincing nature, in that it lacked comprehensive corroboration. The jury appears, however, to have accepted the stated figures, and ignored the claim as to compensation for the injury, plus pain and suffering.
+A review of the evidence leads to the conclusion that a fair and reasonable award compensatory for the injury, pain and suffering, surgical and medical care, hospitalization, and plaintiff’s loss of earnings should not have exceeded $5,750. If she consents to accept this sum, the rule to show cause will be discharged, otherwise it will be made absolute as to damages only.

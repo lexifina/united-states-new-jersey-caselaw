@@ -1,0 +1,27 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1939-11-02"
+citations: ["17 N.J. Misc. 346"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ACQUISITION OF THE LAND AND PROPERTY OF CANDA REALTY COMPANY, SITUATE IN THE BOROUGH OF CARTERET, COUNTY OF MIDDLESEX, STATE OF NEW JERSEY, IN WHICH THE BOROUGH OF CARTERET, JOHN MEDVITS AND THE AMERICAN OIL COMPANY CLAIM SOME INTEREST, ON PETITION OF THE CENTRAL RAILROAD COMPANY OF NEW JERSEY."]
+source_url: "https://static.case.law/nj-misc/17/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 431841
+cites_cases: ["112 N. J. L. 243", "18 N. J. L. J. 342", "49 N. J. L. J. 142"]
+---
+
+# In re the Acquisition of the Land & Property of Canda Realty Co.
+
+## Majority (Case, J.)
+
+Case, J.
+The Central Railroad Company pursued the procedure set up in the Eminent Domain act (R. S. 20:1-1, et seq.) to condemn certain real estate of the Canda Realty-Company. The proceedings moved regularly to the filing by the commissioners of their report. The owner has taken an appeal from the award; and with that we are not concerned. The owner now applies for an order directing the petitioner in condemnation to pay the owner’s costs, counsel fees, expenses and disbursements incurred in, and in preparation for, the submitting of proofs to the commissioners. The application is rested upon two provisions of the Eminent Domain act (R. S. 20:1-14 and 20:1-30), and also the Eees and Costs act (R. S. 2:27-378).
+R. S. 20 :1-30 may be quickly disposed of. It relates only to an abandonment of the condemnation, and there has been no abandonment either in whole or in part.
+R. S. 20 :1-14 likewise, in my opinion, is inapplicable. It provides that “the justice of the Supreme Court * * * shall, upon application of either party on reasonable notice, tax and allow such costs, fees and expenses of the commissioners, clerks and other persons performing any of the duties prescribed in section 20:1-1 to 20:1-13 of this title as he shall think proper, which shall be paid by the petitioner.” Eone of the charges for which the owner seeks an allowance is on behalf of a commissioner, clerk or other person performing any duty prescribed in those sections of the statute which precede 20:1-14. The statute further, at 20:1-25, in dealing with the situation which exists when an appeal has been taken and the jury has found an amount to be due, provides that “the persons entitled to receive payment of the amount found by the jury may have execution therefor, and shall also be entitled to the same lien and remedies as are provided in section 20:1-13 of this title for the collection of awards of commissioners;” the provision, it will be observed, conspicuously omits the fourteenth section supra. In Matter of Bay Creek Railway Co., 18 N. J. L. J. 342, Mr. Justice Lippincott, construing a portion of section 100 of the act respecting railroads and canals, Revision page 909 (at page 929), from which section 14, supra, is taken almost verbatim (indirectly through section 7 of chapter 53, Pamph. L. 1900, as amended by chapter 365, section 6, Pamph. L. 1931), said:
+“I think it is also clear under the statute that the justice of the Supreme Court has no power to tax or allow any costs, fees or expenses under the one hundredth section of the act until an award has been made and filed in accordance with the statute, and then they can only be taxed and allowed to the persons named in that section as performing some of the duties prescribed by that section.
+“I think it is clear that under no circumstances can the justice of the Supreme Court tax and allow for services of counsel and attorney of the landowner; or expenses to the landowner incurred in the presentation of the question of value and damages in behalf of the landowners.”
+My attention is called to a condemnation proceeding had in 1918 before Chief Justice Gummere on the application of United New Jersey Kailroad and Canal Company to acquire an interest in the lands or easements of Fidelity Trust Company as administrator, &c., wherein, after several hearings by the commissioners and after much time had been given to the case, the chief justice, on the. application of the railroad company, amended the petition for condemnation so as to permit the taking of only a fractional part of the property — of much less value — demanded in the original petition. Incidental to that order the chief justice directed the taxation and allowance of costs, counsel fees, expenses and disbursements up to that time the same to be paid by the United Eailroad and Canal Company to the owner of the property. That determination, I think, is not relevant to the present issue. It was an allowance obviously made on the basis of a pro tanto abandonment of the proceedings and came within section 15, chapter 53, Pamph. L. 1900, amended by chapter 69, Pamph. L. 1906, re-enacted in part as section 30, supra.
+It was considered by Mr. Justice Parker in In re Jersey City Condemnation Proceedings, 49 N. J. L. J. 142, that the Pees and Costs acts do not relate to proceedings under the Eminent Domain act. R. S. 2:27-378 does not, I think, apply.
+The right to costs depends upon statutory authority. Igoe Bros. v. National Surety Co., 112 N. J. L. 243, 251. NTone has been shown. The application will, therefore, be denied.

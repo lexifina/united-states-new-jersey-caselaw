@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-02-28"
+citations: ["1 N.J. Misc. 110"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOMENICO MAURIELLO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. GUISEPPI SARTEMINO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. LORENZO ROTUNDO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. FRANCISCO FIOISCO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. FELIX ALBANO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. SEBASTIANO ESPOSITO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. SERAPINO EANNI, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. GRAZIA DERVICO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. MICHAEL MESITI, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS. RALPH TOSSO, RESPONDENT-PLAINTIFF, v. FRANK MAZZARO AND SAM CIARDI, APPELLANTS-DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/1/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586642
+cites_cases: ["116 N.E. Rep. 914", "229 Mass. 467"]
+---
+
+# Mauriello v. Mazzaro
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+There are ten separate cases brought by1 the plaintiffs against same defendants to recover money had and received, and were all tried together.
+The claim of the plaintiffs is that they agreed to purchase grapes from defendants by separate contracts, and paid the money on defendants’ promise to deliver, which was never performed. The defence was that it was a joint enterprise and as there was a loss each must bear a proportionate share. What defendant testified to was that it was proposed to buy a carload of grapes in boxes, and that before doing so each plaintiff made a separate arrangement with defendants to take a certain quantity, to be paid for in advance, and having contracts for different amounts sufficient to make a carload, it was ordered, but defendants refused to accept delivery because the grapes were not of the quality ordered from the seller, and were sold by carrier for freight, leaving a surplus.
+The points argued are (a) that the ruling of the court that it would not allow each defendant six challenges was error. No foundation was laid for appeal on this ground. At the opening of the case a question was raised and discussed as to number of challenges, and the court said it would only allow six, not six to each defendant, but no challenges were made and the court was never required to pass on the concrete question; (b) court refused to nonsuit although the money' was paid on Sunday by all the plaintiffs, except two. One plaintiff ordered fifty boxes on Saturday, but'was told he must pay the money and he gave it on Sunday. Another ordered and paid Sunday night. Others ordered or paid, on Sunday, in whole or part, the balance being paid on a week day. They were all Sunday contracts except those with Albano and Tosso, and not subject to ratification. The trial court was wrong when it held that they were not Sunday contracts because the actions were for money had and received. The contracts were made on Sunday, except those of Albano and Tosso, and the money was paid on contracts which the law will not aid to enforce. The next point is error in charge. The plaintiffs brought suit to recover for money had and received and made out their case when they proved the contract and payment. The defendant undertook to meet this proof of a joint enterprise and the court charged that the burden of this" was on defendant. This was not error. The defence was the setting up by defendants of a new contract which they were bound to establish by a preponderance of proof.
+“The proof upon both sides applies to the affirmation or negative of one or the same issue or proportion of fact, and the party whose case requires the proof of that fact has all along the burden of proof. It does not shift though the weight in either scale may at times preponderate.” Hughes v. Williams, 229 Mass. 467; 116 N.E. Rep. 914. As the court was in error about the Sunday contracts, all the judgments except those in favor of Albano and Tosso should be reversed and those should be affirmed. Other matters were argued but the error of the trial court on the question of the Sunday law was so injurious to the other defendants that it is not necessary to consider them. The judgments in all the cases except those in favor of Albano and Tosso, which are affirmed, will be reversed.

@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-12-08"
+citations: ["9 N.J. Misc. 1331"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["S. S. THOMPSON & COMPANY, INCORPORATED, PLAINTIFF, v. ELMER W. STRAUB ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/1331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735898
+---
+
+# S. S. Thompson & Co. v. Straub
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This suit was brought by the plaintiff corporation to recover from the defendants ten cents per cubic yard for soil -deposited upon the lands of the latter by the firm of Eournier Brothers. The claim’ of the plaintiff was that fifty-eight thousand one hundred and sixty-two cubic yards of soil had been ’deposited upon the defendants’ lands, and that the plaintiff was entitled to recover therefor the sum of ten cents per cubic yard. The defendants denied any obligation to pay for any part of the soil so deposited. The jury returned a verdict in favor of the plaintiff, awarding it the sum of $2,900. The defendants seek to have this award set aside upon the ground that it is contrary to the great weight of the evidence.
+The situation exhibited by the proofs was as follows: The plaintiff corporation had entered into a contract with the state highway commission to construct a drawbridge over the Matawan creek, near the town of Keyport. It subcontracted the necessary dredging to Eournier Brothers. After the soil had been dredged by the subcontractors, they agreed with the defendants that they would deposit this soil on the lands of the latter, if they desired such deposit to be made, at the price of ten cents per cubic yard. In making this agrément, they were acting on behalf of the plaintiff, who controlled the excavated soil and was entitled to use the same as it saw fit-The agreement between Fournier Brothers and the defendants provided that the defendants should exercise their option within thirty days threafter, and, if they concluded to purchase the excavated soil, they should pay the agreed upon price in installments of thirty days, the amount of the deposits to be determined by measurements of the engineers of the state highway commission. The proofs submitted on the part of the plaintiff showed that this soil to the extent indicated had been deposited upon the lands of the defendants, but that no measurements of the amount of the deposits-during each month were furnished the defendants because of the delay of the engineers of the state highway commission in ascertaining the amounts of such deposits, and that, consequently, no payments therefor had been made by the defendants on account of the contract. The proofs further showed that these deposits were made with the knowledge of' the defendants and upon that part of their lands which they selected, and that they never objected in any way to this being-done, but by implication consented to it. The defendants, by the testimony submitted on their behalf, denied any knowledge of the making of these deposits or of the amount thereof,, and claimed that, because of this fact, they were under m> obligation to pay either ten cents per cubic yard or any other-sum for the soil deposited with their knowledge on their lands.
+The court left it to the jury to determine whether or not this soil was deposited by Fournier Brothers from time to-time on the defendants’ lands, with the knowledge of the-latter and without any objection by them, and by its verdict it resolved this question in favor of the plaintiff. We think the testimony justified the jury in so concluding. This being-so, and the total amount of soil specified in the complaint having been actually deposited on the defendants’ lands, as-their counsel admits in his brief, the fact that no measurement was made by the engineers of the state highway commission and no report of the amount of the deposit furnished to the defendants does not, in our opinion, absolve them from liability to pay the price agreed upon for the amount of soil .-actually deposited. The jury awarded the plaintiff a less .amount than the contract called for, and, certainly, in doing this, it cannot be said that the defendants were injured.
+Counsel further argues that the verdict is contrary to the law and in violation of the court’s charge. This, however, is not set out as a reason for making the rule absolute, and, consequently, is a matter not involved in the determination •of the present rule.
+Our conclusion is that the rule to show cause should be 'discharged.

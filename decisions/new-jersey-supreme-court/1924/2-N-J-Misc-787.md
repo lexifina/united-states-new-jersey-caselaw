@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1924-07-15"
+citations: ["2 N.J. Misc. 787"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["POWER AND CHEMICAL EQUIPMENT COMPANY, A CORPORATION, PLAINTIFF-APPELLEE. v. GUSTAV GRODENSKY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/2/cases/0787-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 722604
+cites_cases: ["119 Atl. Rep. 97", "90 N. J. L. 704"]
+---
+
+# Power & Chemical Equipment Co. v. Grodensky
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The defendant below appeals from a judgment of $400 rendered by the Perth Amboy District Court. The action was instituted to recover damages for the breach of a contract for the-sale of a boiler. The state of the case settled by the parties, through their respective attornej'S, shows that on August 21st, 1923, one Edward D. Grasso called at the place- of business of the defendant and claimed to have purchased a certain boiler, owned by defendant, for $200; that it was agreed that the plaintiff was to send the defendant a check therefor not later than August 23d, 1923, and that the defendant was to retain possession of the boiler until paid for. The check was sent within the time agreed upon and was returned by the defendant, who had sold, on August 22d, 1923, the boiler to the Kimberly Phonograph Company for $325. The plaintiff subsequently bought the same boiler from the Kimberly company for $600. The defendant testified that the boiler was to be paid for on the afternoon of the day of purchase, August 21st, 1923. This testimony presented a disputed question of fact. The District Court found that the defendant did sell the boiler to the plaintiff for $200; that the check was sent, and that no stipulation was made to the effect that in the event of the failure of the plaintiff to pay for the boiler on the afternoon of August 21st, 1921, the contract should not be binding. The court also found as a fact that the mrket value of the boiler on the day of purchase was $000. The state of the case reveals but one exception, which was entered to the admission of a receipt for the purchase of the boiler given by the Kimberly company to the plaintiff. This is not one of the ten specifications of the determinations of the District Court with which the appellant is dissatisfied. Of the ten grounds of appeal there is not one which is based upon any exception to the findings of tire District Court or to the rulings of the District Court upon points of law or upon the admission or rejection ^of evidence. They all deal with the findings of fact made by the District Court. It is well settled that, upon an appeal from a judgment of the District Court, this court will not review the findings of fact made by the District Court, beyond ascertaining whether or not there was evidence to support such findings. Resky v. Meyer, 119 Atl. Rep. 97; Loveland v. McKeever Bros., 90 N. J. L. 704. The appeal is confined to questions of law. Pratt v. Union National Bank, 81 Id. 588.
+The first point argued by the appellant is to the effect that there was no mutuality in the contract, _and that there was a mistaken identity of tire party contracting with the defendant. The question as to whether or not there was mutuality in the contract was not raised in the court below. There is therefore no ruling of the District Court upon this question which can be considered in this court. On the question of tire so-called mistaken identity of the plaintiff, the contention is that Grasso did not inform tire- defendant that he was acting for the plaintiff, the Power and Chemical Equipment Company. The District Court, in effect, found as a fact that Grasso was acting as the agent of the plaintiff. There was evidence which justified this finding. .Grasso so testified. This finding of fact will therefore not be disturbed, as there was evidence to support it.
+The second point argued upon the appellant’s brief is that negotiations only were had between the parties. This is, in effect, an attempt to revise a finding of fact made by the lower court, as the court found that the plaintiff and defendant had (altered into an agreement for the purchase of the boiler. Under the evidence this finding will not be disturbed.
+The third and' last contention briefed is that the court found the market value of the boiler without evidence. There was evidence of market value. The boiler had been sold twice, as appeared by the state of the case, subsequent to the purchase by the plaintiff. The amounts it brought at these sales was some evidence of value. It was sufficient evidence upon which to base the finding of value made by the District Court. We find this contention of the appellant without merit.
+The judgment of the District Court, is affirmed, with costs.

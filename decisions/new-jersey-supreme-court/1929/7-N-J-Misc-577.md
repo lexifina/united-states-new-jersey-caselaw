@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-06-21"
+citations: ["7 N.J. Misc. 577"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDWARD W. SMITH ET AL., PARTNERS, ETC., PLAINTIFF, v. ERIE RAILROAD COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/7/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446753
+---
+
+# Smith v. Erie Railroad
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Thomas Smith, a member of the firm of Smith & Sons, the present plaintiffs, who are engaged in the trucking business, was called np by the Pittsburgh Plate Glass Company, and requested to bring one of the firm’s trucks to the plant yard of that company, located in Newark, for the purpose o£ having a load of paint put on it and taken to destination. In response to this request, Smith brought one of the plaintiff’s trucks to one of the loading platforms in the yard of the Pittsburgh Plate Glass Company, where in due course it was loaded with paint; and he then started to drive out of the plant yard through a gate in the fence, which was the only means of access to an egress from it. The defendant company had constructed a track through the Pittsburgh Glass Company’s plant yard and ran cars over it. The plaintiffs’ truck, in order to get from the platform where it was loaded, to the gate, had to be driven across the defendant’s track. While this was being done the truck was struck by a train of the defendant, which was being moved over the track, and was greatly damaged by the collision. The present suit was instituted to recover compensation for this damage.
+Thomas Smith, the driver of the truck, testified that as he approached the track he received no warning of the approach of the train; that he could not see it as it approached, on account of the buildings in the yard, until it was within approximately thirty-five feet of the point where he was crossing, and that it did not come within his view until he arrived at that point; that when he saw it he was partly over the track, and that before he could clear the track, the truck being some twenty-five feet long, the collision occurred. The trial resulted in a verdict in favor of the plaintiff, the amount of the award being $1,675.
+The first ground upon which-we are asked to set this verdict aside is that the trial judge failed to point out what the standard of action or conduct of the defendant was from which the jury might infer negligence. This contention seems to us to be without merit. The court, after referring to the testimony in the case, stated that both parties had a right to be where thejr were, but that, in the operation of the cars and of the truck, the operator of each was bound to use reasonable care not to inflict injury upon the other, or upon the property in charge of the other. The court further instructed the jury that the plaintiffs, in order to recover, must prove that the persons in charge of the defendant company’s cars did not use reasonable care to prevent the collision; and also that it must appear that the collision was solely their fault and was not contributed to by the driver of the plaintiff’s truck. In our opinion, this instruction was all that the defendant was entitled to, fully covered the matters specified in this reason for setting the verdict aside.
+It is further contended that the verdict was against the clear weight of the evidence upon the issues of the defendant’s negligence and the plaintiffs’ contributory negligence. Our examination of the proofs satisfies ns that this contention is also without merit. As has already been indicated, the drive]1 of the plaintiffs’ truck testified that he was unable to see the defendant’s train as he was approaching the track, and that it did not appear within his vision, because of the obstructions to sight already indicated, until his truck had actually started across the track. The jury had a right to accept his testimony as a true statement of the conditions under which the accident occurred, and, having done so, they were justified in finding that he was not guilty of negligence contributing to the accident. They were also justified in finding that, if the employes operating the cars of the defendant company failed to give any warning of their approach, as plaintiffs’ driver tetsified, that was negligence on their part which was the sole cause of the accident.
+These are the only questions argued before us, and we conclude that the rule to show cause should be discharged.

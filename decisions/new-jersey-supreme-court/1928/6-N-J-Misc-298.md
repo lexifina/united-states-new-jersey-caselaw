@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-03-13"
+citations: ["6 N.J. Misc. 298"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELLA PETERSEN ET AL., PLAINTIFFS, v. THOMAS E. HUMPHREYS AND PETER ACKERMAN, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/6/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732662
+---
+
+# Petersen v. Humphreys
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiffs, while riding in a car belonging to the defendant Humphreys and operated by him, were injured by the car running off the road and colliding with a building. Their claim is that this accident was the result of the joint negligence of Humphreys in driving his car and of one Ackerman, who was driving his car in the opposite direction. The trial resulted in a verdict in favor of Mrs. Petersen for $500 against the defendant Ackerman, nothing being awarded to her husband. The jury also found in favor of the defendant Humphreys as against each of the plaintiffs.
+The plaintiffs obtained a rule to show cause why the verdict in favor of the defendant Humphreys should not be set aside, and the defendant Ackerman obtained a rule based upon the statement that he was absent at the trial, as well as his attorney and witnesses, because of the fact that counsel for the plaintiffs had failed to notify his attorney when the case came on to be tried, notwithstanding his promise to do so, and that he, Ackerman, had a good and legal defense to the action.
+The plaintiffs5 principal contention before us is that the rule against Humphreys should be made absolute because, if Ackerman had been present, they could have shown that Humphreys was, to some extentvat least, responsible for the accident. Assuming this to be so, it affords no ground for setting aside the verdict. They saw fit to move the ease in the absence of Ackerman. If they had desired his presence and his testimony, they should have asked for a postponement, and refusal to move the case when it was called. They saw fit to take the chance of proving their claim against both of the defendants, and, having done this, they must abide the result of their action.
+We find nothing of merit in the other reasons upon which we are asked to set aside the verdict rendered in favor of Humphreys.
+As to the Ackerman rule: Even if it be assumed that his absence at the trial was due to the reason indicated, he is not entitled to have the verdict against him set aside unless it is shown that he has a valid defense. Warren v. Dilks, 3 N. J. Mis. R. 1232; Dingfield v. McGackin, 4 Id. 117. His attorney swears that he has, and an agent of the insurance company who carried insurance for him also says so. They, however, do not disclose that the defense is, and, consequently, w.e cannot say that a legal defense exists. Counsel suggests that we look at the testimony taken at the trial and determine from it whether or not Ackerman had a valid defense. The jury heard the testimony, and determined that he had not, on the evidence then submitted to it, and we see no reason for dissenting from the finding of the jury in that regard.
+Eor the reasons indicated, both rules to show cause will be discharged.

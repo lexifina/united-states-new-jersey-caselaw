@@ -1,0 +1,34 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-03-26"
+citations: ["3 N.J. Misc. 329"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA MANNING, RELATOR, v. FRANK HAGUE ET AL., BOARD OF COMMISSIONERS OF JERSEY CITY, AND JOHN SAUL, SUPERINTENDENT OF BUILDINGS OF JERSEY CITY, RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/3/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439478
+---
+
+# Manning v. Hague
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+The relator is the owner of property known as 107 Tonnele avenue, Jersey City. The building thereon is a two-story frame dwelling-house, which relator desires to alter and coni vert into a store on the first floor and living apartments above. Having made an application for a permit to make such alterations, and the same below denied, she has obtained a rule to show cause why an alternative or peremptory writ of mandamus should not issue to compel the issuance of such permit to her.
+The relator employed one George Flagg, an architect, to* prepare sketches of the proposed alterations, and make the necessary application for a building permit. He testifies he prepared three applications, with sketches, and filed the same with the zoning commission, the commission of buildings and restrictions. That these applications were later returned to him stamped “rejected under section 2, October 6th, 1924, II. A. Lewis, secretary.” Said Lewis was secretary of the zoning board. Elagg further testified that thereafter he filed two other applications with the building department “which was intended to go before the commissioners at their regular meeting.” That, subsequently, upon inquiry, he was advised such application was rejected, and that thereafter Elagg and counsel for relator appeared before the board of commissioners of Jersey City, and the matter was there presented and argued, and the action of the building department upheld.
+The contention' of respondents is that the applications above referred to and testified to were made first to the zoning commission and rejected because relator sought to convert her building into a commercial use in a residential district in violation of the zoning ordinance, and, second, an appeal was taken from this action of the zoning commission to the board of commissioners, and the action of the zoning board was sustained. That no application was ever made to the building department as required by an ordinance entitled “An ordinance to amend an ordinance entitled ‘The Building Code/” passed September 17th, 1907, and approved October 1st, 1907.
+In support of this Thomas Duff, custodian of the records of the building department, testifies that the files of the department contain no such application for the premises in* question.
+It appears, therefore, that application was made to the zoning, commission and refused, and appeal therefrom to the board of commissioners resulted in an affirmance of such refusal.
+If these were all the matters requiring our consideration It might well be that the situation would be controlled by Ignaciunas v. Risley, 2 N. J. Adv. R. 852.
+But we have the amendment to the building code above referred to. This recites that “by reason of. the use of frame buildings for mercantile and commercial purposes * * * fire hazard in Jersey City has increased, and it has been determined by, and is, the opinion of the board of commissioners that the use of frame buildings for all purposes other than residences and living apartments shall be discontinued so as to minimize the danger of damage by fire.”
+Section 2 of the ordinance provides: “No existing frame building or any part of same now used as a residence or living apartment shall hereafter be converted to any other use unless a permit therefor shall be obtained in the manner hereinafter stated.”
+Section 3. “Any extensions or additions hereafter erected to any such building shall not be used for any other purpose than a residence or living apartment, unless a permit therefor shall bo obtained in the manner hereinafter stated.”
+Section I then provides that when a permit is desired under any of the foregoing sections, application therefor by petition in duplicate shall be filed with the superintendent of buildings, stating generally what is proposed to be done with such building and the use to which it is to be put. Such petition shall be accompanied by a sketch or blue print in triplicate showing height and size of buildings proposed to be constructed or altered.
+The superintendent of buildings is thereupon required to cause an investigation to be made of the nature and character of adjoining buildings, of the buildings in the neighborhood and the nses to which snch buildings arc being put. The result of such investigation shall be put In writing and filed with the board of commissioners together with a copy of the application and a copy of the sketch or drawing. The city clerk shall thereupon publish notice of a hearing of the board of commissioners upon such application.
+Upon such hearing the application shall be either approved or disapproved. If approved, then the superintendent of buildings shall issue a permit, and if disapproved no permit shall issue.
+Eelator attacks this ordinance in two directions: First. Because the authority for its adoption is Pamph. L. 1902, p. 180 (1 Comp. Stat.; p. 654, § 242), which was repealed by the Home Rule act. Pamph. L. 1917, p. 317 (at p. 354). But the complete answer to this is that this same Home Rule act (Pampa. L. 1917, p. 345, art. 10, § 2) provides that “all ordinances in effect in any municipality at the time of the passage of this act shall remain in full force and effect notwithstanding the passage hereof, except in so far as they are inconsistent with the provisions hereof, until they are amended, altered or repealed by the governing body of such municipality.” There has not been pointed out nor do we find any inconsistency which would nullify the ordinance in question.
+Second. If valid, yet the ordinance is unreasonable and in defiance of the property rights of the relator.
+With this we do not agree, but, on the contrary, we are of the opinion that the ordinance was a valid and reasonable exercise of the police power of the city in the interests of public safety in protection against fire and the reduction of fire hazard.
+We conclude that the writ of mandamus must be denied and the rule to show cause dismissed for two reasons — first, because the ordinance above referred to as the amendment to the building code is applicable, and is an existing, valid and legal municipal regulation, and, second, because it does not appear the proper application was made under such ordinance.

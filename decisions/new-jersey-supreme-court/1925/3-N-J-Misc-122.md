@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-01-30"
+citations: ["3 N.J. Misc. 122"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUIS POMERANTZ, PLAINTIFF-APPELLANT, v. JOHN WARNER, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/3/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439870
+---
+
+# Pomerantz v. Warner
+
+## Majority (Pee Cueiaai.)
+
+Pee Cueiaai.
+This is plaintiffs, appeal from a judgment in favor of the defendant rendered by the District Court of East Orange sitting without a jury.
+Plaintiff liad purchased a Port! motor truck from the New Jersey Auto Company at the price of $750.68, paying on account $250.68. This left a balance of $500 due on the purchase price. The same day he signed a conditional .sale agreement with the New Jersey Auto Company, giving at the same time an installment note payable in monthly installments. The agreement and note were; assigned to the Commercial Credit Company of Baltimore. Payments appear to have been kept up on the note until June, 1923. The payment for this month and for the month of July were made by the plaintiff to the New Jersey Auto Company, hut were not forwarded by that company to the Commercial Credit Company of Baltimore by reason of same being inadvertently sent to- the Commercial Credit Corporation of New York (a separate and distinct company), and, consequently, did not reach the Commercial Credit Company of Baltimore until September 18th, and October 5th, 1923, for the June and July installments, respectively.
+Tt; further appeared from the testimony of the plaintiff that, while the note was payable according to its terms at the office of the Commercial Credit Company of Baltimore, the New Jersey Auto Company had been in the habit of accepting payments from its various customers and forwarding same to. the Commercial Credit Company of Baltimore in approximately fifty per cent, of, its sales, financed by the credit company.
+The seizure of the truck was made by Warner*, the defendant, as agent of the Commercial Credit Company of Baltimore, on August 22d, 1923, and was retained by him until September 8th, 1923. This suit was brought by the plaintiff) the purchaser, against Warner, alleging an unlawful seizure of the truck.
+The case turns upon the relation of the New Jersey Auto Company to the Commercial Credit Company of Baltimore. The note being payable at the office of the latter, the burden was cast upon the plaintiff to show payment in accordance with the terms of the conditional sale agreement. Failing in this, Warner, as the agent of the credit company, was legally justified in seizing the truck. There is no direct proof that the automobile company was authorized to receive payments, but simply the testimony of one Case, the assistant treasurer of the automobile company, to- the-effect that his company had been in the habit of receiving payments in about fifty per cent, of its sales and forwarding them to the credit company of Baltimore. Against this is the direct testimony of an officer of the credit company that the New Jersey Auto Company had no authority to receive moneys on behalf of the credit company. The testimony of Case, it seems to us, produces presumptively an agency in the automobile company for the plaintiff. In the absence of' authority from the credit company, it was- incumbent on the plaintiff to see that the payments reached their proper destination in accordance with the terms of the contract. When, in addition to this, it appears by direct testimony induced by the defendant that the automobile company was 'without authority to receive these checks, the trial judge was justified in holding that the payments were not made to the credit company, and that, therefore, the taking of the truck by its agent was a lawful procedure, and the plaintiff was without redress for any loss he may have sustained by the detaining of his car from August 2d to September 8th, 1923.
+The judgment will be affirmed, with costs.

@@ -1,0 +1,32 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1933-12-19"
+citations: ["12 N.J. Misc. 70"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANKLIN COMMERCIAL DISCOUNT COMPANY, A CORPORATION OF THE STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. HENRY J. GOODMAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/12/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429259
+cites_cases: ["102 N. J. L. 598", "109 N. J. L. 298", "110 N. J. L. 523", "133 Atl. Rep. 199", "150 Atl. Rep. 321", "162 Atl. Rep. 638", "165 Atl. Rep. 555", "20 N. J. L. 180", "34 Atl. Rep. 128", "58 N. J. L. 573", "60 Atl. Rep. 209", "75 N. J. L. 883"]
+---
+
+# Franklin Commercial Discount Co. v. Goodman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+A judgment was recovered by the plaintiff below (a corporation engaged in the business of discounting eommerical paper) against the defendant in the Hudson County Court of Common Pleas.
+One Moses Redler offered to the plaintiff an option to purchase certain negotiable paper in the amount of $1,000. This application or offer, dated April 27th, 1928, was submitted to the plaintiff and contained the information that the commercial paper was to be signed by Redler Realty Associates, Incorporated, as maker, with Moses Redler as payee and consisted of two notes, each in the sum of $500, dated April 28th, 1928.
+This formal application for credit or option to purchase, as it is called, was received in evidence, on the back of which appear the following typewritten words:
+“I hereby guarantee this account.
+H. J. Goodman.”
+Mr. Goodman was the defendant in the cause and admitted that he signed this guaranty agreement. No objection was made to the reception as evidence of this application for credit or option to purchase. The two $500 notes were also received in evidence to which strenuous objection was made by the defendant upon the ground that there was a variance between these notes which the plaintiff discounted and the application for credit or option to purchase, which contained the defendant’s guaranty agreement.
+Both plaintiff and defendant produced additional proofs and the court submitted the case to the jury which returned a verdict for the full amount, and interest, in favor of the plaintiff and against the defendant.
+The defendant-appellant has filed six grounds of appeal, seeking a reversal of this judgment, which are argued under three headings. (1) That the trial court erroneously admitted into evidence the promissory notes in question.
+The substance of this point is briefly this: That the option to purchase the negotiable paper in question recited that the maker of the note was to be the Bedler Realty Associates, Incorporated, and the payee of the note was to be Moses Bedler, while in the notes which were discounted by the plaintiff, it appears that although the maker was the Bedler Realty Associates, Incorporated, the payee was “ourselves.” The notes were each endorsed by the maker in blank so that there is some variance in the form of the commercial paper, as discounted, as against the form described in the printed option to purchase such commercial paper. This was the basis of the defendant’s objection, or to use his own language, that the notes “as executed do not conform to the description contained in the offer.” The court, however, in our judgment, properly admitted these notes for the reason that there was testimony, at that posture of the case, that the notes were attached to the printed option when defendant signed the guaranty and were comprehended by the language of the guaranty, namely, “I hereby guarantee this account.” While it is true that contracts of guaranty must be construed striclissimi juris (Lyon & Co. v. Plum, 75 N. J. L. 883; 60 Atl. Rep. 209; Max v. Schlenger, 109 N. J. L. 298; 162 Atl. Rep. 638), yet if these notes were attached to the option at the time the guaranty was signed by the ■ defendant, manifestly they were part of the account guaranteed.
+The second ground of reversal claims the trial court committed error in refusing to nonsuit the plaintiff. We do not think so. At that posture of affairs each and every fact that may be elicited from the testimony of the plaintiff’s witnesses and- every -legitimate inference that may be drawn therefrom must, in passing upon motions of this character, be construed. by the trial court in the ■ light most favorable to the plaintiff. Hammersma v. Smith, 110 N. J. L. 523; 165 Atl. Rep. 555; Consolidated Traction Co. v. Reeves, 58 N. J. L. 573; 34 Atl. Rep. 128; Podolsky v. Sautter, 102 N. J. L. 598; 133 Atl. Rep. 199. And when the trial court considered, as it must have, that the guaranty was signed by the defendant, that it purported to guarantee “this account” that the notes in question, regardless of the alleged variance, were attached to the option- so as- to make them part thereof, certainly it would have been error to nonsuit.
+The third ground for reversal challenges the court’s charge to the jury in several particulars. Eegardless of whether the charge in the particulars complained of was or was not erroneous, the appellant did not take proper exception thereto and, consequently, this ground-for reversal cannot be considered here. Counsel, at the end of-the charge, stated that he objected to the charge in three. particulars and stated fragmentary portions of the charge that contained, what he claims.to have been error. The trial court is entitled to much more than this. Counsel must take exception to the part or parts of the'charge complained of and point out with particularity the reason for the objection and must indicate the fault of the charge. Counsel did not follow this procedure.' This has been the rule for many, many years and the reason for it is obvious. If the charge is challenged at its conclusion and the vice in it indicated, the court would then have an opportunitj' to change his mind and correct the charge, if it was erroneous, and if he refuses and it be erroneous, then the language of the charge, together with the exception pointing out the part complained of and the reason for the exception, makes for a proper ground of appeal and not otherwise. Oliver v. Phelps, 20 N. J. L. 180; affirmed, 21 Id. 597; Potts v. Clarke, 20 Id. 538; Klein v. Shryer, 106 Id. 432; 150 Atl. Rep. 321.
+This disposes of the points argued on appeal.
+The judgment is affirmed, with costs.

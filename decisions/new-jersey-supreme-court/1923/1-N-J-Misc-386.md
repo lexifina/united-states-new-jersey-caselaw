@@ -1,0 +1,27 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-07-07"
+citations: ["1 N.J. Misc. 386"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KING-ALLEY & COMPANY, INCORPORATED, PLAINTIFF, v. OMAHA LIBERTY FIRE INSURANCE COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/1/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586850
+---
+
+# King-Alley & Co. v. Omaha Liberty Fire Insurance
+
+## Majority (Trenchard, J.)
+
+The opinion of the court was delivered by
+Trenchard, J.
+The defendant insurance company (who appeared specially for the purpose) seeks to have service of the process set aside.
+The defendant is a Nebraska corporation, and had been admitted to do business in New Jersey, pursuant to section 59 of the Insurance act (Comp. Stat., p. 2855), but its license expired February 28th, 1923, and was not reneyed.
+Service of the process in this case was made upon the commissioner of banking and insurance April 27th, 1923, under, as it is contended, the authority of the third paragraph of section 59, which provides for the filing of an instrument constituting the commissioner the company’s attorney upon whom process may be served, and further declares that “the authority thereof shall continue in force irrevocable -so long as any liability of the company remains outstanding in this state.”
+The argument in support of the rule seems to rest upon the following proposition, stated in defendant’s affidavit (1) that the plaintiff is “'a corporation of the State of New York/’ and (2) - that “the alleged claim of the said plaintiff against the said defendant is not a liability of the said Omaha Liberty Eire Insurance Company outstanding in the State of New Jersey, being based upon an alleged award made in the State of New York, which award is alleged to have been made by virtue of an agreement for arbitration between the said King-Alley & Company, Inc., formerly King, Alley & Lawrence, Inc., and the Omaha Liberty Eire Insurance Company, which latter contract was accepted by the Omaha Liberty Eire Insurance Company and became effective in the State of Nebraska.”
+The defendant admits in its brief that the plaintiff has a license permitting it to do business in this state, but seems to contend that such license was obtained only for the purpose of maintaining this action. Rut this contention, so far as this record discloses, is wholly without foundation.
+I turn now to the defendant’s contention that the cause of action alleged in the complaint is not a liability of the defendant company outstanding in this state because “it rests upon an award becoming effective in the State of New York.”
+It seems clear that such contention is ill-founded.
+.It appears that in 1921 an action was pending in our Supreme Court between the same parties wherein the present plaintiff claimed damages from the defendant for an alleged breach of a contract relating to insurance business in this state. In consideration of the discontinuance of that suit the parties agreed to arbitrate the matters in difference, and the arbitration agreement provided that the arbitration proceedings might be had either in the State of New Jersey or in New York' City, before two arbitrators and an umpire, some of whom were residents of New Jersey and some of New York. It further provided that “the award of the arbitrators and umpire, or any two of them, shall be final, conclusive and binding,” and the umpire’s “decision in the event of any disagreement between the arbitrators shall be final and conclu sive,” from which, it would seem to follow that both arbitrators should at least have an opportunity to act before the award should became effective. The award, upon which suit is brought, on its face, shows that it was signed by one of the arbitrators in New York City on January 22d, 1923, and was not signed by the other until January 27th, 1923, when it was signed by him in Atlantic City, New Jersey, from which it would seem to follow that, if they were in agreement, their award became effective, if at all, in this state. But the award seems to show that the arbitrators were in disagreement respecting one of the matters in difference, namely, the allowance of a considerable item of interest. .The written award shows that one of the arbitrators who signed it in New York City on January 22d, 1923, allowed such interest, whilst the so-called umpire who signed in New York .City on the same day, but not before the same witness, by his notation under his signature and over his initials “objected to” and “eliminated” such interest item. It seems to follow that so far the award was not “final, binding or conclusive.” It further appears that the, other arbitrator signed the writing in Atlantic City, New Jersey, on January 27th, 1923, and by his notation over his signature he “objected to” and “eliminated” the item of interest. My conclusion is that it was there in New Jersey, if at all (and not in New York as the defendant contends) that the award came into existence, and, hence, in view of this and other circumstances mentioned, I consider that the alleged liability which is the subject-matter of the suit is one outstanding in this state. These views dispose of the narrow question argued and I have not considered any others, The rule to show cause will be discharged.

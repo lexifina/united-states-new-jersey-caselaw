@@ -1,0 +1,22 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-02-06"
+citations: ["9 N.J. Misc. 267"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANNA DURR, PLAINTIFF, v. FREEHOLD CONSTRUCTION COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/9/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736034
+---
+
+# Durr v. Freehold Construction Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiff brought suit to recover from the defendant compensation for the loss sustained by her through the burning of her house and furniture, her claim being that the fire was caused by sparks emitted by a road-roller of the defendant company, which was being operated by its servants in.the construction of a road adjoining the plaintiff’s dwelling. The jury found a verdict in her favor.
+Counsel for the defendant urges as a ground for making the present rule absolute that the plaintiff failed to sustain the burden of proof on the question of the defendant company’s liability. The argument in support of this contention is that the fire might have started in the attic of the house, for which, of course, the defendant would not have been responsible, or it might have started from sparks escaping from an engine owned and operated by the Pennsylvania Eailroad Company, whose tracks through Woodstown, in Salem county, where the plaintiff’s property was located, were adjacent to that property, and that there was no preponderance of the evidence against either one of these theories. Our examination of the proofs sent up with the state of the case satisfies us that the jury was justified in finding that the fire started on the shingle roof of the plaintiff’s house and on the side next to the road which was being constructed by the defendant company and opposite to the side where the railroad company’s right of way was located. The fact that the fire started on the roof eliminates the theory that it might have begun in the attic. As to the suggestion that it might have been caused by sparks from an engine of the railroad company, the proofs show that only two locomotives passed the plaintiff’s property between one and five o’clock, p. M.; that the screens on them had been frequently inspected, and that inspections were made almost immediately after the fire, which showed that the screens were then in good order. The competency of this testimony was not challenged. .The fire occurred between four and five o’clock in the afternoon, and the jury was justified in finding from the evidence referred to that the fire was not caused by sparks escaping from a locomotive of the railroad company. In addition, the proofs showed that the screen over the defendant’s road-roller, which was operated by steam, was in a dilapidated condition, there being, among other things, a hole in it as large as a man’s fist, and that live sparks escaped through this hole and through other defective parts of the screen. The proofs further showed that the wind at the time of the fire was blowing from the direction where this road-roller was operating and toward the house of the plaintiff. In our opinion, the facts recited justify the jury’s verdict that the defendant company was responsible for the occurrence of the fire.
+The only other ground upon which we are asked to make the rule absolute is that the verdict was excessive. The allowance was for $2,800. We consider that the proofs fully supported the conclusion that the damage to the house and the furniture therein was at least equal to that amount. It is argued before us that, in determining the amount which the plaintiff was entitled to recover, the jury should have taken into consideration that the property was insured, and that the insurance company and the plaintiff had settled her claim under the policy for the sum of $1,932. This, however, we consider to be entirely immaterial and not a matter for the consideration of the jury. The plaintiff was entitled to recover from the defendant company the full amount of the loss caused by its wrongful act. She is only entitled, however, to retain so much of the amount recovered as will, in addition to the moneys received from the insurance company, total that sum. The balance she will hold in trust for the insurance company.
+We conclude that, for the reasons stated, the rule to show cause should be discharged.

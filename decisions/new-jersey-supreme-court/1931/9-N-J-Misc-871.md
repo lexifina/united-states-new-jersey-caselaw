@@ -1,0 +1,22 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-08-05"
+citations: ["9 N.J. Misc. 871"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK V. GIRARD AND LILLIAN M. GIRARD, PLAINTIFFS, v. LYDIA A. STAGER AND FRANK STAGER, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/0871-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735763
+---
+
+# Girard v. Stager
+
+## Majority (Lawrence, C. C. J.)
+
+Lawrence, C. C. J.
+This is an ejectment suit which was tried before me and a jury at the Morris Circuit and resulted in a verdict for plaintiffs for possession of the locus in quo. Defendants took out the present rule to show cause and argue for a new trial on the ground that the verdict was contrary to the weight of the evidence.
+On February 10th, 1926, Margaret Eaton conveyed to the plaintiffs lot No. 11, in block T, as shown on the revised map of a subdivision known as Towaco Bungalow Park property, in Montville township, on file in the Morris county clerk’s office. They erected a bungalow and a detached garage on the lot which they now occupy. On June 19th, 1926, Mrs. Eaton conveyed the adjoining lot to the east— No. 12—to the defendant Lydia A. Stager. She and her husband likewise erected a bungalow and detached garage on that lot and on which they have since lived. These lots, as shown on the filed map, abut on the southerly side of Mountain avenue and, according to the map, are of the same width, front and rear, while the division line is given a definite length. Consulting this map, there is not the slightest difficulty in ascertaining that the beginning point of this line at the southerly side of Mountain avenue (which has a width of twenty feet) is four hundred and sixty-two and fifty-five hundredths feet easterly from the corner of lot No. 1, as laid down on the map, at the intersection or junction of the easterly side of Towaco Boulevard with the southerly side of Mountain avenue; that is to say, measuring from the indicated corner of this lot—as shown—easterly along the front line of the several lots a distance of four hundred and sixty-two and fifty-five hundredths would give the exact beginning point of the division line between lots Nos. 11 and 12.
+The fact appears to be, however, that shortly before defendants erected the buildings on their lot, they sought information—from what source does not appear- in the record— as to the location of the division lines of their lot with that of plaintiffs on the west and No. 14 on the east (there appears to be no No. 13 on the map), and as a result two iron pins were placed at what they evidently regarded as the northwest and northeast corners of their lot. This information turned out to be unreliable, for the reason that the evidence at the trial disclosed that the pin at the so-called northwest corner of their lot was thirteen and twenty hundredths feet over on the front line of plaintiffs’ lot, and by like token the pin at the northeast corner was the same distance westerly on their own lot from the beginning point o£ the division line thereof with Fo. 14. It also later developed that plaintiffs’ bungalow overlapped the division line between their lot and Fo. 10, adjoining on the west; thereupon they purchased that lot, so that at the time of the trial they were the owners of Fos. 10 and 11. Defendants in erecting their garage obviously were misled by the wrongly placed pins in the front line of their lot and the mislocation of the structure naturally followed. Plaintiffs’ suit was accordingly brought to eject them.
+The foregoing are the fair deductions from the evidence offered at the trial. Since the solution of the problem submitted was largely a matter of mathematics and the litigants depended almost entirely on their respective surveyors, it cannot be said that the verdict was contrary to the weight of the evidence. Defendants unfortunately appear to have been misinformed as to the exact location of the beginning point of the division line between their lot and that of plaintiffs, as to which there does not appear to have been any good reason. It suffices to say that the testimony of plaintiffs’ surveyor, a man of many years experience, was subject to credence by the jury and was not overcome by any evidence of a convincing character offered by defendants. A careful review of the evidence leads to the'conclusion that the rule to show cause must be discharged, but without costs.

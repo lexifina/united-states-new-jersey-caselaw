@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-05-25"
+citations: ["9 N.J. Misc. 615"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN E. KELLY AND LUDWIG DINGER, PLAINTIFFS, v. GEORGE RHODES AND JOSEPH MOSER, JOINTLY OR IN THE ALTERNATIVE, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735823
+---
+
+# Kelly v. Rhodes
+
+## Majority (Pee Ctjeiam.)
+
+Pee Ctjeiam.
+This is a rule to show cause obtained by the defendant, George Rhodes, why a verdict at the Passaic Circuit should not be set aside, the verdict being against Rhodes and in favor of plaintiff Kelly for $8,000 and in favor of plaintiff Dinger for $5,000. There was a general verdict in favor of defendant Moser.
+Injuries were sustained by Kelly and Dinger while guests in Rhodes’ automobile. The accident happened on Market street, in East Paterson, where the same meets the dead end of Chestnut street, and in front of a service station. Market street runs east and west, and is paved twenty feet wide with concrete with a dirt shoulder on each side seven and a half feet wide. The accident happened at six-thirty p. si., July 27th, 1929, while defendant Rhodes was operating his automobile in a westerly direction. The defendant Moser was operating his automobile in an easterly direction. As he approached the dead end of Chestnut street, so the evidence indicates, he came to a dead stop, permitting another automobile operating in the same direction to overtake him. Defendant Rhodes was then a distance variously estimated of from two hundred to four hundred feet away. Moser then continued easterly for a short distance in the center of the road and then made a left turn northerly, intending to drive into the garage. He had practically passed the concrete portion of the road, the right wheel being on the edge of it. He was then about twenty-five feet from the place where he had stopped.
+The evidence reasonably tends to show that, in this posture of affairs, Rhodes, traveling very fast, from forty-five to sixty-five miles an hour, came along the right shoulder of the roadway, crashed into the right front side of the Moser car and caused the Rhodes car to stand up on its front wheels and. then roll over to its left side. The impact was terrific. The plaintiffs were injured.
+It is said that the verdicts were against the weight of the evidence on the question of Rhodes’ liability. That question seems not to be seriously pressed, and properly, we think, because we think the factual situation was as we have outlined it; and we do not see how it can be said that the verdicts were against the weight of the evidence.
+As the defendant says in his brief, the point “stressed” is that the verdicts are excessive. Kelly’s was for $8,000. He was forty years of age, married, having a wife and child. He was a steamfitter by occupation, earning $70 a week. Had been in good health. He was rendered unconscious; regained consciousness in the hospital in the morning. There is some evidence that he suffered fracture of the skull; had laceration across the forehead resulting in a scar; had an injury to his thumb; had lacerations of his right leg. For some time following the injury he had headaches accompanied by vomiting. There is evidence that the use of his thumb is somewhat impaired, and that his hearing was somewhat impaired. He returned to work some five weeks after the accident. We think his verdict of $8,000 is plainly excessive. If Kelly will consent to a reduction of the verdict to $5,000 he may enter judgment for that amount; otherwise, the rule to show cause, so far as he is concerned, will be made absolute.
+As to the plaintiff Dinger, he likewise was employed by a machinist, earning $42.50 a week. He suffered, according to the testimony, a broken bone in the shoulder and an injury to the spine. He had abrasions on the head, chest, left leg and thigh, and abrasions of the temple and eyebrow. He was treated by a doctor for six or seven weeks and claims to have suffered from pains in the head and neck up to the time of the trial, and claims that he was obliged to carry his head in a forward and unnatural position. The doctors testified that the R-rays disclosed a fracture of the fifth and sixth vertebra, the vertebra of the neck, and a fracture of a bone of the shoulder, and the doctors testified he had a limitation of motion of the neck, and a loss of fifty per cent, grasping power of his hand. We cannot say that the verdict for $5,000 is excessive.
+As to the plaintiff Dinger, the rule to show cause will be discharged, with costs.

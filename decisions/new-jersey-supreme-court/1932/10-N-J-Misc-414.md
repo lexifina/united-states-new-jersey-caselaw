@@ -1,0 +1,28 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-03-12"
+citations: ["10 N.J. Misc. 414"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HERMAN J. SCHUBERT, PROSECUTOR, v. DISTRICT COURT OF THE THIRD JUDICIAL DISTRICT OF BERGEN COUNTY AND JAMES H. WHITE, JUDGE THEREOF."]
+source_url: "https://static.case.law/nj-misc/10/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739296
+cites_cases: ["76 N. J. L. 387"]
+---
+
+# Schubert v. District Court of the Third Judicial District
+
+## Majority (Parker, J.)
+
+Memorandum of decision by
+Parker, J.
+This matter has been heard in a somewhat informal way but without objection by anyone concerned. The writ, is to review the opening of a judgment in favor of prosecutor and against Anna Ellis in the above-named District Court, and transferring the cause to another District Court in the same county. Upon suggestion of alterations in the rule to show cause on which the rule opening judgment was founded, the original rule to show cause was submitted to me and has been examined with care and the informal statement of Judge White about it received and considered. If there were any question about a material fact the formal certificate of the trial judge would be called for to settle the matter. Gory v. Jackson, 76 N. J. L. 387.
+It appears that there was a judgment for plaintiff in the District Court December 15th, 1930, for $50 and costs. At some later time (and this was a matter of fact in dispute) Judge White signed a rule to show cause returnable March 31st, 1931, why the judgment should not be opened and a new trial granted, and restraining execution in the meantime; and that a copy be served on plaintiff “within five days from the return date hereof.”
+The order shows obvious indications that, it has been tampered with. The word “five” was typed at a later time than the body of the order; and the word “return” is interlined. Apparently the clause was drafted “within days from the date hereof.” The order was not served until March 26th, so the inference is that at the last moment an attempt was made to make the last paragraph conform to service on that date, but the operation was not very skillfully performed.
+The dating of the order is very suspicious. It purports to be dated December 18th, 1930, but such an order returnable over three months later is almost inconceivable. On careful examination of the date it is clear that there was originally another date typed in, that this was erased and “18tli day of December 1930,” substituted.
+If there were no more to this phase of the case I should be disposed to set, aside in foto the rule to show cause and the rule opening judgment; but Judge White reported to me, and said he was willing to certify, that the order had been signed by him with a blank return date in conformity with his custom of allowing the attorneys to make such orders returnable at their own convenience. Although I deem this practice highly irregular and liable to work great harm, as in the present ease, the statute does not seem to make it illegal. Section 17 allows the judge to order a new trial “provided that, application for such new trial, except where the said application is based upon newly discovered evidence, shall be made within thirty daj^s after judgment.” Consequently, so long as the application is made within the thirty days, the judge is in absolute control of the situation. He may reserve decision on it, apparently indefinitely; and thus a rule of this kind maj'- lawfully bear date long after the thirty days have expired. Nor do I apprehend that it is unlawful for the judge to leave the return date blank and authorize the attorney to fill it in. Such a practice, like making the order after the thirty days, is liable to great abuses and I cannot too strongly express my disapproval of it as a practice; but I cannot, as at present advised, set aside an order so made up, and regular on its face, as illegal.
+Somewhat unwillingly, therefore, I am constrained to hold that there is no valid ground for setting aside the order to show cause; and that being decided, it follows that the later' order based upon it is supported so far as it opens the judgment and awards a new trial. But there is one feature of this final order that is clearly illegal, viz., the provision in the order of March 31st referring the cause to another District Court for further proceedings. Bor such action there is no warrant of law whatever. The statute does permit the judge of District Court B to sit as temporary judge in District Court A when requested so to do by the judge of District Court A (section 19 of act), but there is no provision for transfer of a cause to another court except by way of review, as appeal or ceritorari.
+' The order opening the judgment will be set aside so far as it attempts to transfer the causé to' another court; in other respects it must be affirmed, and the District Court of the Third Judicial District, will be directed to proceed itself to retry the cause. The prosecutor succeeding only in part, neither party should have costs.
+It is suggested that rule 9 of the District Courts of Bergen county provides that all orders shall be filed within five days, otherwise to be of no effect unless the judge shall otherwise direct. But a court, that can make rules is entitled to waive them, and on certiorari the Supreme Court should not set aside an order merely because not filed according to rule and in the absence of any injury appearing.

@@ -1,0 +1,21 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1930-08-20"
+citations: ["8 N.J. Misc. 673"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CARRIE SCHOONOVER, ADMINISTRATRIX AD PROSEQUENDUM, PLAINTIFF, v. MARCUS W. DE CAMP, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/8/cases/0673-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426579
+---
+
+# Schoonover v. De Camp
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This suit was brought under the Death act to recover the pecuniary loss sustained by the widow and next of kin of Ira Schoonover, his death resulting from a collision with the automobile of the defendant as Schoonover was crossing the street in the borough of Caldwell. The plaintiff’s decedent was a conductor in the employ of the Erie railroad at the time of the happening of the accident, and was in charge of a train running from. Caldwell to Jersey City. The accident occurred on a Sunday morning in January about half past ten o’clock. The decedent, desiring to obtain a Sunday newspaper, caused the train to be stopped opposite to a news store for the purpose of purchasing the newspaper. The stop was not a regular station. Plaintiff’s decedent left the train, crossed over Bloomfield avenue, which adjoined and ran parallel to the right of way of the railroad, went into the store, purchased a newspaper, and in attempting to cross Bloomfield avenue on his return to the train was struck by the defendant’s automobile. The proofs showed that there had been a heavy storm on the preceding day; that the sidewalk on Bloomfield avenue had been cleared of the snow, which had been thrown into the gutter, causing an embankment of a foot or two in-height; and that the sidewalk itself, the embankment and the roadway of Bloomfield avenue were covered with ice. The trial resulted in a verdict in favor of the plaintiff, the jury finding that the accident resulted from the negligence of the defendant in the driving of his automobile, and that it was not contributed to by any negligence on the part of the decedent.
+The finding of the jury on the question of the contributory negligence of the decedent is so clearly against the weight of the evidence, in our opinion, that it should be set aside and a new trial ordered. The principal witness called by the plaintiff was one Tichenor, who was a passenger on the train and was the only person who observed decedent’s movenants continually from the time the latter left the newspaper store until he was struck by the defendant’s automobile. Upon his cross-examination he described the accident as follows: "Q. Now, when Mr. Schoonover came out of the newspaper store, did you notice what he had in his hand? A. He had a newspaper. Q. You knew he was going for a paper, didn’t you? A. Yes; I saw him with a newspaper. Q. Did he run as he came out of the newspaper store? A. No, he didn’t run; he couldn’t run. Q. He slid? A. Yes. Q. He slid along the sidewalk? A. Yes. Q. Did he slide over the curb? A. He did. Q. He slipped over the curb into Mr. De Camp’s car, didn’t he? A. Just what he did, yes. Q. It was a continual slide ? A. Yes, it was. Q. Right from the point of the newspaper store right into Mr. De Camp’s car was a continual slide, wasn’t it? A. That is just exactly what it was. . Q. He did not stop once, Mr. Tichenor, from the time he left the newspaper store, the door, rather, until there was the collision, did he? A. No. Q. Didn’t stop? A. He attempted to stop as he saw Mr. De Camp’s car. Q. Yes, that was the time he threw his hands up? A. Yes, that is right. Q. That was the first time he looked, wasn’t it? A. Yes, it was. Q. And the time he looked for the first time Mr. De Camp’s ear was five feet away? A. Approximately. Q. That is, when he threw his hands up you say he still slipped, slipped down under the car; isn’t that true? A. Yes, he was about two feet off of the curb.” This testimony was not controverted by other evidence offered either on behalf of the plaintiff or by testimony submitted by the defendant. It demonstrates, as we think, that the accident was the result partially at least of the contributory negligence of decedent.
+The rule to show cause will be made absolute.

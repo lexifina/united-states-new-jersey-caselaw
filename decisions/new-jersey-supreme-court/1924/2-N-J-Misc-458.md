@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1924-05-29"
+citations: ["2 N.J. Misc. 458"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALTER READE, PLAINTIFF-APPELLEE, v. ROBERT BODINE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/2/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 722777
+cites_cases: ["44 N. J. L. 134", "83 N. J. L. 409"]
+---
+
+# Reade v. Bodine
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal by the defendant from a judgment of the First District Court of Monmouth county, wherein the plaintiff was awarded the amount of a rent claim for leased property. There ivas ample proof of the rent due and of its amount. The appeal pertains to the defenses — first, that the defendant had suffered a partial eviction of the leased premises at the hands of the plaintiff, and second, that a judgment of Hie, Second District Court of Monmouth county in an action to dispossess the tenant by the lessor made tlie, claim for rent res adjudicaia.
+An examination of the record in this case fails to reveal anything even remotely raising these questions; no motion for nonsuit or verdict, no request for finding and no exception to any ruling on the propositions involved. Numerous trial rulings were made under objection and exception, but none of them are complained of on this appeal. Passing this difficulty, we think neither of the defenses possess legal merit. The lease was of the “house 136 Union avenue, Long Branch,” and nothing more. The, former occupancy of the house by the defendant had been accompanied by the use of a lot which had undoubtedly .been a curtilage to the dwelling. In this situation proofs were taken of the intention of the parties as to the inclusion of the lot in the leased premises, and both plaintiff and defendant were premitted to produce evidence on this point. The question therefore became one of fact for the decision of the court. Tt will lie presumed that the court below found against the defendant, and, as the eviction claimed, consisted in the taking of a portion of the lot, it was not an infringement on the rights of the tenant. But the court might also find that the taking of a portion of the lot in question did not amount to an eviction within the legal signification of that term. In order that one may enjoy the use of leased property free, of rent by reason of a partial eviction, the deprivation of such part must be of a character and in degree sufficient to prevent the beneficial enjoyment by the tenant of the entire property. Eor anything less than this he is remitted to his claim for the damages sustained. Metropole Construction Co. v. Hartigan, 83 N. J. L. 409. A partial eviction-is a .species of forfeiture in law, and as such is not favored. Birckhead v. Cummins, 33 Id. 56. It is against conscience that one should possess and enjoy a leased dwelling-house without payment therefor, and such a result will not be declared except under clear mandate of law. Whether the taking of a portion of the lot became an eviction, was, we think, a mixed question of law and fact for the trial court, and, having found for the plaintiff thereon, its finding is conclusive here.
+The second ground of 'appeal can be disposed of in few words. The record of the suit in the Second District Court is not printed in the state of the case, and. it is difficult to gather its full import from the fragmentary proofs presented. Assuming, however, that it was an action to dispossess' the defendant for non-payment of rent, it could have no greater effect than the Landlord and Tenant act gives it. As was said by the court, construing the act in Coe v. Haines, 44 N. J. L. 134, “the finding that rent was due was final as to the proceeding [to dispossess], but the statute deprives the judgment of the conclusiveness which a judgment has in other cases.” As above remarked, the record of the former judgment does not appear in the record of this case. There was evidence that the former judgment as it originally stood was one for the defendant without stating the grounds thereof, and that long afterward the ground of the judgment was entered as that of an eviction. Even though the effect of a judgment involving the same questions might be conclusive on-the rights of the parties thus litigated, the trial judge would have been clearly within his right in refusing to give force to the judgment of the Second District Court as involving the question here presented.
+We think the court below committed no error, and the judgment must be affirmed.

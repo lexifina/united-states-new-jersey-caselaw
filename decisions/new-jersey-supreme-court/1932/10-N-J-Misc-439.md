@@ -1,0 +1,21 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-03-22"
+citations: ["10 N.J. Misc. 439"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANCIS A. MULVANEY, PLAINTIFF, v. KNIGHT CONSTRUCTION COMPANY, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/10/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739221
+---
+
+# Mulvaney v. Knight Construction Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This was an action for personal injuries. The plaintiff was an employe of one Vanderhoof, his employment consisting of the driving of a truck carrying materials belonging to his employer to different places where they were to be delivered to purchasers. In July, 1929, he was driving a truck containing certain fill and other material to the Canoe Brook reservoir in Chatham, Morris county, part of which was being constructed by the defendant, the Knight Construction Company, and the material in the truck was being carried to the place where the latter corporation was engaged in its work for the purpose of being delivered to it. This truck, while at the reservoir grounds, became stuck in the mud, and the defendant undertook to pull it out by attaching to it what is known as a caterpillar tractor. While the plaintiff was fastening the chain of the tractor to the truck, the driver of the tractor, without warning, pushed it up against the truck, crushing the plaintiff, who was between these two vehicles. The trial resulted in a verdict in favor of the plaintiff, the jury awarding him $30,000 as compensation for the injuries which he received, and the only ground upon which we are asked to make the rule absolute is that this verdict is excessive.
+The undisputed proofs showed that the plaintiff was twenty-two years old at the time of the accident; that at that time he was earning $39 a week as a truck driver, and on occasion moneys in excess of this compensation for work done by him on Sunday. The suit was tried one year and nine months after the accident, during all of which time he was unable to do any work whatever, and as a result, lost the wages which he otherwise would presumably have earned. The total amount of this loss is approximately $3,500. In addition to his loss of wages he was required to expend for medical services $740, and also $450 in the payment of his hospital bill. There were other incidental expenses incurred as the result of the injury, amounting to approximately $75. The total loss, including the loss of wages and the expenses referred to, approximated some $4,800, leaving the award for his injuries a little over $25,000. We are not prepared to say that this award is so plainly excessive as to justify a setting aside of the verdict. His left foot was practically torn from his leg, or at least, it was twisted around so that the bones were fractured and the foot hung down as if it was attached by a string to his leg. Repeated efforts to restore the foot and that part of the leg to its normal condition have failed; the wound became infected, and that infection had continued from the time of the accident up to the time of the trial, sometimes improving to a certain extent, and then growing worse again. He also had two severe puncture wounds in the thigh, i and another one on the inner surface of the left knee. These wounds have healed up, but for a long time caused him great pain. Notwithstanding the numerous attempts to restore the leg and foot to its normal condition, he is not able to walk except with the help of a crutch or a cane, and this condition is a permanent one. The evidence with relation to the nature of the plaintiff’s injuries was testified to by two physicians called by him, whose qualifications were undisputed, and there was no attempt made by the defendant to controvert the soundness of the conclusions expressed by these two experts. The plaintiff, in all probability, will never be able to do any work again unless he can fill a job where he is not required to be on his feet at all, and whether he has the ability to do that or not the testimony does not disclose.
+Our conclusion is that the verdict should not be set aside on the ground that it is excessive.

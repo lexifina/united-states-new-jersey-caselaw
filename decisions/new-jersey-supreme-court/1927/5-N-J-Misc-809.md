@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1927-08-04"
+citations: ["5 N.J. Misc. 809", "5 N.J. Misc. 811"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS ROSS, AN INFANT, BY NEXT FRIEND, v. PENNSYLVANIA RAILROAD COMPANY AND CALVIN W. STEELMAN. DANIEL ROSS, ADMINISTRATOR AD PROSEQUENDUM OF ROBERT ROSS, DECEASED, v. PENNSYLVANIA RAILROAD COMPANY AND CALVIN W. STEELMAN. DANIEL ROSS, ADMINISTRATOR AD PROSEQUENDUM OF THOMAS ROSS, DECEASED, v. PENNSYLVANIA RAILROAD COMPANY AND CALVIN W. STEELMAN."]
+source_url: "https://static.case.law/nj-misc/5/cases/0809-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730376
+---
+
+# Ross v. Pennsylvania Railroad
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+These three cases were tried together. The first was brought by Tilomas Ross, an infant, to recover compensation for injuries received by him in a collision between an automobile in which ho was riding, and which was being driven by his father, and a train of the Pennsylvania Eailroad Company, at a railroad crossing in Milmay, New Jersey. The second suit was brought by the administrator ad prosequendum of Bobert Boss, deceased, for the pecuniary loss sustained by the boy, Thomas, through the death of his brother, Bobert, who was three years old, which resulted from the same accident. The third was brought by the administrator ad prosequendum of Thomas Ross to recover the pecuniary loss sustained by the boy, Thomas, the son of the decedent, arising out of the death of the latter, which death also occurred in the same accident. The trial of the cases resulted in a verdict in favor of the boy, Thomas, as compensation for the injuries received by him, of $20,000; in a verdict in favor of the administrator of Thomas Ross, Sr., for the sum of $12,000, as compensation for the pecuniary loss sustained by the boy, Thomas, as his-sole next of kin, and in a further verdict in favor of the administrator of Robert Ross for the sum of six cents as compensation for the pecuniary loss sustained by Thomas through the death of his small brother.
+The first contention is that these verdicts, of $20,000 in favor of the boy for the injury sustained by him and $12,000 in favor of the administrator for the pecuniary loss sustained by the boy through the death of his father, are excessive. Our examination of the testimony showing the seriousness and permanence of the injury sustained by the boy leads us to the conclusion that the verdict in his favor is not so clearly excessive as to justify us in setting it aside. Nor can we say that the jury was not justified in finding that the pecuniary loss sustained by the boy by reason of the death of his father was the amount fixed them.
+It is further argued that the verdicts against the Pennsylvania Railroad Company are without legal support, for the reason that it was not in control of, or operating, the train which collided with the automobile in which the boy’s father and other members of his family were riding. We think there is nothing in this contention. The train was a train of the West Jersey and Seashore Railroad Company. It is admitted that that company is controlled by the Pennsylvania Railroad Company as a part of the latter’s system, and that its railroad, at the time when the accident happened, was being operated by the latter as a part of ■ its system. The contention that the engineer of the train was being paid by the West Jersey, &c., Railroad Company, and that, therefore, the Penns3dvania Railroad Company was not responsible for his carelessness, seems to ns without merit. A man is responsible for the carelessness of his employe which produces injury to another, although the employe’s wages may be paid by some third person.
+It is further argued that the verdicts are against the weight of the evidence in their finding of negligence on the part of the engine driver, the contention being that the accident was caused solely by the negligence of Eoss, the father of the infant, plaintiff in one of these cases. We think the testimony fairly supported the conclusion of the jury that the accident occurred to some extent through the negligence of the engineer in failing to discover the automobile (which had stalled upon the railroad tracks) in time to avoid the collision; for he had a clear view down the tracks, apparently, for at least a mile. We think, too, that the alleged negligence of the father, he being the driver of the ear, was not only a question to be determined by the jury, but that its finding was not so clearly against the weight of the evidence as to justify our interference.
+We find nothing in the other grounds upon which we are asked to make these rules absolute which would justify such an action on our part.
+Our conclusion is that, for the reasons indicated, the rules to show cause should be discharged.

@@ -1,0 +1,29 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-01"
+citations: ["3 N.J. Misc. 163"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACOB P. JUPIN, PLAINTIFF, v. GEORGE JUPIN, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/3/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439900
+---
+
+# Jupin v. Jupin
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case comes before the court on a rule to show cause why a judgment, entered May 3d, 1924, upon an order of the Supreme Court, at bar against Michael Jupin and Eobert Hansel, bail for the defendant, George Jupin, and all proceedings thereunder should not be set aside and vacated. The suit was originally an action for seduction against George Jupin by Jacob E. Jupin, who stood in the relation of loco parentis to Sarah E. Poster. The "defendant was taken into custody on a capias, and released on bail entered by the defendants herein. At the trial, in • the Atlantic Circuit, a verdict was rendered by a jury in favor of the plaintiff in the sum of $1,500. ’ On this verdict, judgment was entered January 23d, 1924. On January 25th, 1924, a capias ad satisfaciendum was issued and placed in the hands of the sheriff on January 28th, 1924. On February 1st, 1924, the writ was returned by the sheriff non est inventus. On February 5th, 1924, a scire facias against the bail was issued, and on February 7th, 1924, the same was served personally. The scire facias was returnable on the third Tuesday of February, 1924. No response was made by the defendants to- this writ, and on May 3d, 1924, a rule for judgment and execution was made absolute by part 3 of the Supreme Court. On this rule, judgment was entered against the bail May 8th, 1924. Execution was then issued, and the property advertised for sale. In this situation two rules were taken, one now before the court, signed by Mr. Justice Kalisch and dated July 23d, 1924, and an earlier one dated July 2d, 1924, granted by Mr. Justice Campbell. The latter was discharged by Mr. Justice Campbell on July 17th, 1924, and we are only concerned with the one signed by Mr. Justice Kalisch.
+Without determining the conclusiveness- of the order of Mr. Justice Campbell, discharging the rule taken before him, we have decided that the present rule is without merit. The grounds upon which the court is now asked to set aside the judgment against the bail are—
+First. The capias ad satisfaciendum was not left in tlie office of the sheriff the four last days before its return, in conformity to the practice, therefore, the bail was not fixed.
+Second. The bail could not be affected save after a capias ad satisfaciendum, properly returned non est inventus, therefore the plaintiff could not lawfully proceed against the bail upon their recognizance.
+Third. The defendant rendered himself into the custody (if the sheriff or was rendered according to the condition of the recognizance within the time limited therefor; therefore, there was no forfeiture, and the proceedings on scire facias were premature.
+The answer to the first complaint is that it is not true in fact. Idle record shows, according to the chronology already recited, that the writ was in the sheriff’s hands for the necessary period of four days-and, in fact, was not returned until the fifth day.
+The second ground of complaint being rested on the criticism of the first was disposed of by what has been said above.
+As to the third ground of complaint, it seems to us equally without substance. By the seventy-seventh section of the act of .1903, page 558, the defendant may, on notice to- the plaintiff, either before or after1 judgment, surrender himself or be surrendered in discharge of bail to the court in which the action was brought, or to a judge, with the proviso, however, that such surrender be made within twenty days after the scire facias against the bail or of the process in an action on the recognizance of bail and not after, unless for good cause further time be granted by the court or judge. Section ?'8 provides that the court or a judge before whom the surrender is made shall make an entry or minute of such surrender and commitment; and, thereupon, the defendant shall be committed to the custody of the sheriff.
+On the 16th of February, 1924, the defendants surrendered Jupin to the sheriff of Atlantic county, whereupon, on the same day lie was released by the sheriff, upon giving bond, to take advantage of the insolvent laws before the Court of Common Pleas. This was not in compliance with the statute in any respect. It was a surrender or a render to the sheriff, and not to the court; it was done without notice to the plaintiff ; no minute was made in the court by the court, nor was there any commitment of the defendant to the custody of the sheriff as required by the statute. The act clearly implies that before a surrender shall be effective, notice must be given of an intention to surrender to the plaintiff in the action, and that -it must be made to the court itself and not to any other officer; certainly not to the sheriff of the county who has nothing to do with the case until the commitment is made to him by the court or a judge.
+We think the evidence in the case establishes that the capias ad satisfaciendum was in the hands of the sheriff on January 28th, 1924, and-that the return thereof, sworn and subscribed to on the 1st dajr of February, 1924, establishes that the writ was in the hands of the sheriff for the necessary four daj^s; that the attempted surrender of the defendant by his bail was ineffective to invalidate the proceedings on the scire facias against the bail.
+The rule to set aside the judgment is discharged.

@@ -1,0 +1,29 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1936-12-29"
+citations: ["15 N.J. Misc. 65"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VILLAGE OF RIDGEWOOD, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, PROSECUTOR, v. BOROUGH OF GLEN ROCK, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/15/cases/0065-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 580679
+cites_cases: ["116 N. J. L. 413", "128 Atl. Rep. 397", "181 Atl. Rep. 150", "184 Atl. Rep. 822", "35 N. J. L. 328", "39 N. J. L. 28"]
+---
+
+# Village of Ridgewood v. Borough of Glen Rock
+
+## Majority (Pee Oueiam.)
+
+Pee Oueiam.
+The writ was issued to review an ordinance of the borough of Glen Eock to open certain streets in that borough through property owned by the village of Eidgewood upon which property the village has its sewage disposal plant, and upon which it has determined to enlarge its plant.
+The parties were before the courts in the case of Ridgewood v. Hopper, 13 N. J. Mis. R. 775; 181 Atl. Rep. 150; affirmed,, 116 N. J. L. 413; 184 Atl. Rep. 822, in which it was determined that Eidgewood was entitled to enlarge its sewage plant on the property without the consent of the borough of Glen Eock, and without the approval of the board of public utility commissioners. It was in this situation that the present ordinance to open streets through the sewage plant property was passed.
+The ordinance provides for the opening of two highways through the territory owned by Eidgewood and upon which it is planned to extend its sewage system, and as methods of acquiring the lands for these highway extensions provides that it shall be done by gift, purchase or condemnation.
+The ordinance is attacked on various grounds, among them being that the sole motive of the borough is to defeat the rights of the village as declared by the courts of the state; that the ordinance was illegally adopted because of defective notice; because of absence of notice, and on the further ground that the borough was without jurisdiction to open the streets.
+With the motive of the borough we have nothing to do provided of course it was exercising a legal right, and we think it necessary, as to the other reasons, to give consideration to but one, and that is the power of the borough to condemn.
+The ordinance, in so far as it provides for gift or purchase, is of course not subject to objection, but in so far as it asserts a right of condemnation we think that the borough was without authority of law to enact it. The right of the legislature to take private property for public uses as accorded by the constitution, and “the power of the legislature, on just compensation being made, to sanction the acquisition by one corporation of the franchises of another, may be considered as too firmly established to admit of debate. But it is equally certain that no such power will result from the mere authority to acquire b3 condemnation the land requisite for the enterprise. A similar immunity must be extended to the property of a corporation in connection with which its franchises are solely capable of being exercised. Such property cannot be taken where the appropriation of it to another use will destroy or impair the exercise of the franchises of another corporation, unless the power to take is given in express terms or arises from a necessary implication.” New Jersey Southern Railroad v. Long Branch, 39 N. J. L. 28.
+This case based on numerous authorities therein cited is the settled law of the state and has been cited in more recent cases, the last being Ocean Grove v. Board of Education, Neptune, 3 N. J. Mis. R. 349; 128 Atl. Rep. 397. See, also, State v. Montclair, 35 N. J. L. 328, where it was held that the ordinary powers of condemnation did not authorize the taking of lands belonging to Jersey City, such lands being held for the purpose of constructing a reservoir.
+The lands in question are held by the village as a part of its sewage system. While the street extensions are said not to actually pass through certain contemplated extensions as set forth in the case already cited, it appears that there have been a number of extensions and these made necessary by the growth of the village. It is reasonable to suppose that further extensions upon the ground immediately adjoining the present enlargement will be required from time to time. The property is, therefore, essential to the exercise of the franchise of the village for sewage purposes.
+The lands are also devoted to a public use and lands so devoted we think additionally are not subject to condemnation under general powers to that end, but must be specifically by the legislature itself made subject to such proceedings. Lands so held are usually possessed by the corporations, municipal or private, having also general power of condemnation. To subject such lands to taking by one corporation from another under the general powers of condemnation would be to open the door to recriminatory condemnation litigation without end inasmuch as if under such authority the first taking would be justified, its re-taking would be equally within the power of the adverse party. Such we think is not the law. Property once devoted to a public use cannot be diverted therefrom without express authority of the legislature.
+It may be suggested that until the right of condemnation is asserted by the borough no practical question as to the ordinance arises and proceedings to review by the court might be permitted to await such action, hut the parties argue the case on its fundamental rights and undoubtedly desire the opinion of the court on those rights. This being true, so much of the ordinance as asserts a right to condemn the property of the prosecutor will he set aside, with costs.

@@ -1,0 +1,27 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1934-01-25"
+citations: ["12 N.J. Misc. 148"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NICK GUERRERO, PETITIONER-DEFENDANT, v. J. P. WHITE AND COMPANY, RESPONDENT-PROSECUTOR."]
+source_url: "https://static.case.law/nj-misc/12/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429216
+cites_cases: ["109 N. J. L. 25", "160 Atl. Rep. 328", "160 Atl. Rep. 513"]
+---
+
+# Guerrero v. J. P. White & Co.
+
+## Majority (Case, J.)
+
+The opinion of the court was delivered by
+Case, J.
+The writ brings up for review an award by the workmen’s compensation bureau allowing compensation to Nick Guerrero for a hernia found to have resulted from an accident arising out of, and in the course of, his employment, by J. P. White & Company.
+The employer’s main contention is that the claimant did not prove his case with the conclusiveness required by the statute. There was no puncture or tearing of the abdominal wall. Consequently, the case comes within the classification which the statute (Cum. Supp. Comp. Stat. 1925-1930, p. 1977, ¶, § 2, subdiv. (x); Pamph. L. 1928, ch. 135) states “will be considered as either congenital or of slow development and not compensable, being a disease rather than an accidental injury; unless conclusive proof is offered that the hernia was immediately caused by such sudden effort or severe strain” as to be followed by the conditions enumerated in the live particulars designated in the statute and recited at length in Borodaeff v. Province Line Dairy, Inc., 109 N. J. L. 25; 160 Atl. Rep. 513, and in numerous other decided cases. The statute need not be here, again, set out.
+Regarding the general aspects of the case, we state our finding that the proofs unquestionably demonstrate the following facts: On January 12th, 1932, Guerrero was, and for sometime theretofore had been, employed by prosecutor and •engaged in the capacity of timberman in the construction of: a sanitary sewer in the city of Philadelphia. On that day, at about eleven o’clock in the .morning, Guerrero was in a deep trench with five other men carrying a timber weighing upwards of six hundred pounds. The ground was muddy ■and the footing bad. The timber, while being thus carried, struck Guerrero in the groin. Guerrero immediately collapsed and was instantly in pain. He had difficulty in raising himself to a standing posture and did no more work that day. His foreman observed the accident and at the noon hour accepted notice of injury on behalf of the employer but asked Guerrero to assist in finishing the job by remaining and directing a helper what to do. On that solicitation Guerrero continued his presence at the work for a period of about two weeks thereafter, performing no labor but directing another and less experienced man what to do in his stead. Prom the end of that period he was unable even to be present. On •June 9th, 1932, having done no physical labor since the accident, he went to a hospital and was operated upon for hernia. He was discharged from the hospital June 27th or 28th and made a normal recovery. Compensation was allowed from January 29th to June 28th.
+The hernia was shown to have descended immediately within the interpretation of that requirement by our cases. Borodaeff v. Province Line Dairy, Inc., supra ; Danco v. Rice & Fishman, 10 N. J. Mis. R. 778; 160 Atl. Rep. 328. Guerrero observed the swelling on the evening of January 12th and because of it and the pain went that same night to Dr. Med, a Philadelphia physician, for treatment.
+The proofs, taken as a whole, are convincing that Guerrero did in fact have' a hernia- that was the direct and immediate result of an accident that arose out of, and in the course of, his employment by the prosecutor; and we find that the five particulars 'were proved within the requirements of the statute.
+The prosecutor further argues that compensation was improperly allowed from January 29th, 1932, to June 28th, 1932. During that interval Guerrero was unable to work and earn wages. Guerrero had called upon a number of physicians for treatment, repeatedly upon one Dr. Russell, and does not appear to have acted contrary to the instructions of any of them. That the doctors, for whatever reason, did not at once advise an operation does not alter the fact that he was, during that period, suffering a temporary disability. We find m> evidence of malingering. A workman, disabled by a compensable hernia and diligently seeking medical aid, is entitled to compensation during temporary disability. None of the circumstances that under the statute might have lessened the employer’s liability were present.
+Prosecutor finally contends that the allowance of $109 counsel fee was excessive and beyond the powers of the compensation bureau. The statute (Pamph. L. 1928, ch. 224; Cum. Supp. Comp. Stat. 1925-1930, p. 1986, pl. **236-58), provides that “the official conducting any hearing under this act may, in his discretion allow to the party in whose favor judgment is entered, * * * a reasonable attorney fee, not exceeding twenty per centum of the judgment * * *.” The award was for $431.43. Twenty per centum amounts to' $86.29. The counsel fee allowed was $100—excessive in the amount of $13.71. Counsel for the respondent concedes that the allowance was excessive. The award may be modified in that respect. In other respects it will be affirmed, with costs.

@@ -1,0 +1,30 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1926-03-18"
+citations: ["4 N.J. Misc. 335"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, DEFENDANT IN ERROR, v. MAX SATSKY, PLAINTIFF IN ERROR."]
+source_url: "https://static.case.law/nj-misc/4/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 583945
+cites_cases: ["36 N. J. L. 125", "45 N. J. L. 448"]
+---
+
+# State v. Satsky
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff in error and one Gilliland were indicted charged with that, on September 25th, 1924, they unlawfully did steal, take and carry away a certain motor truck, the goods and chattels of one Floyd Tredway, and also by a second count in said indictment were charged with unlawfully and feloniously receiving such truck, knowing that the same had been stolen.
+Upon a trial under said indictment Gilliland was acquitted, and the plaintiff in error was found guilty and was sentenced to serve a term of not less than fonr nor more than seven years in the state prison and pay a fine of $500. The writ is a strict writ of error on exceptions, and also brings up the whole record under section 136 of the Criminal Procedure act.
+The truck was owned by Nat Bloom, who stored it in the garage of Gilliland. One Halpern, who kept a boardinghouse and operated with it a soft-drink establishment, and who also had a gasoline tank from which he served motorists, claimed a lien upon the truck for gas and oil alleged to have been furnished to Bloom. Halpern undertook to enforce his lien under the Garage Keepers’ Lien act (Pamph. L. 1915, p. 556), and authorized one Tredway to seize the truck for such supposed lien. Shortly before September 25th, 1924, Tredway, finding the truck in front of the garage of Gilliland, seized the same in accordance with his authorization, chained and locked the same and placed a notice of lien upon it. Gilliland informed Tredway that there was money due him on account of garage storage of the truck. A few days thereafter Tredway placed the truck in Gilliland’s garage, again chaining and locking it. Gilliland at this time also seized the truck to satisfy the amount due him for storage. Satsky, a constable, and an agent of the Ideal Tire and Rubber Company, which maintained a garage on Halsey street, Newark, New Jersey, also claimed a lien upon the truck for tires and supplies furnished, and, upon finding .the liens ‘ claimed by Halpern and Gilliland, went to Halpern’s establishment, and satisfying himself that Halpern was not engaged in the business of keeping a garage or place for storage, or repairing motor vehicles, concluded that Halpern was not entitled to a lien under the Garage Keepers’ act. He then met Gilliland, and, upon satisfying himself that Gilliland’s claim or lien was good, arranged to procure an assignment of it. Thereupon, Gilliland and Satsky interviewed Bloom, the owner of the truck, who was indifferent as to what became of the truck. Satsky thereupon gave Gilliland and Bloom his business cards bearing his address, requesting them to give them to any person who might desire any information as to the whereabouts of the truck, as he intended to seize the truck under his principal’s lien. An arrangement was entered into between Satsky and Gilliland ivhereby the latter was to receive a cheek at the office of the Ideal Tire and Rubber Company, Halsey street, Newark, New Jersey, for the amount of his claim upon his executing to that concern an assignment of his claim and lien.
+Thereupon, Satsky removed the truck from Gilliland’s garage and drove it to the place of business of the Ideal Tire and Rubber Company in Newark, where Gilliland came and received his cheek and executed an assignment of his claim. Halpern called at Gilliland’s garage and was given one of Satsky’s cards, and thereupon called upon him at the address on the card. Satsky offered to purchase Halpern’s lien if Halpern could assure him that he was, in fact, a garage keeper. Subsequently, Satsky and Gilliland were indicted and tried, with the result as hereinbefore stated.
+It is unnecessary for us to deal with each one of the fifty-nine assignments of error and sixty reasons for reversal, because amongst them there are, at least, two requiring a reversal of the judgment below.
+The first is that there is prejudicial error in the trial court’s instructions to the jury and refusal to charge requests bearing upon the point erroneously and incorrectly charged.
+The learned trial judge charged, amongst other things: “And if you are satisfied, beyond a reasonable doubt, that Halpern was a garage keeper and had this lien upon the car, and had posted the notice and locked it up, and that Satsky came and took it away, then your verdict as to Satsky will be guilty.”
+This instruction entirely eliminated the question of felonious intent in such taking and was contrary to law. While it is true that one may be1 guilty of larceny in taking goods from one having a special ownership therein, yet, as was said in Adams v. State, 45 N. J. L. 448: “It would not be every taking by a mere stranger of these goods from the possession of the constable that would amount to larceny. A felonious intent would be a requisite ingredient to such a crime.”
+In Cutter v. State, 36 N. J. L. 125 (at p. 127), it is held “The criminal intent, which is an essential part of that crime [larceny], involves a knowledge that the property taken belongs to another; but even when all the facts are known to the accused, and so the right to the property is a mere question of law, still he will make good his defense if he can show in a satisfactory manner that, being under a misapprehension as to his legal rights, he honestly believed the articles in question to be his own.”
+Aside from this, a consideration of the proofs satisfies us that, upon an application of the correct principles of law, the verdict is against the weight of the evidence.
+The judgment below is therefore reversed.

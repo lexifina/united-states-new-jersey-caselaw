@@ -1,0 +1,31 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1924-05-14"
+citations: ["2 N.J. Misc. 371"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TRADE UNION NEWS PUBLISHING COMPANY, PLAINTIFF-APPELLANT, v. WILLIAM C. DAVIS, HOME BAKERIES COMPANY, DEFENDANT-APPELLEE."]
+source_url: "https://static.case.law/nj-misc/2/cases/0371-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 722793
+cites_cases: ["75 N. J. L. 405"]
+---
+
+# Trade Union News Publishing Co. v. Davis
+
+## Majority (Pee Otriam.)
+
+Pee Otriam.
+The plaintiff-appellant appeals from a judgment rendered against it and in favor of the defendant, in the Camden City District Court, in an action brought by the plaintiff on a contract, for the insertion of the defendant’s business advertisement in the plaintiff’s weekly publication, and which contract was signed by defendant in the city of Camden, and reads as follows:
+“No. 487. Camden, Oct. 2. 1919.
+The Trades Union News Publishing Company.
+You are hereby authorized to insert my advertisement in The Trades Union News for a period of 52 consecutive weeks, to occupy one inch, D. C. column, two inches in all, for which I agree to pay $2.00 per week, payable (weekly, monthly, quarterly) on proof of publication. No agreements will be recognized unless stated on face of this contract. If copy is not furnished on application our business card may be used. In monthly installments.
+Signed, Wm. C. Davis Home Bakeries Co.
+W. C. D. P.”
+The state of the case, agreed upon between the counsel of the respective litigants, discloses that the defendant signed the contract at Camden, New Jersey, at which place it was delivered to the plaintiff. That the plaintiff published a weekly newspaper devoted to subjects of interest in trades union circles, at Philadelphia, Pennsylvania. That the plaintiff obtained thirty ór more other contracts in New Jersey. That the general manager of the plaintiff testified that in all cases the form Exhibit 1, was accepted or rejected by him at the plaintiff’s office in Philadelphia in this particular case. It was admitted by plaintiff’s witnesses that, as a matter of fact, no acceptance thereof was sent to defendant. There was proof that at the time that Exhibit 1 was signed at defendant’s office in Camden, nothing was said one way or another about acceptance in Philadelphia or elsewhere. There was no proof that the person taking contract from defendant did not have authority to make it. Nor was there proof of any authority in the solicitor to accept or reject the contracts. The contract itself provided that, “no agreement will be recognized unless on the face of the contract,” and that “this contract is not subject to cancellation.” That the advertisement of the defendant appeared in the newspaper published in Philadelphia, as did advertisements of numerous other persons who signed contracts in New Jersey under same circumstances, and that no acceptance was sent to any of them. That there was an unpaid balance due to the plaintiff of $52, which was not disputed except by the defense of “foreign corporation,” stated in the defendant’s answer. It was not disputed that the plaintiff is a Pennsylvania corporation not licensed under our Corporation act, and that the trial court determined and found as a fact that — • (1) the plaintiff was not licensed to transact business in New Jersey; (2) that it was transacting its ordinary business in New Jersey in doing acts above stated; (3) that the contract in the present case was completed in New Jersey and not subject to acceptance in Pennsylvania, and, accordingly, gave judgment for the defendant.
+The appellant’s first contention is that there was no evidence in the case to support the finding of the trial court that the plaintiff ws transacting its ordinary business in this state. "We think there was evidence in support of such finding. There was testimony to the effect that there were thirty or more contracts of a like character as the one under consideration entered into in this state, and we think from that fact alone the trial judge was warranted in finding that the appellant was transacting its ordinary business in New Jersey. In Von Seyfried v. Vollers, 75 N. J. L. 405, this; court, speaking through Mr. Justice Swayze (at p. 406), held: “Whether the sales in a particular case are made under such circumstances as to require the inference that the foreign corporation is engaged in the general prosecution of its ordinary business is a question of fact to- be decided by the trial court, and its finding is not open to review where there is any evidence to sustain it.”
+Eor-the appellant it is further contended that there was no evidence to- support the finding that the contract in question was completed in New Jersey and not subject to acceptance in Pennsylvania. . ' '
+The state .of the case agreed upon by the counsel of the respective parties expressly admits that the contracts were made in this state, and that nothing was said one way or another about -acceptance in Philadelphia or elsewhere.
+The contract in express terms'provided: “No agreement will bé recognized unless on--the face of the contract,” and that’“this'contract* is not*subject to cancellation.” It is time that Mr. Semple, ’ manager of the plaintiff company, testified that in all cases the form of Exhibit 1 was accepted or rejected at plaintiff’s office in Philadelphia, and that he accepted the contract in the-present case there, but that as a matter of fact no '.acceptance thereof -was sent to defendant. And this was ‘the same course pursued in the other thirty or more cases. There’is nothing contained in the contract, Exhibit 1, to the effect that it must be accepted at the appellant’s office before it becomes operative.' It seems to rrs that the testimony and circumstances raised a factual question whether or not the contract was completed in New Jersey and was not subject to acceptance in Pennsylvania, which question was for the trial judge to determine and his finding, there being support therefor',' in the testimony, is not reviewable. '•
+■The judgment of the District Court is affirmed, with costs.

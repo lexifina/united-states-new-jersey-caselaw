@@ -1,0 +1,27 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-05-05"
+citations: ["9 N.J. Misc. 519"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MORRIS GLASSMAN ET AL., PROSECUTORS, v. ESSEX COUNTY JUVENILE COURT, JOSEPH GLASSMAN ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735889
+cites_cases: ["76 N. J. L. 387", "90 N. J. L. 187"]
+---
+
+# Glassman v. Essex County Juvenile Court
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The writ brings up the determination of the Essex County Domestic Relations and Juvenile Court in application by a father to compel three of his sons to contribute to his support, based on section 74 of the revised Poor act. Pamph. L. 1924, p. 252 (at pp. 288, 289). The facts are somewhat complicated, but the following are sufficient for present purposes. The prosecutors are the three sons, and the father is a defendant. His wife whom he married in 1902, sued him for diVorce in 1928 or 1929 on the ground of cruelty and asked alimony for herself and her children. Defendant filed an answer but withdrew it, and the case went to an ex parte reference. The special master reported May 18th, 1929, in favor of a divorce, stated that the sons were working, that the father was epileptic but had worked for years and was still able to do so; and recommended award of alimony at $10 per week but without bond. Pinal decree carrying this alimony was signed on September 14th, 1929. On September 23 d, the father made complaint against the three sons under the Poor act, alleging that he was ill and unable to work. Before this complaint went to a hearing, there was an application in the divorce suit to hold him in contempt for not paying the alimony. As to this, all that is now laid before us is an order advised on October 8th, 1929, denying the contempt application “on good cause shown.” The hearing in the Juvenile Court was begun on October 16th, and concluded December 23d, after an adjournment, and on January 4th, 1930, the Juvenile Court ordered the three sons to pay the father $10 a week. They did so for a time, but at some time in March ceased making payments, and on May 2d there was an application to the Juvenile Court to adjudge them in contempt, followed by a rule to show cause. At this point there is a hiatus in the proceedings so far as the printed case shows, until September 13th, when the writ of certiorari was allowed. However, laches in applying for this writ does not seem to be urged.
+The first point made is that the statute does not authorize complaint by an individual, but only by the overseer of the poor. Stark v. Fagan, 90 N. J. L. 187, so decided in 1917, but the statute of 1924, ubi supra, now allows complaint by the party seeking relief, or the court itself on its own initiative.
+The second point is that there was no evidence which warranted a finding of the poverty of the petitioner and his inability to work. But this is in flat contradiction of the return, which cannot be impeached or qualified except by an amended return certified by the court below. Gory v. Jackson, 76 N. J. L. 387. There is another branch of this point, which will be considered presently.
+The third point is that the defendants did not have their “day in court.” We.are unable to see any substance in this point, and are of opinion that they had full opportunity to present their case, and if they did not take advantage of such opportunity it was not the fault of the court.
+The fourth point is that they are privies to the Chancery decree awarding alimony, and that such decree is res adjucticata as to the financial circumstances of the father and his ability to support himself.
+We are unable to take this view. In the first place, a decree for alimony is always subject to a modification by the Court of Chancery. In the second place, it is plain from the facts stated above, that that court refused to enforce its own decree on a contempt application, and from this it is fair to presume that the husband and father satisfied the court of his inability to pay. In fact the refusal to act by way of contempt seems to be in itself tantamount to a modification of the decree, even if a temporary one. So we think the Chancery proceedings as exhibited to us, are not a bar to the action of the Juvenile Court.
+There is one phase of the case, however, which in our opinion requires us to set aside the judgment below; and that is the apparent lack of any legal evidence of the amounts that the three sons were earning at the time of the hearing and judgment in the Juvenile Court. It was admitted that they were working, but that was all. The report of the special master in the divorce suit was put in evidence apparently ■without objection, but if evidential on the point now under discussion shows no more than that in May, 1929, the oldest son had “an earning capacity” of $20 per week, that the second son was then earning $18, and the third $6 per week. We hardly think the presumption of continuance of a former status is applicable to this situation, but think on the contrary that the petitioning father was under a duty of provin'g what the sons, who he claimed should be ordered to support him, were actually earning at the time.
+Eor the reasons just stated, the judgment and order will be set aside, but without costs.

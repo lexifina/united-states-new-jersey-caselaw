@@ -1,0 +1,29 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1930"
+citations: ["9 N.J. Misc. 113"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MURRAY WEINSTEIN, PLAINTIFF, v. OLIVER R. BLANCHARD, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/9/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735758
+cites_cases: ["14 A. L. R. 539", "27 N. J. Eq. 247", "44 N. J. L. 509", "49 Atl. Rep. 542", "55 N. J. Eq. 583", "83 N. J. L. 358", "85 N. J. Eq. 424"]
+---
+
+# Weinstein v. Blanchard
+
+## Majority (Bbown, S. C. C.)
+
+Bbown, S. C. C.
+The question to be decided in this case arises on plaintiff’s motion to strike out a plea puis darrein continuance. In October, 1928, the plaintiff brought suit to recover damages from the defendant alleging negligence in an operation performed on the plaintiff on August 10th, 1909, and negligent treatment thereafter, which alleged negligence the plaintiff claims resulted in serious injury to him and caused a continuing injury to the present time. The plaintiff further charged that the defendant fraudulently concealed the existence of a rubber tube in the body of the plaintiff until the 7th day of July, 1928, which tube it is claimed was used by the defendant in his treatment of the plaintiff. The complaint also contains a count alleging breach of contract, up to the 21st day of July, 1928, on the part of the defendant in operating upon and caring for the plaintiff. The defendant in his answer denied all the material allegations in the complaint and pleaded the statute of limitations as a bar to the action. The plaintiff filed a bill in the Court of Chancery seeking to enjoin the defendant from pleading the statute of limitations as a defense to the action at law, alleging in the bill of complaint that the defendant performed the operation and continued treatment thereafter, and that the plaintiff or his representatives questioned the defendant in regard to the missing tube, and that the defendant “falsely” represented to the plaintiff, or his representatives, that the tube was not in the plaintiff’s body, and that if it was it would cause no ill effects.
+The only purpose of the bill filed in the Court of Chancery was to obtain equitable relief by way- of injunction to restrain the defendant from setting up the statute of limitations as a bar to the action at law on the ground of, alleged fraud. The case in Chancery came on for a final hearing and that court dismissed the bill by a decree containing no other determination of facts than—
+“It appearing to the satisfaction of the court that the complainant is not entitled to the relief prayed for * * *. It is * * * ordered, adjudged and decreed, that said bill of complaint be dismissed.”
+Upon the filing of this decree the defendant was permitted to file a plea puis darrein continuance, subject to the plaintiff’s motion to strike. In his plea the defendant alleges the decree in Chancery was a determination on the merits of the issues raised in the action at law; that the decree is a bar to such action and the plaintiff is estopped from further proceeding with his case in this court. From the proofs furnished on this motion it is apparent the Court of Chancery did not determine the issues raised in the action at law, but denied to the plaintiff the injunctive relief which that court alone can give. Savage v. Edgar, 85 N. J. Eq. 424. The jurisdiction of the Court of Chancery was invoked not to try the issues of the action in the Supreme Court but to afford relief which the court at law was powerless to afford.
+Under our system of jurisprudence the Court of Chancery has inherent power to prevent a party from pleading the statute of limitations in an action at law, if by the defendant’s fraudulent conduct it would be inequitable for him to plead the statutory bar. Freeholders v. Veghte, 44 N. J. L. 509; Freeman v. Conover, 95 Id. 89; Holloway v. Appleget, 55 N. J. Eq. 583.
+The plea is in effect one of res adjudícala. The test in determining whether a prior judgment between the same parties concerning the same subject-matter is a bar is to ascertain whether the same evidence which is necessary to sustain the second action would have been sufficient to authorize a recovery in the first, if so, the prior judgment is a bar. Hoffmeier & Son v. Trost, 83 N. J. L. 358.
+This test has not been met in the instant case. There was determined in the Court of Chancery the question of granting equitable auxiliary relief to an action pending in the law court and not a determination of the issues raised in the latter court. Henwood v. Jarvis & Schafer, 27 N. J. Eq. 247; Metropolitan Savings and Loan v. Dughi, 49 Atl. Rep. 542; 34 Corp. Jur. 785; Perdue et al. v. Ward et al., 14 A. L. R. 539; Hudson v. Remington Paper Co., 6 Amer. & Eng. Ann. Cases 103; Rowell v. Smith, 3 Id. 775.
+Lord Bacon, in words which Mr. Justice Story placed upon the title page of his work on Equity Jurisprudence, said: “Chancery is ordained to supply the law, not to subvert the law.” To maintain the defendant’s contention would be a subversion and denial of the plaintiff’s legal rights.
+The defendant in his argument also contended that the plaintiff admitted in the Chancery action that he was barred from proceeding at law. The proof does not support this contention. It is also significant that a form of decree containing a recital of this admission was not allowed. The pleadings do not contain such an admission, and even if they did they would be open to explanation and rebuttal. First National Bank v. Duncan, 18 Amer. & Eng. Anno. Cases 81. And a large number of eases therein cited including those of English courts.
+The motion to strike out the defendant’s plea puis darreincontinuance is granted.

@@ -1,0 +1,28 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1934-09-28"
+citations: ["12 N.J. Misc. 733"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BENJAMIN D. MOCKABEE AND CLARA L. MOCKABEE, PLAINTIFFS-APPELLEES, v. JOHN R. ENGLISH, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/12/cases/0733-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429175
+cites_cases: ["110 N. J. L. 120", "121 Atl. Rep. 617", "164 Atl. Rep. 450", "98 N. J. L. 803"]
+---
+
+# Mockabee v. English
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case was tried in the District Court without a jury. The action was on contract to recover $500 rent claimed due under the terms of a written lease for the months of May to September, 1932, inclusive. The plaintiffs waived any excess over $500.
+It was stipulated at the trial that the defendant on March 30th, 1932, paid to plaintiffs the sum of $212, the April, 1932, rent, for an apartment and garage, No. 102 Melmore Apartments, East Orange, and served on the plaintiffs a notice of the termination of said lease. The notice assigned the following reasons for the action taken: (1) A tenant or occupants on the second floor of said Melmore Apartments-operated a radio and a vacuum cleaner and walked in such a loud, noisy and disorderly manner as to destroy the peace and quiet of those occupying his apartment; (2) a tenant, or occupants on the second of said apartments shouted to each other in such a loud and noisy manner in the early hours of the morning as to destroy the peace and quiet of the occupants of his apartment and in such a manner as to-awaken the occupants of his said apartment; (3) an infant, occupant of an apartment in the basement of said apartments, cried and yelled so loudly and noisily, between the hours of ten o’clock in the evening to four o’clock in the morning, as to destroy the peace and quiet of the occupants of his apartment and in such a manner as to awaken them from their sleep; (4) a tenant, or occupants of an apartment on the third floor of said apartments made such loud noises as to-destroy the peace and quiet of the occupants of his apartment; (5) a tenant, or occupants of said apartments have made so much noise and given such loud' and piercing shrieks and shouts and in other ways acted in such disorderly manner in leaving the apartments in the early hours of the morning after midnight and early morning parties therein, as to destroy the peace and quiet of the occupants of his apartment, to awaken them from their sleep, and on some occasions to frighten them so that they, or one of them, leaped from their bed and injured themselves.
+It appeared that the defendant’s wife was in poor health, lie offered proof to establish the grounds of his complaint. The plaintiffs, however, offered proof in rebuttal and the facts were for the trial judge, who found against the defendant.
+The lease provides: “This lease is subject to the express condition nevertheless that if the party of the second part shall deem the said apartment objectionable because of the management, operation or condition of the said Melmore Apartments, or of any part thereof, or because of any conduct of any other tenant or tenants, or occupant or occupants of said Melmore ¿Apartments, and shall give at least twenty days’ previous notice of his intention to terminate this lease, said notice to expire at the expiration of a calendar month and if the said party of the second part shall then have paid the proportionate part of the annual rent due up to the expiration of the said calendar month, then, upon the expiration of the said notice, as aforesaid, this said lease and everything herein contained shall cease, determine and be void, and the said party of the second part shall not be liable to prosecution or damages on any ground whatsoever for having so avoided and determined the lease.”
+The trial court found that the matters of annoyance specified under headings 1, 2 and 4 had taken place both prior and subsequent to the date when the lease was renewed; that the annoyance complained of in paragraph 5 did not exist at all; that the annoyance specified in paragraph 3 of the notice terminating the lease occurred subsequent to the renewal of the lease and that the plaintiffs immediately took steps to have the family in the basement of the apartment complained of removed, thus complying with the defendant’s demand. Tt further appeared that defendant shortly before giving the notice to quit had purchased a residence and obviously was looking for a way out.
+It is apparent from the record that there was testimony to support the findings of fact as made by the trial court. The issue being for that tribunal and being supported by the evidence, we cannot reverse.
+“Where parties to an action try and submit the question at issue upon a theory apparently satisfactory to themselves, and suffer the case to go to the jury upon the legal theory thus adopted, it is too late upon appeal, for either part}1, for the first time to question the legal propriety to the course pursued. Kapherr v. Schmidt, 98 N. J. L. 803; 121 Atl. Rep. 617.” Silver Rod Stores, Inc., v. Bernstein, 110 N. J. L. 120; 164 Atl. Rep. 450.
+Certain of the grounds of appeal challenge the court’s rulings on the admission of evidence. It seems to us that the matters admitted were irrelevant and immaterial to the issue being tried; but if not, we are still satisfied from our examination of the whole case that court’s rulings brought before us were in no sense prejudicial.
+The judgment is affirmed.

@@ -1,0 +1,35 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-06-09"
+citations: ["9 N.J. Misc. 640"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANK LAYTON, PLAINTIFF-RESPONDENT, v. PENNSYLVANIA RAILROAD COMPANY, DEFENDANT-APPELLANT. ALBERT HALL, PLAINTIFF-RESPONDENT, v. PENNSYLVANIA RAILROAD COMPANY, DEFENDANT-APPELLANT. MOLLIE ZELITCH, ADMINISTRATRIX, PLAINTIFF-RESPONDENT, v. PENNSYLVANIA RAILROAD COMPANY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/9/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736245
+cites_cases: ["103 N. J. L. 690", "11 N. J. L. 702", "118 Atl. Rep. 337", "77 N. J. L. 698", "98 N. J. L. 470"]
+---
+
+# Layton v. Pennsylvania Railroad
+
+## Majority (Pee Ctteiam.)
+
+Pee Ctteiam.
+These are appeals from judgments for the plaintiffs in three actions tried together in the Camden County Court of Common Pleas. The cases arise out of an accident at a grade crossing on Thirty-sixth street Camden, at four A. M. on June 18th, 1928. A truck owned by the plaintiff Prank Layton, driven by the plaintiff Albert Hall, was struck by a train of the defendant, damaging the truck, injuring Hall and killing a passenger in the truck, Arnold Miller, for whose death suit is brought by the third plaintiff, Mollie Zelitch, administratrix of his estate. No complaint is made concerning the bringing of suit by Mollie Zelitch as general administratrix rather than as administratrix ad prosequendum.
+The trials resulted in verdicts for all the plaintiffs. Buies to show cause were allowed and discharged, after argument, by the trial judge. The eases are here upon exceptions reserved in the rules to show cause.
+The contention of the plaintiffs was that the warning bell at the crossing was not ringing; that no signal by bell or whistle was given of the train’s approach; and that the headlight on the train was not properly lighted. The evidence was conflicting. The defendant contended that the plaintiffs were guilty of contributory negligence. Pour points are argued on this appeal, all directed to the charge of the trial judge.
+The first point is that the trial judge refused to charge defendant’s first request, which was as follows:
+“1. Plaintiffs, on approaching the railroad were required to use their senses, both of hearing and of sight, effectively. That is to say to look and to observe that which was in sight, and to listen and hear that which was within hearing, and if plaintiffs failed in the instant ease to do this, then you verdict should be for the defendant.”
+This request was not charged in the language of the request. Nor was the court required to so charge. Geyer v. Public Service Railway Co., 98 N. J. L. 470. The court charged as to the duty of the driver to make investigation, and put the burden on the plaintiffs to establish defendant’s negligence by the greater weight of evidence, and likewise charged “the plaintiff must establish that, and then that the plaintiff must himself be free of contributory negligence,” thus putting the burden on plaintiff to exculpate himself of the charge of negligence.
+The request as framed placed upon the invitee of the driver the duty of using the same degree of care as was imposed by law upon the driver of the truck. It has been held that a failure of an invitee to make observations for the approach of a train is not necessarily negligent. Mittelsdorfer v. West Jersey and Seashore Railroad Co., 77 N. J. L. 698. What the invitee was required to do was to do such things as one so situated would do in the exercise of reasonable care to avoid the collision. Schroeder v. Public Service, 118 Atl. Rep. 337. The request in question imposed a greater duty upon the decedent than might reasonably be'required of him under the circumstances.
+The second point urged for reversal is the failure of the trial judge to charge defendant’s third request to charge, in the following language:
+“3. Because I have charged you on the question of damages it does not mean that you should find a verdict for the plaintiffs, but you must determine first that the plaintiffs have borne the burden of proof showing the defendant to have been guilty of negligence, and you must further find that the plaintiffs were in no way guilty of any act or omission which helped to bring about, the accident, and unless you do find the accident was caused through the sole negligence of the defendant, then ycmr verdict should be one of no cause of action.”
+This request was properly refused because it contained a statement that decedent’s plaintiff could not recover unless the collision occurred solely by reason of defendant’s negligence. This is not the law of the case. If decedent was an invitee and was free of negligence under the circumstances, and the defendant was guilty of negligence, decedent’s plaintiff would be entitled to recover, notwithstanding the negligonce of the driver. Mittlesdorfer v. West Jersey and Seashore Railroad Co., supra.
+The third point urged is that it was error to admit testimony tending to show that, although it was dark, the engine was running without a headlight. In view of the insistence of defendant that plaintiffs were guilty of negligence in failing to see the approaching engine, it was proper to show all of the conditions present which may have relation to such failure to observe the approach of the engine.
+The fourth ground of appeal is directed to the use by the trial judge in his charge of the word “heirs” instead “of next of kin,” in speaking of the persons to be compensated.
+The exception taken did not point out to the court the precise objection to the charge. It was in the following language: “May I have an exception to that portion of the charge in which your honor charged that the damage to which the plaintiff Zelitch would be entitled, or rather where you said that his heirs are entitled to, and the balance of that.” The only objectionable language used in the whole portion of the charge referred to was the inadvertent use of the word “heirs” instead of “next of kin.” The exception noted did not bring this to the attention of the trial judge or he might have corrected the slip. In Mittlesdorfer v. West Jersey and Seashore Railroad Co., 11 N. J. L. 702, it was said: “The doctrine is founded upon the inflexible rule that the party who objects in the course of a trial must bring his objection to the mind of the trial judge, so that the judge may correct erroneous expressions or explain what would otherwise miselad.”
+To the same effect is Goldfarb v. Phillipsburg Traction Co., 103 N. J. L. 690.
+In addition, we think that if there was technical error in the use of the word “heirs” in this connection, it did no injury to the defendant, because the trial judge otherwise properly instructed the jury with respect to the rule of damages in case of a verdict for the plaintiff administratrix ad prosequendum. Practice act, Parnph. L. 1912, p. 382, § 27.
+The judgments under review will be affirmed.

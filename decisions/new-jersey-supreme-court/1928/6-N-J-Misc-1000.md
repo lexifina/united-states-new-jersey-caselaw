@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1928-11-13"
-citations: ["6 N.J. Misc. 1000", "6 N.J. Misc. 1002"]
+citations: ["6 N.J. Misc. 1000"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"

@@ -1,0 +1,35 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-04-23"
+citations: ["9 N.J. Misc. 492"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PHILIP SCHUMACHER, PROSECUTOR, v. CITY OF UNION CITY ET AL., RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735883
+cites_cases: ["104 N. J. L. 596"]
+---
+
+# Schumacher v. City of Union City
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The applicant and his brother-in-law, Christian Braband, are the joint owners of a plot of land situate at southeast corner of Hudson avenue and Forty-fifth street, in Union City, commonly known as No. 135 Forty-fifth street. The plot has a frontage of seventy-five feet on Forty-fifth street and one hundred feet on Hudson avenue. These owners agreed to sell the land to Harris Perkoff and Edward I. For-man, for a site for a drive-in gasoline station. Such sale being subject to the condition that the owners would obtain a permit for such uses.
+On February 8th, 1930, an application for such a permit was made to the building inspector. This application set up the ownership to be in Philip Schumacher; the use to be “office for gasoline and oil filling station;” the name of the architect, and was signed “Edward I. Forman for Philip Schumacher.” On February 14th, 1930, the application was denied upon the ground that the lands were “not in business zone.” This seems to have been followed by a letter of the building inspector to Schumacher under date of March 15th,. 1930, stating that such officer “must reject the same as the location is in a residential zone and business is not permitted in this zone.”
+It uneontradictedly appears that at the time this application was made (February 8th) a zoning ordinance was in process of adoption and in fact was finally adopted three days later (February 11th, 1930) and it is equally certain that such ordinance placed the appellant’s land in a residence zone.
+Now, here, we may consider and dispose of two contentions—one by the applicant and the other by Union City. The applicant insists that as at the time he made his application there was in fact no zoning ordinance but only a building code he secured a vested right to have a permit if his application was for a permit for construction of a structure in accord and compliance with the building code and that, therefore, no provision of an after adopted zoning ordinance was binding upon him and he cites A. G. Construction Co. v. Scott (Court of Errors and Appeals), 104 N. J. L. 596, and attempts to differentiate Rohrs v. Zabriskie (Supreme Court), 102 Id. 473, in that in the latter case a mandamus was sought with respect to which the court exercised discretion and therefore, did not pass upon the exact, technical, rights of the landowner. However, all this may be, this fact cannot be escaped, that, under Pamph. L. 1928, p. 696, adopted to bring into effect the zoning amendment of October 18th, 1927, published notice is required to be given of the adoption of a zoning ordinance at least ten days before such adoption. There is nothing before us showing that this mandate was not observed. Therefore, as far as we are concerned the presumption is that such notice was given and also that this applicant had knowledge thereof and consequently his application of February 8th, with this notice, and three days before adoption of the ordinance, cannot be said to have been in good faith and bona fide but, rather, with a haste to secure a position which otherwise would have been prohibited. This writ applied for is discretionary and this situation as to the bona fides of the applicant should, and must be, taken into consideration.
+Now, the city says he gained nothing by his application because such application did not comply with the building code respecting places in which it is proposed to store or use inflammable material, &c., in that the petition must so state such use and the permit can only be granted upon the approval in writing from the board of council, which was then the governing body of the city.
+So the code does provide (page 63, &c., state of case).
+This consent was not obtained and, in fact, never applied for.
+It seems that after the making of the application for a permit and the passing of the zoning ordinance a change in the government of the city took place in that the provisions of Walsh act were adopted and the city went into a commission form of government. But that is of no consequence: the provision of the building code before referred to remained operative and effective notwithstanding such change. However, after the refusal of the building inspector to grant the permit, the present applicant, observing and in obedience to the requirements of the zoning statute (Pamph. L. 1928, supra), and the zoning ordinance, appealed to the board of adjustment and after hearing that body accepted an offer by the applicant to cede a part of his land to the city in order to ease up a situation respecting traffic conditions at Hudson avenue and Forty-fifth street, and recommended that there should be a modification in the zoning ordinance respecting this particular plot which the city commissioners refused to adopt.
+Now, this proceeding also seems to be without force because of two reasons:
+. 1. The statute (Pamph. L. 1928, p. 274, supra), requires notice to be given tú all property owners within two hundred feet of the lands sought to be relieved of the zoning restrictions before the board of adjustment has jurisdiction. This was not done and, therefore, that board did not have jurisdiction.
+2. That there was no judgment by the board of adjustment as provided for by such statute. The result of the appeal was merely a recommendation to the city commissioners.
+Under the act the board of adjustment may make exceptions to the terms of the ordinance if the lands involved are within one hundred and fifty feet of a district in which such a structure is authorized. That seems to be the situation here.
+There being no judgment'of the board of adjustment there is nothing in that direction to bring up for review.
+To sum up the situation, while we think there is much that can be said respecting the unreasonableness of the zoning ordinance respecting this particular plot and the block in which it is situated, nevertheless we think the writ applied for should not be granted for the reason that we think the clear legislative purpose, and a reasonable and proper one, is that this court should not be called upon to review such ordinances until proper and sufficient appeals have been passed upon by boards of adjustment.
+This clearly was not done here and we think the applicant should be left to his remedy by proper proceedings upon proper notice to the board of adjustment after a new application to the building inspector and city commissioners under the building code and zoning ordinance.
+The rule to show cause is discharged, with costs.

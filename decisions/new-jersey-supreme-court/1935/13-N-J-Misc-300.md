@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1935-04-09"
+citations: ["13 N.J. Misc. 300"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RAYMOND CHASAN, PROSECUTOR, v. THE COURT OF COMMON PLEAS IN AND FOR THE COUNTY OF HUDSON, GUSTAVE BACH, CLERK OF THE COUNTY OF HUDSON, ELNORA SMITH AND RICHARD J. NORRELL, RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/13/cases/0300-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 575692
+cites_cases: ["112 N. J. L. 218", "135 Atl. Rep. 477", "152 Atl. Rep. 337", "171 Atl. Rep. 176", "173 Atl. Rep. 336"]
+---
+
+# Chasan v. Court of Common Pleas
+
+## Majority (Bbogan, Chief Justice.)
+
+Bbogan, Chief Justice.
+The writ brings up for review an order of the Court of Common Pleas of Hudson county in a garnishment proceeding. The situation may briefly be stated as follows: Raymond Chasan, an attorney-at-law of New Jersey, had acted as solicitor in a Chancery proceeding for his client, Elnora Smith, as a result of which it was decreed that Miss Smith was entitled to $3,493.87. It appears without dispute that there was an agreement between him and his client that he should receive one-third of the amount recovered as and for compensation for his legal services. Thereafter, as solicitor, he received $1,576.45 on account of the amount due under the decree and he advised his client of the sum so received and further that he was retaining therefrom the amount of his entire fee, namely, $1,164.62, and that he held the balance of $411.83 subject to her order. The client, Elnora Smith, withdrew the sum of $100 from the amount so held by the attorney for her. Thereafter she confessed judgment in favor Of Richard J. Horrell for the amount of a funeral bill for the burial of her sister which totaled over $600; execution was issued for the amount of the unpaid judgment and a copy of the execution served on said Chasan, from whom the officer demanded the full amount of the judgment, which he refused to pay. Thereupon an affidavit was presented to a judge of the Common Pleas Court, who allowed a rule to show cause as to why Chasan should not pay this judgment in full out of the fund he had recovered for Miss Smith.
+On the return of the rule to show cause no witnesses were sworn, no affidavits received nor proof of any kind offered on the matter. The court, having heard the matter thus informally, and the representations of the parties, signed an order declaring that all the moneys in the hands of Chasan were held for the benefit of Elnora Smith except the sum of $525.49 upon which Chasan was allowed a lien for the services he rendered his client in the Court of Chancery, and further ordering that Chasan pay over to the attorney of Horrell a sum sufficient to satisfy the judgment. The order is brought up by the writ for review and is challenged by the reasons for reversal which we find unnecessary to state.
+The order will be set aside for the reason that the court, in making the order in question, exceeded its jurisdiction. The theory upon which the order was made was that the court determined that Chasan was a mere garnishee which, in the record before us, depositions having been taken under the writ, he denies, except as to the sum of $311.83. The execution statute (Cum. Supp. Comp. Stat. 1911-1924, p. 1207, § 71-9i), provides, under circumstances like these, that the court may, on the return of a rule to show cause, order a garnishee to pay the debt, providing he admits it. But here, Chasan, the solicitor, does not admit that he holds sufficient moneys of the judgment debtor to' satisf}’’ the debt. He contends that he retains only $311.83 of Miss Smith’s money and that the balance belongs to him for services. Whether he is within his rights in so doing is another matter, not before us. The court below had no power to determine, in a proceeding of this kind, the rights of the adverse claimants to the fund. Ho suit therefor was pending and the rule to show cause served on the attorney was not process sufficient to give the court jurisdiction over the subject-matter of the controversy. National Bank of New Jersey v. Ainscow, 12 N. J. Mis. R. 562; 173 Atl. Rep. 336; First Mechanics National Bank of Trenton v. New Jersey Brick and Supply Co., 112 N. J. L. 218; 171 Atl. Rep. 176; The Barrett Co. v. United Building Construction Co., 5 N. J. Mis. R. 87; 135 Atl. Rep. 477; N. Drake, Inc., v. Donovan, 8 N. J. Mis. R. 869; 152 Atl. Rep. 337.
+The order will therefore be set aside, with costs.

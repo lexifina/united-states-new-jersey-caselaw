@@ -1,0 +1,31 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-03-19"
+citations: ["3 N.J. Misc. 308"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM E. CARROLL ET AL., PROSECUTORS, v. CITY OF BAYONNE, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/3/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439716
+cites_cases: ["124 Atl. Rep. 613"]
+---
+
+# Carroll v. City of Bayonne
+
+## Majority (Pee Ctjeiam.)
+
+Pee Ctjeiam.
+The city of Bayonne has a commission form of government, operating under the so- termed “Walsh act.” On May 11th, 1923, some of the prosecutors were appointed as firemen and others as policemen, by resolutions passed by the board of commissioners. The appointments were made by the board four days before the expiration of its legal existence, which terminted on the 15th day of May, 1923, at twelve o’clock, noon.
+The incoming board of commissioners soon after its organization, on the date last mentioned, rescinded the resolution by which the prosecutors were appointed. The policemen and firemen affected by the resolution sued out writs of certiorari, with the result that the resolution was set aside by a judgment of the Supreme Court, which judgment was affirmed by the Court of Errors and Appeals. Carroll et al. v. City of Bayonne, 124 Atl. Rep. 613. The ground upon which the resolution of the incoming board was set aside was that it had not come into legal existence at the time it passed the rescinding resolution. On the 20th day of May, 1924, a year later, the board of commissioners, by a resolution declaring that, in its judgment, the present financial condition of the city of Ravonne does not warrant, nor do. the needs of the police department require an increase in the number of patrolmen in that department, that, therefore, in the exercise of the discretion vested in the hoard, and in the interest of municipal economy, rescind and revoke the resolution of May 11th, 1923, by which the prosecutors were appointed, forty of which were patrolmen and ten firemen. On the 27th day of May, 1924, the board passed a like resolution as to three more patrolmen and one fireman. In each of the resolutions it is declared that the positions to which the patrolmen and firemen were appointed are abolished.
+Both of the resolutions have been removed to- this court by writs of certiorari by the prosecutors, and the cases, were consolidated by order of this court.
+We have not considered all the reasons, presented in the brief of counsel on behalf of the prosecutors since: we have reached the result that both of the resolutions must be set aside.
+First, it cannot legally affect the tenure of the positions held by tbe prosecutors, Barry, O’Donnell, Gibson, Joyce, Dittrich, Melofchik, Dwovanski, Eolger, Stein, Nolan, Cohn, Yassar, Sweeney, Taylor, Hauch, Epstein, Burns, Albert, McCarthy, Finley, who were veterans of the World war, in the service of the United States and hono-rably discharged, for as to them the resolution is, inoperative by reason of the express declaration of section 3, chapter 14 (Pamph. L. 1907), which, provides: “It, shall not be lawful for any board of commissioners * * * to abolish any position or office held by a,nv soldier, sailor or marine, who- has served in anv war of the United States, and has been honorably discharged from the United States service.” * * *
+Second. All the prosecutors appointed, whether as patrolmen or firemen, were protected against removal from their respective offices by the Tenure of Office act provisions, and could not lawfully be removed except upon charges preferred, namely, notice, a hearing and conviction.
+See sections 3 and 5 of articles 16 and 17, chapter 152 of the Pamph. L. 1917.
+The state of the case contains a stipulation that no charges were preferred' against any of the prosecutors. The resolutions in question, based squarely upon the assertion that the positions of patrolmen and firemen are abolished, which, declaration viewed, in the light of the necessity of a municipality, no matter how sparsely it may be populated, to provide its inhabitants with adequate police and fire protection, seems to border upon the ridiculous. There is a marked difference between the act of abolishing" an office or position which has become a sinecure, and a case where, under the guise of economy, it is sought to reduce- the- number of the police o-r firemen in tire employ of a. municipality.
+As the prosecutors were protected against removal by virtue of the Tenure- of Office act, they could not be removed except in the manner prescribed by the statute. To sanction the attempt of the board to accomplish in an indirect way tire-dismissal of the prosecutors from service, by abolishing the position o-r office, is to pave the way for the annihilation of the operation of the- Tenure o-f Office act altogether.
+Moreover, it is difficult to comprehend how the board could properly abolish the office of patrolmen or of firemen as to some and not as to- all. If the office of patrolmen or of firemen had become wholly useless in the city of Bayonne, a populous city, an unlooked for ideal situation, then it becomes at once manifest that to- retain some patrolmen and some firemen was the result of unjust discrimination on part of the board, based upon partisan reasons, in the absence of any good reason appearing to the contrary. We- think a fair reading" of the testimony warrants us in finding that the resolutions were.the outcome of partisan discrimination, which renders them ineffective’, by virtue of the Tenure of Office act.
+The facts of this case distinguish it very clearly from those cases cited in the brief of defendant’s counsel, holding that neither the Veterans’ act nor the Tenure of Office act prevents a municipality, in the interest of efficient and economical administration, from reducing the number of employes. The facts, as disclosed by the testimony, do> not present the essential features, which prevent the application of either statute to the attempt to remove the prosecutors from office.
+The resolutions are set aside, with costs.

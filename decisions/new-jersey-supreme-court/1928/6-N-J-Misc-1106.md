@@ -1,0 +1,28 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-11-30"
+citations: ["6 N.J. Misc. 1106"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STRAUSS CONSTRUCTION COMPANY, A CORPORATION OF THE STATE OF NEW JERSEY, RELATOR, v. BOARD OF TENEMENT HOUSE SUPERVISION OF THE STATE OF NEW JERSEY, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/6/cases/1106-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732528
+cites_cases: ["35 N. J. L. 396", "46 N. J. Eq. 386", "66 Me. 435", "83 N. J. L. 227"]
+---
+
+# Strauss Construction Co. v. Board of Tenement House Supervision
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The relator is the owner in fee-simple of a tract of land, situated in Jersey City, with a frontage on Sherman Place of ninety-eight feet ten inches, together with certain rights, powers and privileges in and over two strips of land, one •eight feet in width, lying along and contiguous to the westerly line of said tract, and the other twenty feet in width, lying .-along and contiguous to the easterly line of said tract, and is •desirous of erecting upon said tract a five-story brick apartment house, using said eight-foot and twenty-foot strips of land for the purposes of court yards to the main building. Eor this purpose the relator applied to the board of tenement 'house supervision of the State of New Jersey, for a permit for the erection of said proposed building. The application for the permit was denied on the ground that such use of said •eight and twenty-foot strips of land for such purposes was in violation of the law; and the application presented to the •court at this time is for a peremptory writ of mandamus •directing the board of tenement house supervision and commanding and enjoining it to issue the necessary permit as requested by the relator.
+It will be observed that the relator’s title to the lots last ■described is based entirely upon easements which it claims in and over the same premises. The easement in the eight-foot -strip along the westerly side of relator’s plot was founded in .an express grant. The legal rights of the relator in the twenty-foot strip of land arise in virtue of the fact that the relator’s predecessor in title, one John Mehl, Jr., while holding title to the plot now owned by the relator, as well as the plot to the east of said premises, conveyed the easterly plot to one Linus V. Schaefer by deed containing a clause which provided that neither the grantee, Schaefer, nor his heirs, personal representatives or assigns, will erect or permit to be erected on the premises any building within twenty feet of the rear line (being the easterly line of the relator’s plot), but shall keep such strip of land open and unoccupied, except that light, open fences, not more than six feet in height, may be built to enclose the said strip as a courtyard.
+John Mehl, Jr., subsequently conveyed the plot of which the relator is now the owner, the deed including all the rights reserved by the deed made to Schaefer in and over the twenty-foot strip.
+In this situation the relator submitted for approval to the board of tenement house supervision, plans for the erection of a five-story apartment house, which plans were disapproved by the board because of a lack of necessary courts on the sides of the building.
+The relator’s claim is that he has the legal right to use the eight-foot and twenty-foot strips as or in lieu of courtyards. Whether or not he has such right is a debatable question and should be presented for consideration and settled before the right of the relator can be considered sufficiently clear to warrant the grant of a writ of mandamus, which is never granted excepting where the question presented is free from doubt. State v. Newark, 35 N. J. L. 396; Secaucus v. Kiesewetter, 83 N. J. L. 227; High Extr. Rem. 12.
+For instance, it has been held that where the owner of two lots conveyed one of them with the restriction that no building should be erected thereon within a certain distance of the other lot, such reservation creates an easement in the lot granted for the benefit of the second lot. Herrick v. Marshall, 66 Me. 435; 19 C. J. 911.
+And so it has been held that the right to the enjoyment of the easement will pass as appurtenant to the lot in respect to which it was created. Coudert v. Sayre, 46 N. J. Eq. 386.
+The factual situation thus presented it is manifest creates a legal question as to the validity of the relator’s rights for the purposes in question, as related to the Tenement House law. The board of tenement house supervision in this instance examined the plans and specifications submitted and refused to approve the same, giving the relator the reason therefor which was that the plans did not show sufficient courts, as required by the Tenement House act. The Tenement House act (4 Qomp. fitat., p. 5323) defines with sufficient particularity the meaning of a court in connection with construction of a tenement house building, and the respondent in this instance has attempted to follow that definition by refusing to approve the plans and specifications submitted.
+The object of a writ of mandamus under such circumstances would be to compel the board, in the face of its investigation and conclusion, to issue the permit applied for by the relator, and as we have already observed, the relator’s right to the issuance of the permit under the circumstances presented by the case is not sufficiently clear to warrant the granting of the application. Eor this reason the application for the writ will be dismissed.

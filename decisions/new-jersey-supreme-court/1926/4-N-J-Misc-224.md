@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1926-03-05"
-citations: ["4 N.J. Misc. 224", "4 N.J. Misc. 226"]
+citations: ["4 N.J. Misc. 224"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["SAMUEL LESSER, PLAINTIFF-RESPONDENT, v. MORRIS STOLMAN ET UX., DEFEND
 source_url: "https://static.case.law/nj-misc/4/cases/0224-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 583834
-cites_cases: ["34 N. J. L. 329", "85 N. J. L. 128"]
+cites_cases: ["85 N. J. L. 128"]
 ---
 
 # Siebke v. Township Committee

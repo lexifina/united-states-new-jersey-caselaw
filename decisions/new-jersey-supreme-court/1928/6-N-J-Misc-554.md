@@ -1,0 +1,30 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-06-08"
+citations: ["6 N.J. Misc. 554"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARNEY APTER AND ELITE M. APTER, PARTNERS, TRADING AS PHILIP APTER & SONS, PROSECUTORS, v. THE CITY OF NEWARK, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/6/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 733168
+---
+
+# Apter v. City of Newark
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The prosecutors are the owners of premises designated as No. 16 Stratford Place, in the city of Newark. On August 29th, 1927, they applied to the building inspector of Newark for a permit to alter the first floor of the building for the purpose of changing the same into funeral parlors to be used in connection with the undertaking business which the prosecutors desired to carry on. On August 31st, 1927, the application was rejected. On September 1st, 1927, an appeal was taken from the decision of the superintendent of buildings and a public hearing was held by the board of adjustment on the appeal, and the board in its turn refused to grant the prosecutors’ application, whereupon the prosecutors desisted from making the alterations intended, but fitted up the premises for a funeral parlor and began carrying on the undertaking business.
+On the 28th of October, 1927, a funeral was conducted from the premises in connection with and as a part of the undertaking business. Complaint was made against the prosecutors, separately, for the violation of article 1, section 2 of the zoning ordinance, because of the carrying on of the said business on the said premises.
+At the trial counsel of the prosecutors moved to dismiss the complaint on the following grounds: (1) That the ordinance was void and unconstitutional because it prohibited the carrying on of the business in a residence zone, and (2) That the “complaint was void” because there was no allegation that No. 16 Stratford Place was within a residence district.
+The trial judge refused to dismiss the complaint ordered on the trial, found the prosecutors guilty and fined them $25, which judgment is now before us for review on writ of certiorari.
+It appears from the record that the proceedings against the prosecutors were commenced against each, individually, by complaint and summons for violation of section 2 of article 1 of an ordinance entitled “An ordinance regulating and restricting the location of trades and industries and the location of buildings designed for specified uses, and regulating and limiting the heighth and bulk of buildings hereafter erected, and regulating and determining the area of yards, courts and other open spaces surrounding buildings and establishing the boundaries of districts for the said purposes and providing penalties for the violating of its provisions,” approved December 31st, 1919, and the supplements and amendments thereof.
+Subsequently, these two actions wrere consolidated by consent of counsel and of the court, so as to be considered as having been instituted by summons and complaint against both prosecutors jointly, since they carried on the undertaking business as partners.
+It appears from the complaint that, after setting forth the title of the ordinance, it charges that the posecutors “did use the buildings and premises known as No. 16 Stratford Place in said city, for carrying on an undertaking business, and did conduct on said premises, on Friday, October 28th, 1927, a funeral in conjunction with said undertaking business in accordance with an advertisement published in the Newark Evening News on October 27th, 1927, and contrary to the provisions of said section.”
+Deferring to section 2 of the ordinance, we find that it inter alia provides, under the caption “residence district: In a residence district no building or premises shall be used and no building shall be erected which is arranged, intended or designed to be used, except for one or more of the following specified uses — (1) Dwellings or tenements, including the office of a physician, surgeon, &c.,” (and then follows a list of various other kinds of vocations or character of buildings which might be erected), none of which includes the privilege of carrying on an undertaking business, or in express terms excludes it.
+We do not deem it necessary to pass upon the constitutionality or reasonableness of the ordinance in question, since it is clear to us that the complaint made is fatally defective in that it does not allege that the business carried on at No. 16 Stratford Place is in a residence district, and, therefore, the motion of the prosecutors to dismiss the complaint should have prevailed.
+Furthermore, the record of conviction does not show a violation of section 2, article 1, of the ordinance by the prosecutor, for it simply alleges “that the defendants were convicted of having violated said section of said ordinance in this, that they did use the building and premises known as No. 16 Stratford Place in said city, on October 28th, 1927, a. d., for carrying on an undertaking business, and did conduct on said premises on Friday, October 28th, 1927, a funeral in conjunction with said undertaking business, contrary to the provisions of said section, “without further alleging that the said premises on which their business was conducted were within the area of a residence district.
+The violation aimed at is the carrying on of a business in a residential district, and this proceeding being summary and of a penal nature, all the acts necessary to constitute a violation of the ordinance should be stated, for the court cannot properly take judicial notice that the place where the act complained is charged to have been done took place in a residence or in a business district. The character of the place is an essential fact to be alleged in the complaint, and to be set forth in the conviction. And this does not appear.
+The conviction will be set aside, with costs.

@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1927-03-03"
+citations: ["5 N.J. Misc. 323"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY M. SMITH v. ELIZABETH M. GAVIN ET AL., ADMINISTRATORS, ETC."]
+source_url: "https://static.case.law/nj-misc/5/cases/0323-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 730596
+cites_cases: ["59 N. J. L. 130"]
+---
+
+# Smith v. Gavin
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action was brought by the plaintiff to recover for services rendered by her as housekeeper, nurse, &c., to the defendants’ decedent, Mrs.- Julia Halsted. The services which were the subject of the suit extended over a period beginning on May 1st, 1916, terminating at the time of Mrs. Halsted’s death, on August 14th, 1924. The jury found in favor of the plaintiff and awarded her damages by way of Compensation for these services in the amount of $9,722.80.
+The first ground upon which we are asked to make the rule absolute is based upon the refusal of the trial court to grant a nonsuit or direct a verdict in favor of the defendants. These motions were based upon the theory that the plaintiff, during the period of the rendition of the services, was a member of the household of Mrs. Halsted, and that, this being so, there was no implication of a promise by Mrs. Halsted to pay the plaintiff for the services rendered to, and accepted by her, and n-o express promise to make such payment was alleged by the plaintiff. We think these motions were each of them properly refused. Whether the plaintiff was working as a member of the decedent’s family for mere love and affection, or for a reasonable compensation to be paid to her for h-er work, was, under the proofs, a question of fact, to be determined by the jury.
+Next, it is argued that the verdict is contrary to the weight of the evidence and is manifestly the result of passion and prejudice on the part of the jury. It is also suggested that it is contrary to the charge of the court. Our examination of the proofs sent up with the rule satisfies us that they support the verdict, and we find nothing in that verdict which is not justified by the charge of the court to the jury.
+Next, it is argued that the statute of limitations was a bar to the recovery for any services rendered by the plaintiff prior to April 27th, 1919; that is, six years and six months before the institution of the suit. A payment by a debtor, in part satisfaction of an admitted claim, made less than six years prior to bringing suit upon such claim, takes the case out of the statute of limitations. The proofs in the case made it a question of fact, to be determined by the jury, whether such a payment had not been made during the running of the statute. It is admitted that in March, 1924, the decedent paid the plaintiff $2,000 on an indebtedness theretofore existing for services rendered. Whether it was a payment in full, or on account of a larger sum then due and owing, was a matter in dispute between the parties. When it was made the plaintiff signed the following written receipt: “Asbury Park, N. J., March 24, 1924. Mrs. Julia M. Halsted, to Mary M. Smith, Dr. For services rendered to date, $2,000. Received payment, Mary M. Smith.” On its face, this would show an accord and satisfaction; but Mrs. Smith was called as a witness to explain its signing, and testified that she did. not read it, not being able to do so because she did not have her glasses with her; that she did not know what was in the receipt, and that the payment was not intended to be anything more than a payment on account. It is contended on, behalf of the defendants that her testimony was inadmissible, under section 5 of our Evidence act. We think not. The defendants offered in evidence the receipt, which was a transaction between the decedent and the plaintiff, and the plaintiff was competent to testify with relation to the matters referred to in it. It is further arg-ued that the testimony was incompetent, for the reason that the contents of a written instrument cannot be altered or modified by parol evidence. But this doctrine does not apply to a receipt for the payment of money. Joslin v. Giese, 59 N. J. L. 130, and cases cited.
+Lastly, it is asserted that the court erred in refusing to allow the defendants to put in evidence what was stated to be a draft of the last will and testament of Mrs. Halsted, but which, apparently, had the signature torn off. We think this paper was properly excluded. There was no proof offered to show that it was in the handwriting of Mrs. Halsted or was written by anyone by her authority, nor was there any suggestion in the testimony that it had ever been executed by her as her will. In this situation, we consider that the paper was without evidential force as to the matters contained in it.
+Eor the reasons indicated, we conclude that the rule to show cause should be discharged.

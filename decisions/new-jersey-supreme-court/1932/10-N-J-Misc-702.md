@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-05-17"
+citations: ["10 N.J. Misc. 702"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEARL GOLDMINTZ, AS ADMINISTRATRIX AD PROSEQUENDUM OF THE ESTATE OF ABE GOLDMINTZ, DECEASED, APPELLANT, v. PERTH AMBOY BEEF COMPANY, A CORPORATION, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/10/cases/0702-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739500
+cites_cases: ["112 Atl. Rep. 255", "95 N. J. L. 187"]
+---
+
+# Goldmintz v. Perth Amboy Beef Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The suit was brought to recover damages under the Death act. The trial resulted in a nonsuit of the plaintiff, and from the judgment entered thereon the plaintiff appeals. There was no witness to the accident and no one is able to say how it occurred.
+The main facts, stated in the light most favorable to the plaintiff, are as follows: The defendant, Perth Amboy Beef Company, was the owner and occupant of a beef house and cold storage market in the city of Perth Amboy. The defendant leased its adjoining premises to certain hucksters for the sale of fruit and vegetables. Amongst these lessees was Max Goldberg, employer of the decedent. Goldberg was given the privilege of overnight storage of some of his vegetables in the refrigerating room of the defendant company situated on the second floor of the beef house. There was an elevator in the premises that operated between the cellar, the first floor and the second floor. The elevator was operated by a hand rope. No one other than employes of the defendant was authorized to operate the elevator. The elevator shaft was dark but was protected by a folding gate which was controlled by hand. About seven-thirty of the morning of June 28th, 1930, Goldberg ordered the decedent Goldmintz to get a crate of onions that had been placed, the night before, in the refrigerating room. Goldmintz thereupon entered the beef house and was not seen again until nine-thirty that night when his dead body was found at the bottom of the elevator shaft. At the last mentioned time the, elevator platform was level with the first floor of the premises, and the folding gate at that place was open. It is manifest, however, that if Goldmintz fell from either the first floor or the second floor, the elevator could not have been in that position at the time of the fall. Eigor mortis had fully developed when the body was found, indicating that death had occurred at least seven or eight hours before. The skull was fractured and this injury was apparently the cause of death.
+No fault is to be found with most of the points raised on appeal by the appellant. The obligation of the owner of lands with respect to an invitee and with respect to a licensee appears to be correctly stated. It may fairly be presumed that death was accidental, and possibly it may be presumd that Goldmintz died as the result of a fall through the elevator shaft. But with these presumptions and with the law as thus stated, liability is nevertheless not fastened upon the defendant. Mere theories and inferences do not authorize a verdict in a case of this nature unless they are the only conclusions that can reasonably be drawn from the facts proven. Negligence is a fact which must be shown. It will not be presumed. McCombe v. Public Service Railway Co., 95 N. J. L. 187; 112 Atl. Rep. 255. Where the elevator was when Goldmintz fell, what he was doing when he fell, how he fell, can only he guessed; and a guess is not sufficient to hold the defendant to liability. The decedent is not shown to have met his death from the violation of any obligation owed to him by the defendant.
+The nonsuit was properly granted. Judgment below will be affirmed.

@@ -1,0 +1,45 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-04-17"
+citations: ["3 N.J. Misc. 414"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT W. KENNEDY COMPANY ET AL., PROSECUTORS, v. BOARD OF PUBLIC UTILITY COMMISSIONERS ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/3/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439636
+cites_cases: ["95 N. J. L. 295"]
+---
+
+# Robert W. Kennedy Co. v. Board of Public Utility Commissioners
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The writ of certiorari in this case brings under review an order of the board of public utility commissioners, dated November 26th, 1924, directing and ordering the Pennsylvania Railroad Company to provide a switch connection for a side track, when constructed on the property of the defendant the Central Transportation Company, from a point where the land of that company joins land owned by the Pennsylvania Railroad Company. The land of the Pennsylvania Railroad Company is now leased and occupied by the prosecutor Robert W. Kennedy. Company for its coal and lumber business- The switch connection is to enable the two defendant companies to receive car load freight on a tract of land desired to be developed for the joint use of the two defendant companies as a car barn, a garage for motor coaches and a material yard.
+The Robert W. Kennedy Company procured a writ of certiorari to review the order. The Pennsylvania Railroad Company was admitted and joined as prosecutor with the Robert W. Kennedy Company. Both companies attack the order and file1 six reasons for setting it aside. The reasons are argued under three points in the prosecutors’ brief.
+Pirst. The board lacked jurisdiction to make the order.
+Second. The order, in effect, takes the property of the prosecutors without anjr provision for just compensation.
+Third. There was nu evidence to reasonably support the order made by the board.
+The statute under which the order was made is an act concerning public utilities (Comp. Stat. of N. J., 1st Supp., p. 1278; Pamph. L. 1911, p. 378, part 2, § 16 E), which provides the board' shall have power; after hearing, upon notice, by order in writing, to direct any railroad engaged in carrying merchandise to construct, maintain and operate, upon reasonable terms, a switch connection with any private side track, which may be constructed by any shipper to connect with the railroad, ox street railway, where, in the judgment of the board, such connection is reasonable and practicable, and can be put in with safety, and will furnish sufficient business to justify the construction and maintenance of the same.
+The objection that is urged and argued, however, is not to the validity of the statute under which the order was made. But it is the prosecutor Eobert W. Kennedy Company is in possession of the land over which' the defendants desire to cross with a side track. The interest of the Eobert W. Kennedy Company in -the land was. acquired from the Pennsylvania Eailroad Company bjr a lease dated September 24th’, 1923, Exhibit 1, terminable at the will of the Pennsylvania Eailroad Company upon sixty days’ notice, and that the Eobert W. Kennedy Company cannot be divested of its rights by the taking of any part of the land now occupied by it, except by condemnation. As the hoard of public utility commissioners has no power under the statute to condemn the interest in the land held by the Eobert W. Kennedy Company, the order of the board is therefore a nullity.
+The answer made to this point is, the hoard is not proceeding under any assumed authority to condemn private property, hut is acting under express ^statutory authorization, and, therefore, the order made by it is legal. While it is conceded that the land is the private property of the Pennsylvania Eailroad Company, since it was acquired for its right of way, it is, nevertheless., charged with a public use. It does not under'the statute have the right, to. use the land in any way in which, it may desire to use' it as a private owner of real estate may d0‘, but may only use it for purposes consistent with the objects for which the railroad company was incorporated.
+The Eailroad act (3 Comp. Slat, of N. J., p. 4220, § 3; Pamph,. L. 1903, p. 647, § 3) provides every railroad company shall have power to acquire, from time to time, and hold and use such real estate1 and other property as may, in the judgment of its directors, be necessary to accomplish the objects of its incorporation, and to sell land thus acquired when not necessary for such purposes and objects. So, section 13 limits the1 property which may be acquired by condemnation. So, it may lease or grant, for a short period of time, a part of its property for which it may have no immediate need. Armstrong v."Pennsylvania- Railroad Co38 N. J. L. 4.
+While it is true the Pennsylvania Eailroad Company is the absolute owner of the land, the use to which it may be put is greatly restricted, the Pennsylvania Eailroad Company cannot by means of a lease create rights in the lessee, the Eobert W. Kennedy Company, superior to1 the rights which it has itself in the premises under the statute. The railroad company could not, -by means of a lease for. a long or a short -period of time, vest in the Eobert W. Kennedy Company the absolute right to use the land in the conduct of its coal and lumber business without being subject to tbe paramount duty to use tlie land for railroad purposes whenever the need therefor shall arise.
+So, the Eobert W. Kennedy Company has always held tbe land subject to such use. The order of the board of public utility commissioners, therefore1, does not divest it of any rights which it formally had, for it merely requires the land shall now be put to that use.
+This disposes of the point that the board had no jurisdiction in the premises, and that it was taking the property of the prosecutors without awarding just compensation, for which it had no power. The board, as stated, in making tbe order, was acting under express statutory authority.
+The board found from the evidence before it the four conditions of fact to- exist, which justified the board in making the order under the statute, viz.:
+1. That it was reasonable.
+2. That it was practicable1.
+3. That the switch can be put in with safety.
+4. When put in it will furnish sufficient business to justify the construction and maintenance of the same.
+The act (Pamph. L. 1918, p. 304) provides the order may be reviewed upon certiorari by the Supreme Court; such order may be set aside, in whole or in part, when it clearly appears that there was no evidence before the hoard to1 support reasonably the same, or that the same was without the jurisdiction of the board. The testimony under which the order was made has been returned with the writ of certiorari in the printed book. Our reading of it leads us to the conclusion that there was evidence before the board to support reasonably the order made. Hackensack Water Co. v. Board of Public Utility Commissioners, 95 N. J. L. 295. Hence, we cannot set the order aside for this reason., It would serve no useful purpose to restate the evidence from the printed book.
+The two defendant companies attack that part of the order which provides the switch connection for a side track is made, “subject to the condition that petitioners shall bear any reasonable expense incident to the construction of the side track from the siding constructed upon the property of the Central Transportation Company to. the clearance point at the switch connection, and also the expense of any necessary rearrangement of the facilities of the Eobert W. Kennedy Company used by it in the conduct of its business., which facilities are located upon the land leased by it from the Pennsylvania Eailroad Company. If the parties cannot agree as to the reasonable amount of such expense an application may be made to the board to settle that aspect of the matter.” These companies obtained a writ of certiorari and were admitted-as co-prosecutors under the writ. They then filed four reasons for setting aside that part of the order attacked by'them. The attack is made upon the grounds.—
+First. There was no evidence to support that part of the order.
+Second. The board lacked jurisdiction to impose upon the applicants the conditions.
+Third. The conditions imposed are unreasonable.
+Fourth. It gives to the Robert W. Kennedy Company rights as lessee, which the law of the state does not entitle it to.
+It seems quite unnecessary to further follow the argument on this point in detail. The statute provides the order may be made upon reasonable terms; the facts do not seem to' be contradicted.
+We think there is no legal merit in the argument on this branch of the case.
+The order of the board is therefore affirmed in its entirety, and the writs of certiorari are dismissed, with costs.

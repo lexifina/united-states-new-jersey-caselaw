@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-01-16"
+citations: ["7 N.J. Misc. 101"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NIELS NIELSON ALLING, PLAINTIFF, v. LeROY WALTON, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/7/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 447075
+---
+
+# Alling v. Walton
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case is before this court upon a plaintiff’s rule to show cause. On July 26th, 1926, the plaintiff, a man of sixty-six years of age, was riding his bicycle westwardly over an unimproved road known as Watrous lane, in Middlesex county, towards Pord’s Corners where he resided. The defendant was driving his automobile in a southerly direction on an improved main highway, known as Cleveland avenue, to the shore. Cleveland avenue crosses Watrous lane at right angles. The plaintiff knew the locality and knew Cleveland avenue to be the main highway. His testimony was that he first saw the defendant’s car when he was in the middle of the forty feet wide concrete surface of Cleveland avenue. The car was ascending a grade and was approximately one hundred and ninety-two feet distant. The plaintiff had twenty feet to go to cross Cleveland avenue and was propelling his bicycle at the speed of ten miles an hour. His wheel struck the left front mudguard of the defendant’s car. This version would make the speed of the defendant’s car approximately ninety miles an hour. The speed of the ear testified to by the defendant and a Dr. Gardner, who was following in an automobile, was twenty-five miles an hour. The defendant’s car was about at the top of a long ascending grade where it would not be likely to attain such a speed as is inferable from the plaintiff’s testitimony. The defendant’s car must have been nearer to the plaintiff when he first saw it.
+The defendant’s version was that he thought the plaintiff was going to the rear of his car, when the plaintiff turned and triéd to pass in front of it. The defendant steered to the right but the plaintiff’s wheel struck the left front mudguard as stated. The defendant testified he stopped his car within ten or fifteen feet and the plaintiff was at the rear end of the car when stopped. The plaintiff’s contention is that the car was not stopped within this distance.
+The case was submitted to the jury which found for the defendant. The plaintiff assigns ten grounds for a new trial. The first is that the verdict is against the weight of the evidence. We have reviewed the evidenc and do not consider that the verdict rendered was contrary to the weight of the evidence. The second ground is the same with the recital of additional testimony on the extent of plaintiff’s injuries. The answer to ground one covers the second ground. The third ground is that the verdict was contrary to the charge. We have been unable to see in what respect it is. The fourth ground is that the charge in sevral particulars is erroneous. The particular portions are not ■ specified. This is required under rule 125 of the rules of the Supreme Court. There is no way for the opposing party or this court to determine the portions of the charge' which the plaintiff alleges to be erroneous.
+The fifth ground is the refusal to charge as requested. "The requests” are one continuous request of four printed pages. It is not a complete charge. It was properly refused. It contains misstatements of the testimony, as for example, in calling Watrous road a prominent cross road when it was a lane, poorly defined. It contained an error in law as it stated the maximum lawful speed was fifteen miles per hour. ' The sixth ground depends on the misstatement as to speed and is in this respect faulty. The seventh ground is a variation of the first ground on the verdict being against the weight of the evidence which we have considered.
+The eighth ground is that there was no evidence of contributory negligence which justified the verdict rendered. It is argumentative in character. We deem the evidence ample to have justified the verdict on the ground of contributory negligence. We considered this question in determining that the verdict was not contrary to the weight of the evidence. The ninth ground is that the jury disregarded the evidence and instructions of the court. This is but another way of stating the same proposition which we have already discussed and passed upon. The tenth ground is an argument that the defendant was traveling at a reckless speed. This is but an element of the first ground which we have heretofore considered.
+Our examination of the ease has brought us to the conclusion that the rule to show cause should ho discharged. It is accordingly discharged.

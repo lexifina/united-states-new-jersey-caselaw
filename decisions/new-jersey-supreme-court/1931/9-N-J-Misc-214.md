@@ -1,0 +1,26 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-01-22"
+citations: ["9 N.J. Misc. 214"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRACE S. VAN HOUTEN AND ARNOLD JACOBY, PLAINTIFFS-RESPONDENTS, v. JEANIE CAMPBELL, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/9/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735863
+cites_cases: ["85 N. J. L. 77"]
+---
+
+# Van Houten v. Campbell
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The major portion of the specification of errors is a recital of a motion by the defendant, at the close of plaintiffs’ casej. for a direction of judgment in favor of the plaintiff for "nominal damages/’ the reasons therefor, the reservation of decision thereon, the putting in of the defense under permission by the court, a renewal of the motion, a submitting, of briefs, a denial of the motion, and the entry of judgment, in favor of the plaintiff, closing with the statement that, "the court erred in this determination and appellant is dissatisfied with same in point of law.” We are unable to determine precisely which of the court’s determinations is the one objected to by appellant. We gather from her brief that she lays the error in the denial of the motion to direct, but we do not understand that the defendant has a right to compel a verdict, large or small, to be entered in favor of an unwilling plaintiff. Perhaps the defendant meant thus-to limit the extent of plaintiffs’ recovery, but the motion was not appropriate to that end. Nor was the motion sufficiently explicit. A verdict for money damages is in figures or their equivalent, not in the nomenclature "nominal damages.” Plaintiff would now waive aside the entire defense on the theory that the defendant, having moved for a direction, was not entitled to produce testimony thereafter—a. matter which, by pertinent objection, should have been—but according to the record was not—presented at the trial. Nevertheless, we find no reversible error in this division of appellant’s case.
+A further allegation of error requires a brief statement, of the case. The action arises out of a contract relating to a "Hair Devitalizing Machine.” There had been an earlier agreement between the distributor and one Clark, giving the-latter certain agent’s and lessee’s rights. Clark’s rights were assigned to Yan Ilouten. Yan Houten, one of the plaintiffs herein, and Campbell, the defendant herein, entered into-an agreement whereby the former undertook to assign “the contract” to Campbell, and the latter agreed to purchase the same for $500, payable $100 on the next day, namely, November 19th, 1929, and $400 on December 2d, 1929; the-contract to be actually transferred upon the making of the $400 payment. Nothing further was done except that, as-the stipulated facts recite, “the plaintiff was notified by the •defendant that she would not take the machine.” This suit was brought for the recovery of the contract price.
+It is conceded by both parties that the case is within the Sale of Goods act (4 Comp. Stat., p. 4647); but a dispute .arose at the trial and is continued on appeal as to which .section of the act was operative, whether section 63, subsection 2, as argued by the plaintiff, or section 64 as argued by the •defendant. The trial judge, sitting without a jury, found, in his decision, that “this action was brought by the plaintiff under section 63, subsection 2, of the Sales act, and not .section 64, and under this section plaintiff is entitled to recover the purchase price of the contract, viz., five hundred ■dollars.”
+Nothing had been done under the contract. The contract was wholly executory. “The rule of law is that either party to a contract, wholly or partially executory on the part of the •other party, always has the right to stop performance by the ■other party subject to that party’s right to damages. Ell. L. S. 611. Eepudiating a contract to sell goods or countermanding performance, does not rescind the contract, but ■constitutes a breach of it. 2 Mech. S., § 1092. If the breach ■of contract takes place before any of the goods have been •delivered, the measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of ■events, from the buyer’s breach of contract.' Sales of Goods Act, § 64 (1) (2); Comp. Stat., p. 4662; Ell. L. 8. 612;” Bixler v. Finkle, 85 N. J. L. 77. See, also, Crichfield-Loeffler, Inc., v. Taverna, 4 N. J. Mis. R. 310.
+Section 64 of the Sales act, supra, subsections 1 and 2, provide as follows: “(1) Where the buyer wrongfully neglects or refuses to accept and pay for the goods, the seller may maintain an action against him for damages for non-accept.ance. (2) The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of •events, from the buj^er’s breach of contract.” 4 Comp. Stat., jp. 4662. That language, in our opinion, is controlling. It ■cannot be said that the obligation to pay the $500 was so irrespective of delivery that section 63, subsection 2, became-applicable.
+There was no proof of damage ensuing from the defendant’s breach of contract.
+The finding of the trial judge was in error. Judgment below will be reversed.

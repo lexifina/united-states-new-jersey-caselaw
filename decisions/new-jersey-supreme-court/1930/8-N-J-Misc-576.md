@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1930-07-11"
+citations: ["8 N.J. Misc. 576"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KRONSTANTINE CHOJINSKI, RESPONDENT, v. NEW YORK CENTRAL RAILROAD COMPANY, APPELLANT."]
+source_url: "https://static.case.law/nj-misc/8/cases/0576-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426859
+---
+
+# Chojinski v. New York Central Railroad
+
+## Majority (Pee CuniAii.)
+
+Pee CuniAii.
+This suit was brought under the Federal Employers’ Liability act. By it the plaintiff seeks to recover for personal injuries received by him while engaged in interstate commerce in the service of his employer, the defendant railroad company. The proofs showed that the plaintiff was employed to unload a car of wheat at the grain elevator of the defendant company at Weehawken; the car being a part of an interstate shipment. The method of unloading the car was by means of an automatic shovel which was fastened to a rope, the rope passing through a pulley which was located about fourteen inches outside of the door of the car, and operated by an automatic spool attached to a power motor. The apparatus was geared to pull the shovel forward from the farthest corner of the ear to the door, and then the rope was automatically released to permit the pulling of the shovel back to its original position in the far corner of the car. The duty of the plaintiff was to guide the shovel while it was being pulled forward and to pull it back when the machinery released it. This he did by grasping two handles which were on the shovel. While engaged in this work, as the shovel was being pulled forward automatically and was nearing the door, it struck a stick which had been nailed to the floor of the car and which was about two feet long, two inches high, and one inch thick, and as a result thereof the shovel jerked in such a way as to cause the plaintiff to lose his balance. Trying to prevent himself from falling, he grasped the rope, which was dragging the shovel toward the door of the car, and his hand was drawn into the pulley and quite severely injured. The plaintiff’s claim was that the defendant was responsible for this injury, the stick being covered to such a depth by the wheat that it was not visible. The trial resulted in a verdict in favor of the plaintiff, and the appeal is from the judgment entered thereon.
+Only one ground of reversal is submitted by the defendant in its brief; namely, that there was error in refusing to grant the motion of the defendant for a nonsuit. There were two grounds upon which the motion was rested.
+The first was that the defendant was not required to make such an inspection when the ear was placed for unloading as would reveal the presence of the cleat which was nailed to the floor, and that consequently its failure to make such inspection at that time was no evidence of negligence on its part. In our opinion the motion to direct a verdict upon this ground was properly denied. It is of course true in the present ease that the defendant was not required to make an inspection of the floor of the car when it was placed for unloading, for the proofs showed that when it was so placed it was filled with wheat almost to its top. But as the car belonged to the defendant, it was for the jury to say whether its failure to make a reasonably careful inspection before the ear was loaded for the purpose of ascertaining whether it could be unloaded without danger to the employe engaged in the performance of that duty, constituted actionable negligence on its part.
+The second ground upon which the motion was based is that the mere presence of the cleat, one-half inch thick by two inches wide and two feet long, nailed to the floor of the box car, was not evidence of negligence on the part of the defendant even if it was chargeable with knowledge of that fact. It seems to us that this contention is equally without merit. If the defendant permitted this car to be loaded while the strip of wood was nailed to the floor thereof, so that it would be likely to catch the shovel when the car was nearly unloaded, thus jeopardizing the safety of the employe who was engaged in that work, and failed to notify its employe of the danger arising therefrom, it was for the jury to say whether such knowledge, coupled with the defendant’s failure to notify the plaintiff of the presence of the strip, did not constitute negligence on its' part which was a producing cause of the accident.
+Eor the reasons indicated, we conclude that the judgment under review should be affirmed.

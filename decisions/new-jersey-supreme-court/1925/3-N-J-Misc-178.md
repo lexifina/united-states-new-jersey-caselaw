@@ -1,0 +1,20 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-02-05"
+citations: ["3 N.J. Misc. 178"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDISON FIXTURE COMPANY, INCORPORATED, PLAINTIFF-APPELLANT, v. P. W. ROUNDS AND JOHN SERMON, TRADING AS SERMON & ROUNDS, DEFENDANT-APPELLEE."]
+source_url: "https://static.case.law/nj-misc/3/cases/0178-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439543
+---
+
+# Edison Fixture Co. v. Rounds
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+This case was argued with, and is controlled by, our decision in Edison Fixture Co., Inc., v. Copoulos, No. 475, of the present term.
+The judgment will be reversed and a venire de novo awarded.

@@ -1,0 +1,36 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1926-03-05"
+citations: ["4 N.J. Misc. 230"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE, EX REL. HENRY V. WALKER, RELATOR, v. MILTON A. MAAS, RESPONDENT."]
+source_url: "https://static.case.law/nj-misc/4/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 583832
+cites_cases: ["77 N. J. L. 186", "82 N. J. Eq. 612"]
+---
+
+# State ex rel. Walker v. Maas
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a rule to show cause why a writ of quo warranto should not issue to test the title to the office of president of Maas & Walstein Company, a private corporation.
+The petitioner, Henry Y. Walker, was the president of the company, having been elected by the board of directors on December 2d. 1924, “for the ensuing year, in pursuance of a by-law, which directed that the president, vice-president, secretary and treasurer should be annually elected by the board of directors/’ and was receiving a salary of $24,000 per annum.
+On February 2d, 1925, at a special meeting, he was removed from office by the board, and a Mr. Maas was chosen to succeed him. Walker had notice of the meeting, but the notice did not state that his removal was to be considered. The by-laws provided that, “unless otherwise indicated in the notice thereof, any and all business may be transacted at a special meeting.”
+The petitioner did not attend this meeting. The corporation is a close one, having but three directors, of whom Walker was one. The proceeding seeks to test the right of Maas and of himself. This he may do if the proceeding itself is proper. Anderson v. Myers, 77 N. J. L. 186.
+The action of the board of directors is sought to be justified, and the prayer of the petition is resisted on the following grounds:
+1. The court is without jurisdiction, as the company is a stock company organized and operated for private gain, and the office of president was not filled by the vote of the stockholders, but by the directors.
+2. The removal was for just and ample cause.
+3. The directors had power to remove under a by-law, which declares that “all officers and agents shall be subject to removal at any time by the official vote of a majority of the whole board.”
+4. The directors had the power under the by-laws to remove for cause without a hearing.
+5. In the exercise of the court’s discretion the petition should be denied.
+Maas & Waldstein were manufacturers of lacquers and an ingredient in their product was butyl alcohol, of which the principal source outside of Germany was the Commercial Solvents Company. They and four other companies were the principal users of butyl alcohol, and to them it was essential. Being concerned about dependence on the Solvents company, these five together organized a company known as the Carbinol Products Company to make butyl alcohol, invested money in it and obtained patent rights under which to manufacture. In this Walker, who had a large interest in Maas & Waldstein, took an active part and became president of the new company. Organized as a protective measure against dependence on the Solvents company, before the manufacture of the product was actually begun, negotiations were started with the latter company, and these negotiations resulted in a new contract based on a sort of a sliding price scale, but terminable by either party at any time after 1926 on a year’s •notice. In this situation the-new project was abandoned by ■the several companies, but Walker differed from his associates as to the wisdom of this course, and joined with some third persons in organizing still another company called Butyl Corporation, of which Walker became the active leader. ■This, apparently, incensed his associates in Maas & Wald-stein, and they took summary action to remove him as president.
+Taking up the legal questions involved, we think the question of jurisdiction is not an open one in this state. Counsel for the respondent has presented a most enlightening brief on this phase of judicial authority, citing English cases as well as cases in our own and other states which he conceives establish that the writ of quo warranto will not issue to test the title to office in a strictly private corporation. We are not at liberty to accept this view. The Court of Errors and Appeals has definitely established the law to the contrary in an opinion by the present Chief Justice in Schilstra v. Van Heuvel, 82 N. J. Eq. 612, in which it is said that, “under the system of jurisprudence which prevails in this state, the only tribunal in which the right to an office can be judicially determined is the Supreme Court, and the only method by which it can be put in issue is by proceedings in the mature of a quo warranto [citing cases] * * *, and this is true, not only with relation to state and municipal officers, but also those private corporations.” While it is true, as suggested, that the views expressed may not have been essential to a determination of the questions involved in that case, it is an official deliverance concurred in by all members of that tribunal participating in the disposition of the ease.
+Of the other reasons urged for a denial of the writ, in the view we take, it is important to consider only the effect of the by-law relied on in the fourth. This by-law, under the title “tenure of office,” reads:
+“All officers and agents shall be subject to removal at any time by the affirmative vote of a majority of the whole board of directors.”
+This is a by-law of the corporation adopted by its stockholders, and confers a sweeping power of removal on the board of directors, with the qualification that it must be done by a majority of the whole board. Obviously, it contemplates removal without cause, and, therefore, without notice. It is a protective instrument placed in the hands of the corporate directors to be wielded at discretion, and of its existence, of course, the relator had knowledge when he took office. The president, as in most corporations, was elected by the board, and for adequate cause could not be removed by that body at any time without the aid of special authority. This being true, the by-law in question would be futile in its purpose if the existence of cause of removal and notice of hearing be essential to the exercise of the powers it confers.
+If we were to look at the alleged causes we should be obliged to hold that they were wholly inadequate. Dr. Walker, so far as the evidence indicates, actuated by high motives, engaged in a move which had for its object the protection of the interest of the company of which he was the executive head. It was apparently an effort to avoid a recurrence of the same precarious situation in which the company had found itself when the Carbinol company was formed, but as we are foreclosed from a consideration of this phase of the ease by the removal under the plenary power vested in the board of directors by the by-law, we refrain from its further discussion.
+In conformity with the views above expressed, we are constrained to deny the application for the writ, and the rule to show cause is accordingly discharged.

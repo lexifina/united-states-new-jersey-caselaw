@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1933-06-14"
+citations: ["11 N.J. Misc. 440"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN MCLAUGHLIN, PLAINTIFF, v. CENTRAL SURETY AND INSURANCE CORPORATION, A CORPORATION, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/11/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 449462
+---
+
+# McLaughlin v. Central Surety & Insurance
+
+## Majority (Brown, S. C. C.)
+
+Brown, S. C. C.
+The plaintiff moves to strike the defendant’s answer on the ground that it is sham in part and frivolous in the remainder. The pleadings disclose that on the 15th day of March, 1932, the plaintiff sustained personal injuries from the negligent operation of an automobile by Bart Petella. The plaintiff brought suit for damages in a District Court and recovered a judgment against Petella on the 27th day of June, 1932. Petella at the time he is alleged to have injured the plaintiff was insured against the loss by the defendant insurance company. An effort was made to collect the judgment against Petella without success and the plaintiff brought suit to recover on the liability policy of indemnity issued by the defendant to Petella. The plaintiff annexes a copy of the policy to his affidavit which discloses that the defendant agreed, in the usual form, to indemnify Petella against the judgment obtained by the plaintiff against him. The policy also contained the usual provisions of co-operation on the part of the assured and that the assured would give the defendant timely notice of any accident covered by the policy. The defendant alleges in its answer that Petella failed to give the written notice of the accident and wholly failed to cooperate as required by the terms of the policy. The plaintiff contends that the liability of the defendant is absolute under the statute and that the answer is therefore frivolous. To decide this issue it is necessary to construe the effect of Pamph. L. 1929, ch. 116, p. 201, and as amended by Pamph. L. 1931, ch. 169, p. 334. It is true as contended by the plaintiff that in section 10 of the those statutes it is provided:
+“The liability of any company under a motor vehicle liability policy shall become absolute whenever loss or damage covered by said policy occurs and the satisfaction by the insured of a final judgment of such loss or damage shall not be a condition precedent to the right or duty of the carrier to make payment on account of such loss or damage. No such policy shall be canceled or annuled as respects any loss or damage by any agreement between the carrier and the insured after the said insured has become responsible for such loss or damage and any such cancellation or annulment shall be void.”
+To properly understand the effect of those positive statutory declarations of liability it is necessary to consider the entire statute and a reading of the first sections of Pamph. L. 1929 and 1931 shows the policies of liability insurance considered and contemplated by the legislature were those where proof of financial responsibility was required “from any person who shall have been convicted of or who shall have forfeited any bond taken, or shall have had his case nolled * * * or who, while operating any motor vehicle shall have been concerned in any motor vehicle accident resulting in the death of, or injury to, any person or damage to property to- the extent of at least one hundred dollars ($100).” By section 1, Pamph. L. 1931, the classification of the motor operators who are to furnish proof of financial responsibility are increased. The last paragraph of Pamph. L. 1929, p. 201 and Pamph. L. 1931, p. 343, provides:
+“Such motor vehicle liability policy shall be subject to the following provisions which need not be contained therein.”
+This provision clearly refers to the classification of cases where proof of statutory financial responsibility is required. To construe the statutes in question as making absolute the liability sustained under every policy of insurance that is issued would be reading into the statutes a meaning that was not intended. If the legislature intended those laws to have that effect they would have so stated in the laws enacted. This was not done but to the contrary a restricted application was intended because of the evident enumeration of the cases wherein proof of financial responsibility is required.
+The complaint in this cause does not allege that the policy of indemnity covered one of the classes named in the statute and it does not appear in the moving papers that the policy issued by the defendant to Petella falls within any of the designated statutory classes where proof of financial responsibility is required; consequently, the statute does not make absolute the liability of Petella as against his insurance carrier.
+The motion is denied where it is directed against the second defense to both counts as being frivolous and allowed as to the first defenses to the first and second counts as being sham.

@@ -1,0 +1,26 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-11-30"
+citations: ["6 N.J. Misc. 1111"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MOUNTAIN ICE COMPANY, PROSECUTOR, v. MARGARET DURKIN ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/6/cases/1111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732656
+cites_cases: ["102 N. J. L. 425"]
+---
+
+# Mountain Ice Co. v. Durkin
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a workmen’s compensation case. The certiorari was allowed to review a judgment of the Essex Court of Common Pleas, affirming an award made in the workmen’s compensation bureau to the petitioner, as the widow and children of Martin Durkin, deceased. It is sought to reverse the judgment on the ground that the petitioner’s case is entirely barren of any proof of an accident. So, it is argued, there is nothing to indicate that at the time of the alléged injury the decedent was doing any particular thing as a part of his work or otherwise. Fot so. The record discloses these facts: The deceased was discovered by Michael Bohen, a fellow-worker, about ten-thirty a. m., February 27th, 1927, in Fo. 1 storehouse on prosecutor’s premises lying on the floor; he was in an unconscious condition; was carried to the boiler room of the plant and later to the City Hospital. He was received at the City Hospital almost totally unconscious. There were lacerations on the forehead; no evidence of alcohol or intoxication. Decedent died on March 2d, 1927. Dr. Harrison Martland performed an autopsy on the body the following day. He gave the cause of death as follows:
+“I found the man died as the result of traumatic cerebral multiple hemorrhages due to a blow or external violence, which he received in the front part of his head where there was a large laceration. He also had a fracture of the pelvis.”
+The deceased worked as a watchman and fireman for the prosecutor, and at the time immediately preceding the accident from which death resulted, his hours were from seven A. m. until three r. m. every day except Sunday, when his hours were from seven a. si. to seven p. si. He left the plant of the company on Saturday, February 26th, 1927, and was to return on Sunday, the following morning, at seven a. m. Joseph Burness, another night watchman employed by the company, testified that on the night of February 26th he closed all the doors of the plant; that he opened the front door between six-thirty A. si. and seven A. si. Sunday morning, expecting Durkin to come in sometime between six-thirty and seven o’clock. Fo. 1 storehouse, where Durkin’s body was found, adjoined another building in the plant, known as the blower room; between the blower room and the storehouse there was a door opening from the storehouse into the blower room. This doorway entered the storehouse at a point about thirty-five feet above the floor of the latter, and gave access to a platform about three feet wide and about four or five feet high. The deceased was found in an unconscious condition, almost directly beneath this platform. On -the other side of the door, entering the blower room, there were steps leading to the floor of that room. Durkin, when found, was dressed in his street clothes; it was customary, when he relieved Burness, for him to go upstairs, change his clothes and come down to the boiler room. The locker room was upstairs; to get to the locker room one had to pass through the tank into the blower room, and the locker room was at the head of the boiler room. One might get there by an elevator.
+The presence of the body, bearing injuries which would result from a fall immediately beneath the platform thirty-five feet above, from which an open door led to a room to which he had access, raises a legitimate inference that he died as the result of a fall from the platform. The deceased was a watchman; the very character of his employment would require him to enter any portion of the company’s premises, where his presence might be of benefit to his employer’s interest. A case in point is that of Atchinson v. Colgate Company, 3 N. J. Mis. R. 451; affirmed, 102 N. J. L. 425; so is Manziano v. Public Service Gas Co., 92 Id. 322.
+What was said by this court in a recent case (not yet reported, Pearson v. Armstrong Cork Co., No. 207, October term, 1938) is pertinent; when two independent and distinct tribunals, such as these, have examined the facts and heard the testimony, we do not think that a conclusion so reached should be lightly disturbed by this court.
+It is next urged that the judgment should be reversed, because it was error to allow Dr. Harrison Martland to answer a hypothetical question, that the injuries testified to by him could come from a fall from that platform. Assuming this question to be incompetent, the judgment should not be reversed for that reason, because the answer could not have changed the result. In addition to this, at page 49 of the record, the deputy compensation commissioner said: “I will allow the question, of course, in my finding, if I cannot assume these facts, then, of course, I shall throw out this evidence. You may answer it, doctor.”
+The judgment of the Essex County Court of Common Pleas is affirmed.

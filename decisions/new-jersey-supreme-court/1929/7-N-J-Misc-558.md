@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-06-21"
+citations: ["7 N.J. Misc. 558"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOPHIE McCARTY, RESPONDENT, v. MARIE ENNIST, ADMINISTRATRIX, ETC., APPELLANT."]
+source_url: "https://static.case.law/nj-misc/7/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446763
+cites_cases: ["103 N. J. L. 608"]
+---
+
+# McCarty v. Ennist
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiff was the sister of Edward McCarty, who died in November, 1926. The defendant is administratrix of the latter. On November 29th, 1909, until the date of her brother’s death, the plaintiff lived in his home, rendering all oí the services which a housekeeper and maid of all work would perform, and also numerous outside services. After her brother’s death and the appointment of his administratrix, she presented a claim to the latter for $8,500 for the services rendered by her to the decedent. The administratrix refused to recognize her claim, and thereupon the present suit was brought, the action being based upon a quantum m,eruit. The trial resulted in a verdict in the plaintiff’s favor, the jury awarding her $9,945.37, and judgment was entered for that amount.
+The first ground urged by the appellant before us for the reversal of the judgment under review is that there was no evidence of a promise made by the decedent during his lifetime to the plaintiff sufficient to support a contract; no evidence to rebut the presumption that the services were gratuitous. But this, we think, is not the fact. One of the plaintiff’s witnesses, Charlotte Weber, testified that on an evening in the year of the decedent’s death she had a conversation with him about his sister, the plaintiff, in the course of which he told her that almost immediately after his mother’s death, which occurred in 1911, he had had a conversation with his sister, in which she said that she would do all she could for him, would take care of him as a wife would and would not get married; and that she said this in response to his question whether she would be willing to live with him as long as he lived; and that after she had promised to do this he said to her: “If you stay single and do not get married, then you will get the house and everything that belongs to me.” Having testified to the above facts, the witness was then asked this question: “He said that he had made that arrangement with her” A. “Yes, he told me that that night.” This testimony justifies the inference, we think, that the plaintiff worked for her brother, at least partly, upon the basis of this promise. The testimony of Edward McDermott, a witness called by the plaintiff, and who, as he states, was the adviser of Edward McCarty during the latter part of decedent’s life, corroborates that of Mrs. Weber. He stated that shortly before McCarty’s death the latter told him that he proposed to make a will giving all of his property to the plaintiff in compensation for her faithful service to him during his lifetime. ' This statement, as we see it, indicates that the decedent recognized that the services rendered to him by his sister were not merely the ordinary ones rendered by one member of a family to another, but were such as entitled his sister to compensation for their rendition; and indicates his intention to carry into effect the promise which he told Mrs. Weber he had made immediate^ after his mother’s death.
+It may be conceded that the promise of the plaintiff not to marry during her brother’s lifetime was against public policy. But this does not invalidate her agreement as a whole; and, having rendered the services which she undertook to perform, she is entitled, under her contract, to compensation therefor.
+Other.grounds for reversal are based upon the refusal of the trial court to charge certain requests submitted by the defendant ; but no exception was taken to the refusal to charge any of such requests, and, in the absence thereof, the rulings of the trial court cannot be made the ground of reversing the judgment under review.
+Lastly, it is argued that this action cannot be sustained because it was brought on a quantum meruit and not upon the express contract referred to in testimony; and that the contract entered into was one by which the decedent promised to leave real estate to her at his death, as well as other property, and, consequently, was not enforceable under the statute of frauds. But this contention is in the face of our decided cases. As has frequently been held by our courts, where an agreement to devise land as a compensation for seryices rendered has been entered into, the statute of frauds being a bar to a suit based upon such contract, the person rendering the services may recover on a quantum meruit for the value thereof. Bente v. Bugbee, 103 N. J. L. 608, 610, and cases therein cited.
+The judgment under review is affirmed.

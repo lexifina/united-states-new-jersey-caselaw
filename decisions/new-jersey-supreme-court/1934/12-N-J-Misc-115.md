@@ -1,0 +1,38 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1934-01-09"
+citations: ["12 N.J. Misc. 115"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, DEFENDANT IN ERROR, v. MICHAEL CAMMARATA, SAMUEL MARCELLO AND FRANK VIZZINI, PLAINTIFFS IN ERROR."]
+source_url: "https://static.case.law/nj-misc/12/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429189
+cites_cases: ["102 N. J. L. 569", "121 Atl. Rep. 597", "123 Atl. Rep. 297", "134 Atl. Rep. 110", "152 Atl. Rep. 445", "40 N. J. L. 169", "98 N. J. L. 626", "99 N. J. L. 521"]
+---
+
+# State v. Cammarata
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This writ of error brings up for review the conviction of the defendants below upon an indictment charging that they, “having in their possession a certain offensive weapon, to wit, a sawed-off shotgun, loaded with gunpowder and shot, did then and there by night, willfully and maliciously break and enter the garage of August Marcello, with intent the goods and chattels of the said August Marcello, in the said garage then and there being found, feloniously to steal, take and carry away;” &c.
+The assignments of error and specifications of causes for reversal are identical, and will now be considered.
+We think there was no error in the rulings of the trial court on the admission of evidence as to the presence of many cans or drums of alcohol in the garage into which the defendants were alleged to have broken with intent to steal, and as to the amount thereof, and as to what was done with it by the police at the time of the arrest of the defendants at the garage.
+The objection was that the evidence was immaterial and irrelevant. But the intention to steal being a material and essential element of the offense, any evidence of the contents of the garage that might be the object of theft is certainly relevant to the issue of intent to steal and material to the charge in the indictment.
+The defendants argue that inasmuch as this testimony tended to show the commission of another offense, its admission was erroneous. But there is no merit in that contention. The defendants were being tried for a violation of section 2 of chapter 321 of Pamph. L. 1927, and the evidence being admissible on that charge it was immaterial whether or not the evidence tended to prove another crime. State v. Catania, 102 N. J. L. 569; 134 Atl. Rep. 110. With respect to the evidence referred to in the second assignment of error it is sufficient to point out that the question objected to by the defendants was a proper question and the answer thereto was permitted to stand without objection by the defendants, and without any motion to strike it out as irresponsive.
+We think there was no error in admitting in evidence the shotgun and shells. The indictment alleged that the defendants did break and enter “having in their possession a certain offensive weapon, to wit, a sawed-off shotgun, loaded with gunpowder and shot.” That allegation was in conformity with section 2 of chapter 321, laws of 1927, page 743, which reads in part as follows:
+“2. Any person who shall commit or attempt to commit any assault, robbery, larceny, burglar}1-, or breaking and entering, when armed with, or having in his possession, any revolver, pistol or other firearm, or other instrument of any kind known as a blackjack, slungshot, billy, sandclub, sandbag, bludgeon, metal knuckles, dagger, dirk, dangerous knife, stiletto, bomb or other high explosive,” shall be punished, &c.
+The state produced evidence from which the jury might reasonably infer that the shotgun was in the possession of the defendants. It tended to show that when the police officers apprehended the defendants, the defendants were in the act of carrying out alcohol from the garage; that the garage was in darkness, but the shotgun was seen on a drum of alcohol in the garage; that as Officer Sigafoos picked up the gun, the defendant Cammarata said, “look out, that is loaded, let me unload it;” that the gun was then unloaded and found to contain two shells.
+Defendants argue that it was a physical impossibility for the three defendants to have possessed the gun. The answer to this is that it was open to the jury to find that the defendants had this weapon in their possession when perpetrating the offense denounced by the statute.
+We think there was no error in the court’s refusal to grant defendant’s motion to direct an acquittal at the close of the state’s case, and at the end of the entire case. The recognized rule is that if there is any legal evidence before the jury from which an inference of guilt can be legitimately drawn, the direction of an acquittal would be improper. State v. Bricker, Jr., 99 N. J. L. 521; 123 Atl. Rep. 297. Here there wras such evidence. The jury might well have inferred and no doubt found from the testimony of the officers as to the condition of the lock and the operations of the defendants that there was a breaking; that the breaking and entering took place in the night time about six-twenty-five p. m. ; that it vras dark when the officers surprised the defendants preparing to remove the alcohol from the garage.
+We think there was no error in the admission of the testimony of Lieutenant Sigafoos, relating prior inconsistent oral statement of the defense witness, August Marcello. The record discloses that a proper foundation was first laid by directing the attention of the witness to such alleged inconsistent statement and inquiring whether he made it; and, of course, in such case proof of the inconsistent statement was justified for the purpose of affecting his credibility. State v. Pitman, 98 N. J. L. 626; 121 Atl. Rep. 597.
+We think there was no error in the charge of the court that the state must prove, beyond a reasonable doubt, certain es,sential elements of the crime charged, among which was-“Fifth: That both the breaking and entering was made with the intent feloniously to steal.”
+That was clearly right.
+The defendants say that the court failed to add to the above the words: “The goods and chattels of the said August Mar-cello.” But that had been theretofore charged in effect.
+Moreover in an indictment such as this it has been held in-effect that it is not essential to allege or prove the ownership-of the goods which were the object of the intent to steal. Thus in State v. Fisher, 40 N. J. L. 169, it was said:
+“The statement in the indictment as to the ownership of the building alleged to have been entered, and of the goods which were the object of the intent to steal, is mere description for the purpose of identification. The offense against societjr, at which the statute is aimed, is the willful and malicious breaking and entering into any building with intent to commit any of the crimes specified.”
+In 9 C. J. 1051, it is said: “As a rule, an indictment or information for burglary with intent to commit larceny need not describe the particular goods which defendant intended to steal, nor allege their value or ownership; and according to a number of decisions, if ownership of the goods is alleged, it is an immaterial part of the description which need not be proved.” See, also, State v. Washington, 8 N. J. Mis. R. 916; 152 Atl. Rep. 445.
+We cannot say that the verdict was against the weight of the evidence. Hone of the defendants took the witness stand to explain or deny the testimony from which the jury could as they did find guilt, and there is nothing to indicate that the verdict was the result of prejudice, passion, partiality or mistake.
+The judgment will be affirmed.

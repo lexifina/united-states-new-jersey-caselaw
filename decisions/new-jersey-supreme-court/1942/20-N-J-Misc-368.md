@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1942-07-01"
+citations: ["20 N.J. Misc. 368"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EMILE KARAM, PROSECUTOR, v. FRED J. WOLFE, BUILDING INSPECTOR OF WEST ORANGE, ET AL., RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/20/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 432276
+---
+
+# Karam v. Wolfe
+
+## Majority (Parker, J.)
+
+Parker, J.
+The writ brings up the determination of the local authorities of West Orange in a zoning matter. The action under review was a refusal to grant a permit to the prosecutor, the owner of a tract of between one and two acres situate on the north side of the old Northfield Road in West Orange between two intersecting streets called Wiley Avenue and West View Road. On this tract stands an old house originally built for residential purposes, the first floor of which the prosecutor desires to use as a tea-room or restaurant. The property on that side of the road beginning at the easterly corner of that of the prosecutor and extending for about 1,000 feet is zoned as residential. Immediately adjoining the property of the prosecutor on the east and between his property and,Wiley Avenue is a gasoline station on the corner of Wiley Avenue. The easterly corner of Ridge-way Avenue running for something over 200 feet along North-field Road is zoned for business. Ridgeway Avenue and Wiley Avenue enter Northfield Road from the north. Westerly of the 1,000 foot strip, and for over 2,000 feet beginning at Rock Spring Avenue, the north side of North-field Road is zoned for business. Beyond is a stretch o£ 550 feet of “Residence 0.” Beyond that, something over 500 feet, again business. With the exception of the property of the prosecutor and the gasoline station already mentioned, the district fronting on Northfield Road from the gasoline station to the business district on the west appears, according to the map, to be laid out for residential purposes, but for the most part in rather small lots of 50 to 60 feet frontage and 100 to 200 feet in depth fronting on several inner streets. There are six of these residential lots on Northfield Road. The others are all in the interior.
+Permit was, of course, refused in the first instance because of the ordinance, and an application to the Board of Adjustment, and appeal to the Board of Commissioners were alike unsuccessful.
+I have considered the matter with care and am clearly of opinion that the refusal to grant the variance requested was altogether unreasonable and should be set aside.
+There is no dispute with regard to the character of North-field Avenue, which is one great recently enlarged public highway leading westward from Newark through the Oranges and over the Orange Mountain from West Orange across the mountain and to its termination on the other side in connection with Route 10, and which has been turned into a four-lane highway, greatly widened and made adaptable for, and is constantly used by, a large volume of long distance motor traffic.
+Now it is a matter of common knowledge, and indisputable, that great highways of this class, so far from being appropriate as frontage for private residences are repellant to them; and that instead of being bordered by private houses, such building improvements as exist are composed principally of garages, service stations with their gas pumps, and restaurants varying from those of the more pretentious sort down to the humble hot-dog stand. These facts need no specific proof. They are a matter of common knowledge to every one using an automobile, but they are amply proved in regard to the particular highway involved in the present case. Indeed, the very map that has been put in evidence is a demonstration of whát has just been said. The southerly side of Worthfield Avenue in this locality, and on the westerly slope of the hill, is occupied in part by a golf course or country club property, and in part by the South Mountain Eeservation of .the Essex County Park system; but the extensive zoning of the north side for business purposes already described is striking evidence of the views now expressed. The premises now in question could conveniently have been used for residential purposes a few years ago before Worth-field Avenue was widened and turned into an automobile speedway. To-dáy they are, in my judgment, useless for any residential purposes, except perhaps that they might be subdivided into small lots with cheaper houses thereon. I therefore conclude that the refusal of the authorities to grant the prosecutor the desired permit should be set aside, with costs.

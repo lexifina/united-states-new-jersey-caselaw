@@ -1,0 +1,30 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1933-07-12"
+citations: ["11 N.J. Misc. 541"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE ATLANTIC REFINING COMPANY, A CORPORATION, PLAINTIFF, v. NUCAR FORWARDING CORPORATION, A CORPORATION, AND W. BRADFORD STRYKER, DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/11/cases/0541-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 449452
+cites_cases: ["113 N. Y. Supp. 359", "129 App. Div. 91", "147 Atl. Rep. 459", "3 N. J. L. 531"]
+---
+
+# Atlantic Refining Co. v. Nucar Forwarding Corp.
+
+## Majority (Oliphant, C. C. J.)
+
+Oliphant, C. C. J.
+This cause of action is before the court for determination upon the complaint, the answer of the defendant W. Bradford Stryker, the amended reply and a stipulation of facts.
+The defendant admits the matters and things set forth in the first count and consents that judgment be entered against him in the sum of $150 with interest from February 1st, 1931.
+As to the second and third counts, the defendant, under the stipulation of facts, admits that the Nucar Forwarding Corporation made, executed and delivered its promissory notes in the sums of $350 and $550 to the plaintiff; that they were endorsed before delivery by him; that he was treasurer of the Nucar Forwarding Corporation and signed the notes as such and that the notes were delivered before maturity. The maker never demanded payment by the endorser, the defendant W. Bradford Stryker. The notes were never presented for payment nor was demand upon the Nucar Forwarding-Corporation ever made therefor. Nothing has been paid on the notes. They were given for valid consideration.
+Before the due dates of the notes the Nucar Forwarding -Corporation was adjudicated a bankrupt in the United States District Court, the petition being involuntary, but the Nucar Forwarding Corporation consenting thereto by formal consent filed. Said consent is signed by the Nucar Forwarding Corporation by W. Bradford Stryker, president, and attested by W. Bradford Stryker, secretary. The bankruptcy schedules were signed and sworn to by W. Bradford Stryker, the defendant herein.
+No answer has been filed in this cause by the defendant Nucar Forwarding Corporation.
+The answer of the defendant Stryker says that there was no presentment or demand by the maker for the payment of the notes; that he had no notice of presentment and protest and that he did not request plaintiff not to present and protest the notes in suit.
+Before thé passage of the Uniform Negotiable Instrument act (Pamph. L. 1902, p. 583), the law was well settled in this state that knowledge that the maker of a negotiable instrument was insolvent or could not pay same, did not dispense with the requirement that the holder make demand for payment and give notice of non-payment to the endorser. Oliver v. Munday, 3 N. J. L. 531; Sussex Bank v. Baldwin et al., 17 Id. 487. Bigelow in his work on Bills and Notes (third edition), page 393, says: “Mere knowledge that the maker cannot pay does not excuse presentment and notice.”
+The Negotiable Instrument law provides in section 80: “Presentment for payment is not required in order to charge an endorser where the instrument was made or accepted for his accommodation, and he has no reason to expect that the instrument will be paid if presented,” and by section 109 provides: “Notice of dishonor may be waived, either before the time of giving notice has arrived, or after the omission to give due notice, and the waiver may be express or implied.” The question, therefore, here is whether the facts stipulated show that presentment was not necessary and whether they show a waiver so as to dispense with the necessity of nonpayment.
+The case of O’Bannon Co. v. Curran, 129 App. Div. 91; 113 N. Y. Supp. 359, is squarely in point. Prior to the maturity of the notes the maker had been adjudicated a bankrupt and the adjudication was based at least in part upon the consent of the Nucar Forwarding Corporation, signed by the defendant Stryker, in his official capacity of president and secretary. While he is only liable as endorser as an individual, yet as an individual he knew when the notes fell due that the corporation could not pay them as it had been adjudicated a bankrupt in proceedings in which he participated. Under such circumstances, the defendant must be deemed to have waived, at least impliedly, within the meaning of the Negotiable Instrument law, presentment of the notes and notice of dishonor. By his consent and with his cooperation it had been rendered impossible for the maker to pay, all of its property being then in custodia, legis. There could have been no injury to the defendant by the failure of presentment and to give him notice of non-payment. The aforesaid case was cited with approval in the case of Manufacturers Trust Co. of New York v. Wechsler, 7 N. J. Mis. R. 886; 147 Atl. Rep. 459, wherein the defendant was the endorser of a note of a corporation of which he was president. A receivership bill was filed in the federal court at his instance. The court said: “When he filed the receivership bill in the United States District Court alleging under oath insolvency, he put it beyond the power of the corporate maker, of which he was president, to meet the note at maturity. Further, he knew before maturity that an injunction procured at his instance made it impossible for the maker to pay the note. He knew, therefore, that the note could not and would not be met because of his acts. Such conduct constituted a waiver of notice.”
+A different question might be presented if there was merely knowledge of insolvency or inability to pay.
+Judgment may be entered in favor of the plaintiff and against the defendant, in the sum of $150 with interest from February 1st, 1931, on the first count; $350 with interest from August 20th, 1931, on the second count, and $550 with interest from August 27th, 1931, on the third count.

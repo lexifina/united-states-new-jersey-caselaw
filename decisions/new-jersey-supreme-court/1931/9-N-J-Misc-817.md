@@ -1,0 +1,28 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-07-17"
+citations: ["9 N.J. Misc. 817"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES E. VAIL ET AL., PROSECUTORS, v. INHABITANTS OF THE CITY OF PLAINFIELD ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/9/cases/0817-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 735854
+cites_cases: ["68 N. J. L. 488"]
+---
+
+# Vail v. Inhabitants of the City of Plainfield
+
+## Majority (Pee Ctjeiam.)
+
+Pee Ctjeiam.
+The prosecutors are trustees of the Eahway and Plainfield Monthly Meeting of the Eeligious Society of Priends. They own a burying lot fronting on the southwest side of Church street, in the city of Plainfield. The property adjoins the meeting house, and the title to the whole premises is held as one parcel by the prosecutors as trustees. The trustees are without power, except as directed by the members of the Monthly Meeting. No burial lots are sold. Members of the society may be buried there without charge, except for the cost of interment. The ordinance assailed is a local improvement ordinance for the widening and alteration of Church street, the establishment of curb lines, the installation of house connections with water and gas mains, the relocation of inlets to storm sewers, construction of sanitary sewers and the construction of surface drainage and appurtenances, pavings, curbing and so forth.
+The prosecutors claim exemption of the burial grounds from local improvement assessments.
+Under an act concerning cemeteries (1 Comp. Stat. p. 375, § 8), lands of any incorporated cemetery association are exempt from all public taxes, rates or assessments. The lands in question are not owned by an incorporated association. Statutes granting exemption from assessments for local improvements have been strictly construed. Flower Hill Cemetery v. North Bergen, 68 N. J. L. 488; Fairview Heights Cemetery Co. v. Fay, 90 Id. 427.
+Prosecutors argue that because cemetery lands are frequently placed in a special category there is an implied exemption from the burdens in general imposed on property. We can find no case and none have been referred to in support of such proposition.
+Although the Society of Priends is of honorable and ancient origin their property is not exempt from taxation unless the legislature has so provided. Although the Society of Priends has held title to the land in question from the earliest times we cannot convert a voluntary association into a corporate entity so as to exempt its lands from taxation.
+If the assessment is excessive, or in any other respect unfair, an appeal lies to the Circuit Court, and we will not, prior to a determination in that court, consider the matter on certiorari. Section 42, article 20, Home Rule act, as added to Pamph. L. 1925, p. 231; MacEvoy v. Bergenfield, 6 N. J. Mis. R. 211.
+Lastly, the assessment is attacked because the board of commissioners making the assessment is said not to have been constituted in accordance with the Home Eule act. Article 20, section 16 of the Home Eule act (Pamph. L. 1911, ch. 152) provides that assessments shall be made by a board charged with the duty of making general assessments except where there is now provided by law a board for making all such assessments. At the time of the adoption by the city of Plainfield of the provisions of the Home Eule act, the city did not have such an assessment board. Article 20, section 11 of the Home Eule act provides as follows: “The governing body of every municipality in which no board is provided by law for the making of all assessments for benefits accruing from local improvements, may, by ordinance, create a general board for that purpose, which board shall thereafter make all such assessments.”
+Pursuant to this enactment, Plainfield created a board of commissioners of assessment by ordinance adopted November 19th, 1929. The board of commissioners was appointed by the mayor by and with the advice and consent of the common council. Section 18 of article 20 of the Home Eule act provides for such board to be appointed by the governing board of the city. It is contended that the board appointed by the mayor and confirmed by the common council is not a board appointed by the governing body. It would seem as though an appointment in which the mayor and council concurred complied with the statute. However, two of the commissioners were disqualified and two new commissioners were appointed by the mayor and confirmed by the council. Section 19, article 20 of the Home Eule act provides that in case of the death or disqualification of any member of the board that the governing body shall appoint some other suitable person to act. After this provision of law came to the attention of the council they declared the appointments of the mayor void and chose two special members of the board of commissioners, to act in the place of the disqualified members. The board so constituted with these new members proceeded to act, and it is their action which is now challenged. We fail to see any irregularity in a selection in the way provided by law of new members in place of those disqualified to act. A statement of the facts indicates that there was a substantial compliance-with the statute when the members of the commission were chosen by the mayor and council and a literal compliance therewith when the new members were finally chosen in place-of the two disqualified members.
+The writ will be dismissed, with costs.

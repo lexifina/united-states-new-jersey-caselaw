@@ -1,0 +1,22 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1929-01-16"
+citations: ["7 N.J. Misc. 112"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ORMONDE W. McCLAVE, PLAINTIFF, v. JOSEPH BARNABA ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-misc/7/cases/0112-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 446642
+---
+
+# McClave v. Barnaba
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This case is before this court upon a defendants’ rule to show cause. The plaintiff obtained a judgment for $2,100 in a suit instituted by him against Joseph Barnaba and Victor Barnaba to recover damages arising out of an automobile accident. The accident occurred on Palisades avenue, in Cliff-side, New Jersey, at about eleven-thirty p. m. <5n August 24th, 1926. Palisades avenue is a street sixty-six feet in width. The center of the street is paved with asphalt. The asphalt is forty feet in width. There is a dirt shoulder on each side of the asphalt thirteen feet in width. Palisades avenue runs substantially north and south. The plaintiff’s car, a Marmon, was proceeding northwardly on the easterly or right hand side of the road. The car of the defendant, Joseph Barnaba, driven by Victor Barnaba, his son, was a Buick. This ear was being driven in a southerly direction on the avenue. The contention of the plaintiff was that the Barnaba car approached him on the easterly or wrong side of the road. Thinking that the Barnaba car was going to a garage located on the east side of Palisades avenue, the plaintiff turned his car to the left. As he did so Barnaba pulled his car to his right and the plaintiff’s car struck the Barnaba car about in the middle of the left hand side. Barnaba contended that he was proceeding fifteen or twenty miles an hour on the westerly side of the road with the right hand wheels running on the dirt shoulder and that the plaintiff pulled his car over to the westerly side of the road and struck his car.
+The versions of the two parties are opposite. If the defendants’ version was true, the plaintiff was in fault and guilty of contributory negligence. If the plaintiff’s version of Barnaba’s driving his car on the wrong side of the road is true, then Barnaba was negligent. It seems to us that in view of this contradictory testimony the case was properly left to the jury. The defendant contends that there was no evidence showing any negligence on his part which was the proximate cause of the accident. This contention entirely overlooks the testimony of the plaintiff and his principal witness, Joseph L. White, who was apparently a disinterested witness, and whose testimony, from the way it was given, undoubtedly had considerable weight with the jury. To support this contention that no negligence was shown would require the elimination of the plaintiff’s testimony in its entirety. The contention of the defendant that the plaintiff was guilty of contributory negligence as a matter of law would likewise require the elimination of the plaintiff’s testimony on this subject. It was a case where the jury was entitled to pass upon both the question of negligence and contributory negligence. The court did not err in refusing either to nonsuit or direct a verdict for the defendant.
+This leaves for consideration the question whether the verdict was against the weight of the evidence. The defendant’s car was filled with the defendant’s family. Yictor- Barnaba was the driver. An employe by the name of Frank Margarite was sitting on the front seat with a small boy on his lap. Nicholas Barnaba was sitting on the floor in the back. Susie Eobertson says that she was sitting “on the floor on a chair in the back.” Joseph Barnaba, the owner, was sitting in the back of the car. Eichard J. Eobertson was sitting in the back of the car. These, with a man by the name of Jerome J. Bruin, were the witnesses for the defendants. The witnesses offered by the plaintiff were himself and Joseph L. White, whose car was parked and about ready to depart when the accident occurred. The number of witnesses does not control. The jury have the right to accept as a basis for their verdict the testimony of those witnesses whose testimony appears to them to be the most credible, although less in number. Our review of the testimony has led us to the conclusion that the verdict should not be disturbed.
+The rule to show cause is discharged.

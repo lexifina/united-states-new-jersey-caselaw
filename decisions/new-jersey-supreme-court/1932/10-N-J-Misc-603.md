@@ -1,0 +1,28 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-04-26"
+citations: ["10 N.J. Misc. 603"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF DETERMINATION OF PREVAILING RATE OF WAGES ON SEWAGE DISPOSAL PLANT AT PRINCETON, NEW JERSEY."]
+source_url: "https://static.case.law/nj-misc/10/cases/0603-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739331
+---
+
+# In re Determination of Prevailing Rate of Wages on Sewage Disposal Plant at Princeton
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+A rule was allowed in this case directing the commissioner of labor and the borough of Princeton to show cause why a writ of certiorari should not be allowed to review the proceedings of the commissioner in the matter of determination of the prevailing rate of wages respecting a sewage disposal plant contract at Princeton. It was stipulated that if the rule should be made absolute and the writ granted the court should then proceed to determine the merits of the case on the depositions and briefs, furnished on the rule.
+The facts to be extracted from these depositions are that the borough had a contract with Engstrom & Wynn, Incorporated, for the construction of a sewage disposal plant.
+Oil January 4th, 1932, the corporation was notified to-appear before the commissioner of labor in the city of Trenton to answer the charge that in violation of Pamph. L. 1931,. ch. 242, it was not paying the prevailing rate of wages for labor in the sewage disposal plant at Princeton.
+The corporation moved to dismiss the proceeding before.the commissioner upon the grounds (1) that no dispute had arisen concerning the prevailing rate of wages which could not be adjusted by the contracting parties, and (2) that, chapter 242 concerned only the construction of public buildings and that no public buildings were involved in its contract with the borough. The commissioner denied this motion and while determining that no dispute had arisen concerning the prevailing rate of wages which could not be adjusted by the contracting parties, he nevertheless proceeded to take jurisdiction. Thereupon the rule in the present case-was allowed and further proceedings by him restrained.
+The statute relied on as justifjdng the action of the commissioner (chapter 242, laws of 1931, page 597) is, "An act relating to the rate of wages for laborers and mechanics-employed on public buildings in this state by contractors and subcontractors for other purposes.” Section 1 of the-act provides that "every contract in excess of $5,000 in amount to which the state or any political subdivision thereof is a party, which requires or involves the employment of laborers or mechanics in the construction, alteration, or repair of any public buildings of the state or any political subdivision thereof within the limits of the state shall contain a provision to the effect that the rate of wages for all laborers and mechanics employed by the contractor or subcontractor on the public buildings covered by the contract shall not be less than the pervading rate of wages for work of a similar nature in the citjr, town, village, or other civil division of the state, * * * and a further provision that in case any dispute arises as to what are the prevailing rates-of wages for work of a similar nature applicable to the contract which cannot be adjusted by the contracting officer, the matter shall be referred to the commissioner of labor for determination and Ms decision thereon shall be conclusive on .all parties to the contract.”
+The contract in question complied with the requirements of the act and contained the following clauses:
+“It is expressly agreed that the contractor will comply in all respects with the laws of the State of ISTew Jersey respecting labor and compensation and with all labor statutes, ■ordinances, rules and regulations applicable and having the force of law.
+“In so far as this contract involves the employment of laborers, or mechanics in the construction, alteration, and/or repair of any public buildings, it is agreed that the rate of wages for all such laborers and mechanics employed on the public buildings by the contractor or any subcontractor shall be not less than the prevailing rate of wages for work of a similar nature in the civil division of the state in which the public buildings are located, and that in case any dispute .arises as to what are the prevailing rates of wages for work of a similar nature applicable to the contract which cannot be adjusted by the contracting officer, the matter shall be referred to the commissioner of labor for determination and his decision thereon shall be conclusive on all parties to the contract as provided in chapter 242 of the laws of 1931.”
+Our examination of the statute leads us to the conclusion that the dispute contemplated is one arising between the workmen employed in the public work under construction and the contracting party, and that before the commissioner of labor could take cognizance of complaint of violation o,f the statute it was essential not only that a dispute had arisen between the parties immediately concerned but that that dispute was one that could not be adjusted by the contracting parties. There being no evidence of a dispute between the parties as to what are the prevailing rates of wages, much less that that dispute was one that the contracting officer could not adjust, the proceedings before the commissioner ■were unwarranted and illegal.
+They are therefore set aside, with costs.

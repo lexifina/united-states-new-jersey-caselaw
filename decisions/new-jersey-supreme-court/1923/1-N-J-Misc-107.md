@@ -1,0 +1,25 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-02-28"
+citations: ["1 N.J. Misc. 107"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EMMA C. BEUTEL ET UX. v. AXEL FALKENSTROM AND BAYUK BROTHERS COMPANY, INCORPORATED."]
+source_url: "https://static.case.law/nj-misc/1/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586761
+---
+
+# Beutel v. Falkenstrom
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This action was brought by Emma C. Beutel and her husband to recover compensation for injuries received by the wife while riding in a jitney bus belonging to Falkenstrom on the road from Metuchen to Perth Amboy. The injuries were the direct .result of a collision between the jitney bus and a motor truck of Bayuk Brothers Company, and the plaintiffs’ claim was based upon the averment 'that this collision resulted from the joint negligence of the driver of the jitney and of the driver of the motor truck, or the negligence of one or the other of them. The defendant Bayuk Brothers Company filed an answer denying liability. The defendant Falkenstrom also filed a similar answer, and set up in addition a counter-claim against Bayuk Brothers Company for damage to his jitney bus.
+The trial resulted in k finding by the jury that the accident was the result of the negligence, of the driver of the truck and was not contributed to by any negligence on the part of the driver of the jitney. So finding, they assessed damages in favor of Mrs. Beutel for $28,150, and as compensation to her husband, the sum of $5,000. They also found a verdict in favor of Ealkenstrom for $300 on his counter-claim.
+We are asked to set aside each one of these findings upon the ground that they are contrary to the weight of the evidence. We are also asked to reverse the verdicts in fayor of Mrs. Beutel and her husband upon the ground that each of them is excessive.
+Taking up the first ground argued by counsel for Bayuk Brothers Company. Our examination of the testimony sent up with the rule satisfies us that the claim of the plaintiffs that the collision was the result, partly at least, of'the negligence of the driver of Bayuk Brothers Company’s truck was supported by a preponderance of the evidence. This being so, her right of recovery against that defendant was clear, and was not at all affected by the fact (if it was a fact) that the collision was to some extent the result of the carelessness of the driver of the jitney bus. Upon the question of the liability of Bayuk Brothers Company for the damage done to the Ealkenstrom jitney, we cannot say that the finding of the jury exonerating the driver of the truck from contributory negligence was contrary to the clear weight of the evidence. We conclude, therefore, that the verdicts now before us cannot be disturbed for the first reason.
+Taking up the consideration of the contention that the verdicts in favor of Mrs. Beutel and her husband are excessive. It is not denied that the woman was very seriously injured. A piece of wood, with a metal attached to the end of it, entered her body on the left side of the buttocks, and passed entirely through that portion of her body, coming out on the right side. As a result of the injury, she was confined to her bed for five months: That she suffered great pain constantly during that period, we think, is made clear by the testimony. That she is a cripple for life, we think, is also a conclusion which can be justified by the proofs. Not only are her limbs affected, but her back also, showing injury to the spinal column as well as to the muscular and nervous systems. That the injury to her nervous system was very severe is apparent from the fact that at the time of the trial her hair had turned completely gray. She was at the time of the accident only thirty-one years old and was in good health, and by reason of -the accident, future life has been made a burden to her and her power of enjoyment of that life practically destroyed. Although the award in her favor is a very large one, we are not prepared to say, in view of the woman’s condition, that it is so excessive as to justify our interference.
+As to the award to the husband. The proofs showed that the actual expenses incurred by him up1 to the time of the trial exceeded $1,700. ,It was also shown that his wife would thereafter require, from time to time, medical attention. The jury allowed him approximately $3,300, therefore, for future expenses and for the permanent deprivation of his wife’s services and society. Taking into consideration the fact that, as a result of this accident, the joy- of paternity is denied to him, without abnormal risk to the life of his wife, resulting from the accident, and that the pleasures ordinarily accompanying marital relations are practically prohibited to him, we cannot say that this allowance is excessive.
+We conclude, therefore, that the rule to show cause should be discharged.

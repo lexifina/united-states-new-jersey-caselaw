@@ -1,0 +1,23 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1931-08-12"
+citations: ["9 N.J. Misc. 892"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST NATIONAL BANK OF MINOTOLA, PLAINTIFF, v. WALTER S. KEOWN, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/9/cases/0892-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 736122
+---
+
+# First National Bank v. Keown
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+The action in this case was on a note made by the defendant, Keown, for $3,500. There was a verdict for the defendant, and the plaintiff has a rule for new trial. The reasons urged in the rule are that a verdict should have been directed for the plaintiff and that even if this were not so, the verdict was contrary to the weight of the evidence.
+The defense was fraud and illegality in the making of the note and want of consideration. The facts developed in the case were substantially these: George Greis, in the latter part of 1925, borrowed from the bank the sum of $3,500, giving his note for that amount and assigning a mortgage covering property in Ocean City as collateral security therefor. The note was renewed from time to time. Later this property was purchased by Keown and when his last renewal note fell due, Greis informed the bank that Keown had purchased the property and that the bank should look to the latter for payment, at the same time requesting surrender of the note. The bank then wrote to Keown requesting a note from him and stating that Greis had informed the bank of the change in ownership of the property, adding at the end of the letter, “you understand that this note will not be called for payment until the mortgage is due and is only given to the bank as a matter of record and will be called when the mortgage is due.” On receipt of this letter Keown called the cashier of the bank on the telephone and a considerable conversation resulted. They differed as to what was said, Keown testifying that the cashier said that the bank would promise faithfully that the note would never be endorsed; that it was taken simply to show to the bank examiners; that it would never get out of the bank’s hands and that Keown would not be compelled to pay it. Keown says that when he had this conversation he was surprised to hear of the existence of a note, meaning the Greis note. The cashier denied that he had agreed to any limitation, in the use of the note in suit or that he had made any prom-, ise other than that the note would not be called until the-mortgage was due, July 6th, 1928. He also said that he-told Keown that Greis wanted his note, and that he had instructed the cashier to get in touch with Keown concerning; the renewal of the Greis note. He also testified that he returned the Greis note to that individual.
+While in some respects this evidence might be deemed' inadmissible as varying the terms of a written contract, much of it was admissible as bearing on the claim that the note was taken to deceive the bank examiners. It is obvious, that if that was the purpose of the giving and acceptance of the note, it was a fraud rendering the transaction illegal and upon it both parties would be left without redress, one against the other.
+On the evidence as presented the case could not have been withdrawn from the jury. The proofs respecting the illegality of the contract and want of consideration clearly required submission of the case to that body. Our examination of the proofs, particularly that portion dealing with the question of consideration, leads us also to the conclusion that the verdict as rendered was not against the weight of the evidence. While the note purporting to be for value received imported a consideration, the evidence in the case fairly rebuts such implication. Keown, so far as appears, was under no obligation respecting the mortgage on the property which he had purchased. It was not his own debt that the note was given for. The giving of the note was therefore al voluntary act without benefit to himself or detriment to the payee. There was no agreement between himself and the bank for any extension of the mortgage or that the Greis note would be surrendered if the defendant’s note were given. Any promise in that respect was wholly between the bank and Greis. So far as Keown was concerned it was under no obligation to do so. Except from the legal presumption arising from the note itself, the proofs were practically uncontradicted that the note held by the bank was without consideration and void.
+The rule for new trial is discharged, with costs.

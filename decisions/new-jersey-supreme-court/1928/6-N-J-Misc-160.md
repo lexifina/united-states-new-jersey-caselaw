@@ -1,0 +1,35 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-02-10"
+citations: ["6 N.J. Misc. 160"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOMINICKA SMOLSKA, PETITIONER—PROSECUTRIX IN CERTIORARI, v. COURT OF COMMON PLEAS OF HUDSON COUNTY, JOHN W. McGOVERN, CLERK, AND M. W. KELLOGG COMPANY, RESPONDENTS—DEFENDANTS IN CERTIORARI."]
+source_url: "https://static.case.law/nj-misc/6/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732671
+cites_cases: ["79 N. J. L. 284", "89 N. J. L. 452"]
+---
+
+# Smolska v. Court of Common Pleas
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This writ brings up for review a workmen’s compensation case in which the Hudson County Common Pleas sustained the workmen’s compensation bureau on appeal and dismissed the petition.
+In this matter a petition for compensation dated October 23d, 1924, was filed. The date of filing does not appear.
+The next step was the filing of an answer dated November 18th, 1924, which was filed November 18th, 1924.
+After filing the answer on November 18th, 1924, no order of any kind was made in the cause until March 22d, 1926, .when a paper entitled order for interrogatories, without notice to the defendant, was filed.
+Thereafter, on April 20th, 1926, the matter came on for hearing on respondent’s motion to dismiss the case, in the presence of attorneys for both parties, and same was dismissed for not having been moved for a period of over a year. On April 20th, 1926, an appeal from the dismissal of the petition by the workmen’s compensation bureau was taken to the Court of Common Pleas.
+After adjournments the appeal came on before the Hudson Common Pleas, which found that no steps were taken on the petition before the workmen’s compensation bureau for over a year, and the order was that the petition be dismissed. This determination by the Hudson Common Pleas was made April 4th, 1927.
+Then, on May 27th, 1927, this writ of certiorari was allowed to review the Common Pleas determination sustaining the workmen’s compensation bureau and dismissing the petition.
+The only meritorious question involved here is whether the failure by the petitioner to take any action on the petition for a period of over a year justified the dismissal of the petition. All the arguments of the prosecutrix fail if this question is answered in the affirmative.
+We think that the petition was properly dismissed because of the failure of petitioner for over a year to take any action on the petition. Ringwalt Linoleum Works v. Liquor, 89 N. J. L. 452. That case is controlling in this court. It was a case where the petition was filed under the Workmen’s Compensation act prior to the creation of the workmen’s compensation bureau. The twentieth section of the Workmen’s Compensation act then in force provided that after filing petition the judge of the Common Pleas shall fix a time and place for hearing, and required him to file his determination within thirty days after final hearing. 'It further provided that “at the time fixed for hearing, or any adjournment thereof,” the judge shall hear the witnesses and “in a summary manner decide the merits of the controversy.” It was held that the proceedings under the act are intended to be of a summary nature, and the failure of the petitioner to move the hearing during an interim of over a year warranted the defendant in concluding that the proceeding' had been abandoned. Accordingly, an order fixing a day for hearing by the Middlesex Common Pleas Court was set aside on certiorari. That was a proceeding brought by a widow for the benefit of herself and alleged dependents of her deceased husband. Manifestly, unless there is something in the change of procedure brought about by the creation of the workmen’s compensation bureau calling for a different result, the ratio decidendi of this case called for the dismissal of this proceeding, as was done by the deputy commissioner in the first instance and by the Common Pleas on appeal.
+An examination of the statute creating the workmen’s compensation bureau, however, reveals nothing to alter the rule of the Ringwalt Linoleum-Liquor case. Paragraph 10, as amended by chapter 229 of the laws of 1921, provided as follows :
+“10. The procedure for the determination of claims by said bureau, except as herein otherwise provided, shall be conducted in the manner provided by this act and the act to which this act is a supplement, and its supplements and amendments. The commissioner of labor, each deputy commissioner and each referee, is hereby authorized to hear and determine the matter in dispute in a summary manner, and each shall have power under the act to which this act is a supplement, to modify any award of compensation and to provide for the commutation of any such award.”
+Paragraph 11, as amended by chapter 229 of the laws of 1921, provides for the prompt filing with the county clerk of a copy of the decision of the commissioner, deputy commissioner or referee.
+In the case of Ringwalt Linoleum Works v. Liquor, supra, the opinion says:
+“The manifest and clear intent of the act is to secure that inexpensive and expeditious determination of the controversy, which, theretofore, was claimed to be a fatal defect in existing legal procedure. The procedure followed in the case at bar obviously violates the spirit of the act. The proceedings being entirely statutory, it was incumbent upon the petitioner to present her case upon the day fixed for hearing, or to continue it by stated adjournments in regular manner upon the records of the court, either by consent of the defendant or by an application made upon notice to the other side, so that the defendant would have notice of the proceeding, and be cognizant of the status of the case. To countenance this application, after twelve months have expired since the last regular step was taken in the proceeding, is, in effect, to ignore the very purpose of this legislation, and to give to the party in laches an advantage which he could not have attained under legal procedure as it existed anterior to this enactment. Wolf v. Watson, Stillman Co., 79 N. J. L. 284. There is always, of course, the consideration to be noted in such a situation as is presented by this record, that the adverse party deeming the proceeding to have been abandoned may find it difficult, if not entirely impracticable, to procure the witnesses to the controversy, who, when the petition was filed, may be presumed to have been readily accessible.”
+A comparison of the statute prescribing the present procedure with that of the statute in force when this decision was rendered shows this reasoning to be pertinent here, and, consequently, the workmen’s compensation bureau and the Hudson Common Pleas correctly decided that the failure to proceed with the present petition for over a year barred further action thereon.
+The order and judgment under review will be affirmed, but without costs.

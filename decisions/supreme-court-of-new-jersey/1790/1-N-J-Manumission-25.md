@@ -1,0 +1,25 @@
+---
+court: "Supreme Court of New Jersey"
+decided: "1790-09"
+citations: ["1 N.J. (Manumission) 25"]
+reporter: "nj-manumission"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State against James Anderson."]
+source_url: "https://static.case.law/nj-manumission/1/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6676868
+---
+
+# State v. Anderson
+
+## Majority
+
+THE Cafe ftated by Counfel for, the Opinion of the Court is as follows, ,
+That on the fourth Day of December, 1761, John Horsfield was entitled to Two Negro Girls, named Betty and Nelly as Slaves ; and on the laid fourth Day of December by his laft Will and Teihmeru, ( then dated) made the following Devife, “ Item, my Two Negro Girls na- “ med Betty and Nelly, I leave to be fold by my Exe- “ cutors, hereafter named, for the ft crai of Fifteen <e Years, and at the end of that Time to be free, and “ the Money arifing thereby, to be equally divided a-- “ mongft my Four youngeft Daughters, and they that buy “ the laid Negro Girls, if the faid Girls or either of them “ Miibehave, or become chargeable, it mtift be at the “ Rifque or Colt of the Buyer.” That the faid Executors fold the faid Negro Girls to one Covenhoven, who fold them to the prefent Defendant Anderfon, for the Term mentioned in the Will — That Betty had a Child (the Negro Silas) now of full Age, which Child was not horn in Matrimony.
+NOTE-
+Chief Juftice Kinfey, in giving the Opinion of the Court faid)
+BY the words of the Will taken together, It appears that the Telia tor intended to increafe the Daughters’ Portions, to effect this Purpofe, he ordered the Mother of the Negro now before the Court, and another, to be fold by his Executors for the'Term of Fifteen Years, and every Conftruction which will not detraft from this Intention íhould be made hi a Cale of this Nature — It is ail'd evident that the Telia tor forefeeing probably, that fome Means might, alter Ins Death, be made ule of to fruftrate his benevolent Eelign, took care to guard againft it, by ordering that whoever íhould purchafe thefe Negroes, the Purthalers íhould run all Rifques, and be at all the Expence v hich íhould arife from their Miibehavi-our, the moil probable Grounds on which that Attempt might be made — The Chief Juftice was of Opinion, that thefe words take in the Fact which lias happened, and the Purchafer ought not to avail himfelf of it by making s Slave of the Child—
+The Attorney-General, Fifher, Howell and Todd for'“the negro. — R. Stockton and Frelinghuyfen for defendant.
+1 lie Court having confidered the above State of Facts, are are unanimoufly of Opinion, That on the Death of John Horsfield the Teflator, Betty ceafed to be a Slave,, that fiie ceafmg tobe a Slave; no Child born of her Body can be deemed lb by the Birth of fucfa Child during the Fifteen Years, and that the Claim of James Anderfon to hold the faid Negro Silas as a Slave, is not warranted by Law : Wherefore it is ordered, That the fame Silas be liberated from the illegal Detention of the fame James Anderfon, and he is hereby liberated accordingly, ex mo-tione J. Bloomfield, Attorney-General.
+He thought this might be fufficient to fay on the prefent Occaiion, but he would go further, and fay that in his Opinion,at the Death of theTeftator, the two Negro Women were not Slaves, no body at that Time had that abfolute Property in either, which diitinguiihes the Slave from what we call a Servant, and the Retention of the temporary Intereft excludes that Suppofition intirely — The Argument made ufe of by the Counfel for the Claimant, from the Word fell, might have had fome Weight if it had not been coupled with and explained by the particular Time to which it applies, but taken together, it is of 110 kind of Confequence, neither could he give his affent to the Idea fuggefted that both were Slaves until the Expiration of the Fifteen Years : Indeed the thought in his Opinion was abfurd, for he had no other Idea of a Slave but where, the Servitude is perpetual, or in other Words for Life — Neither did he lee the Impropriety of fuppoiing, that the Right to Freedom fubject to the Temporary fer-vitude, might veil in the Negro at the Death of the Teftator — If this be fo, and if the Miibehaviour of the Mothers were not to affect themfelves, he could not bring himfelf to entertain an Opinion that it fhould affect their innocent offspring and make them. Slaves : all that Anderfon bought was the Service of the Mother for a Term of Years, and that too fubjeét to all Rifques : As the Party buying, had nothing elle in Contemplation, no Conftruction can be unjuft which gives that Right in the fulleft extent to him, and if he fullers by his Bargain, it is no more than he undertook to fubject himfelf to, and a Conftruction of this Nature appeared much more Rational than one which íubjects a human Creature to be a Slave for no Fault of his own. For thefe Reafons the Court were unanimouily of Opinion that the Claim of James Anderfon is unfounded and the Negro Boy fhould be liberated front his Cuftody.

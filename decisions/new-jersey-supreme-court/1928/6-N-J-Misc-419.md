@@ -1,0 +1,21 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-05-01"
+citations: ["6 N.J. Misc. 419"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ABE ROCKAWAY, PLAINTIFF-APPELLEE, v. BENJAMIN HIRSCH OR BENJAMIN HIRSCHOWITZ, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/6/cases/0419-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 732993
+---
+
+# Rockaway v. Hirsch
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The principal point made on this appeal is that the judgment awarded to the plaintiff below was based upon a theory of the case that did not appear in the state of demand; and if it appeared that that objection had been made at the trial, it is possible that we should feel obliged to reverse this judgment. The state of demand was in two counts. The first count is based upon a written agreement for the sale by the plaintiff to the defendant of the plaintiff’s confectionery business for $4,500. The first count says that the defendant deposited $100, remained in the store four or -five days, and then quit and refused to go on; that plaintiff was compelled to pay a broker $225 commission, and that because of the breach of contract he lost this sum of $225 paid to the broker. The second count repeats all the allegations of the first and says that, after the defendant took possession of the store, plaintiff introduced the defendant as the new owner of the business, and that the defendant’s occupancj'' resulted in a depreciation of the value of the store. Also, that during the said four or five days the defendant and his family used up stock in the. store and did not pay for same, all to the damage of the plaintiff. This is all there is to the plaintiff’s claim. The written agreement is attached. The defendant counterclaimed on the ground that plaintiff guaranteed to the defendant that the store would show an income of $400 for a stated period of one week, and that if the income fell short of that, everything was off and the deposit was to be returned. It goes on to say that the income was not up to that $400', and, therefore, defendant lawfully refused to complete.
+The judge refused to consider the counter-claim on the ground that it appeared that the defendant had not occupied the store for a full week, and, therefore, there was no way of ascertaining whether it would show an income of $400 a week or not. This seems to have been a correct, practical way of deciding the matter, although the court might well have taken the stand that the original agreement being in writing, and the counter-claim being based upon an alleged collateral agreement of defeasance, parol evidence of such a collateral agreement was inadmissible. See Levy v. Rothchild, decided at the present term. The theory of the decision was that because the defendant refused to complete the contract of purchase, the plaintiff was obliged to resell the property, which he did through another broker for $4,200, paying $200 brokerage, and, therefore, his next return was only $4,000; that there was testimony to indicate that the plaintiff sold the property for the best price obtainable under the circumstances, and he, accordingly, awarded the plaintiff a judgment of $400, being the original contract price of $4,500, less $100 paid on account, and the net amount of $400 received on a resale. As already noted, if objection had been made in due season at the trial, the court would have been in error to deal with the case on this basis without an amendment of the state of demand, and, perhaps, a continuance; but the state of the case, which was prepared by the respective attorneys, fails to show that any objection whatever was made to the evidence bearing on this point or to the general treatment of the case on that theory; so that under the well-settled practice, the court should not reverse where the whole matter has been thoroughly tried out on the theory of the decision and without any objection.
+The judgment will be affirmed, and, if necessary, the suitable amendment may be made in this court, although we hardly deem it necessary at this stage of the case.

@@ -1,0 +1,22 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1933-02-14"
+citations: ["11 N.J. Misc. 89"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INTERSTATE OIL COMPANY, RELATOR, v. CITY OF ORANGE ET AL., RESPONDENTS."]
+source_url: "https://static.case.law/nj-misc/11/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 449732
+cites_cases: ["100 Atl. Rep. 568", "104 N. J. L. 596", "105 N. J. L. 493", "141 Atl. Rep. 760", "142 Atl. Rep. 235", "142 Atl. Rep. 344", "144 Atl. Rep. 920", "82 Atl. Rep. 511", "82 N. J. L. 275", "90 N. J. L. 107"]
+---
+
+# Interstate Oil Co. v. City of Orange
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The relator, claiming to be a corporation of this state, although the regularity of its incorporation was questioned at the taking of depositions herein, applied as lessee of lands on the southerly corner of Lincoln avenue and Jackson street in Orange, for a permit to erect and install a gasoline station thereon. When the building inspector was first approached in an informal way, by a representative of the relator, the only prerequisite to erection of the station was an ordinary building permit. The testimony shows that an ordinance to regulate the installation of gasoline stations was in conteníplation; that the city counsel had been directed in August or September to proceed with the preparation of such an ordinance; that he completed it late in October, and that it was adopted on November 15th. In the meantime, on October 6th, a certificate of incorporation of the relator had been prepared and recorded in the county clerk’s office, although up to January 3d, 1933, it had not been lodged with the secretary of state. On the same day, October 6th, a lease from the owners of the land to the relator had been signed, though the corporation as yet had no seal to affix thereto. The written application for permit bears date on the 7th. At that time, according to the witness Palmieri, the building inspector stated that there was no legal objection to the issuance of the permit, except perhaps that the application was not made by the “owner” as required by the building ordinance. Later, on or about the 11th, the inspector told Palmieri he had reconsidered the matter because of the proximity of the proposed station to a large public school on the opposite corner, serving some one thousand four hundred children, and wished a few days to think it over. The ordinance was passed November 15th, relator having apparently done nothing in the meantime to enforce any legal right it may have had. The ordinance forbids a gasoline station within three hundred feet of various buildings, including a public school. The permit having then been finally refused, prosecutor on December 17th obtained this rule to show cause. We are now asked to make it absolute, in the face of an ordinance clearly within the general police power as regards the public safety, in embryo at the time the relator corporation was organized, and passed a month before this application was made. A gasoline station is not merely a fire risk, and within the police power in that regard (see Neumann v. Hoboken, 82 N. J. L. 275; 82 Atl. Rep. 511), but it is judicially recognized as a danger to pedestrians entitled to use the sidewalks, when so arranged, as is generally the ease, as to require cars to cross the sidewalk when entering and leaving. Hall v. Jersey City, 6 N. J. Mis. R. 558; 142 Atl. Rep. 344; Ninth Street Improvement Co. v. Ocean City, 90 N. J. L. 107, 109; 100 Atl. Rep. 568. When this writ was applied for, the ordinance was an accomplished fact, and if it does not indeed bar the action of this court, it would be an abuse of our power to disregard it. Koplin v. South Orange, 6 N. J. Mis. R. 489; 142 Atl. Rep. 235; affirmed, 105 N. J. L. 493; 144 Atl. Rep. 920. In the case of A. G. Construction Co. v. Scott, 104 N. J. L. 596; 141 Atl. Rep. 760, mandamus proceedings had been begun before the constitutional amendment permitting zoning had been adopted. This case is not in that class, and for the very obvious reason that the police power exists here as a matter of common law, and had been exercised before the first court move was made.
+There are other points raised, but they need not be considered, as the case is controlled by what has been said above.
+The rule to show cause will be discharged, with costs.

@@ -1,0 +1,26 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1937-06-30"
+citations: ["15 N.J. Misc. 538"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GIMBEL BROTHERS, INCORPORATED, PROSECUTOR, v. MARY CORCORAN, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/15/cases/0538-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 580567
+cites_cases: ["159 Atl. Rep. 694", "53 Atl. Rep. 703", "68 N. J. L. 591"]
+---
+
+# Gimbel Bros. v. Corcoran
+
+## Majority (Brogan, Chief Justice.)
+
+Brogan, Chief Justice.
+The prosecutor of this writ has a judgment, obtained by default in the Second Judicial District of the county of Hudson on June 12th, 1934. The judgment represents the then plaintiff’s claim for goods sold and delivered. The merchandise, according to the state of demand, was sold to James Corcoran and Mae Corcoran, his wife, defendants in the District Court action. A second count in the state of demand alleges that the third defendant, Mary Corcoran, guaranteed this account. Judgment was entered against all three defendants on the strength of an affidavit made by one Worden E. Winne, an officer or employe in charge of the accounts of the plaintiff corporation. Execution was returned unsatisfied and the District Court judge allowed an installment execution against the wages of Mary Corcoran, surety for the debtors.
+On October 5th, 1936, Mary Corcoran attempted, on rule to show cause, to have the judgment opened. This, after argument, was denied. On March 3d, 1937, another rule was allowed by the judge of the District Court, requiring the corporate plaintiff, prosecutor of this writ, to show cause why the judgment against Mary Corcoran, and the execution, should not be set aside. Upon the return of the rule, the court set aside the judgment against Mary Corcoran and stayed all proceedings under the execution. Upon application for the writ, it was urged that the court below erred in allowing a new trial because under the provisions of section 17 of the District Court act (2 Comp. Stat., p. 1959) the court may not grant a new trial unless application therefore is made within thirty days after judgment, except where the said application is based upon newly discovered evidence. The application here was not based on newly discovered evidence and manifestly it was made considerably after the expiration of the thirty days limitation.
+Now that the return to the writ is before me, a quite different situation appears. Upon examination of the return, no proof whatever is perceived which could justify a judgment against Mary Corcoran, The affidavit of Mr. Winne, upon which judgment against all three defendants was entered, merely recites that he is acquainted with the account between the plaintiff and defendants; that a copy of the entries is annexed, and that the amount for which judgment is sought is due and owing. An inspection of the copy of the book account annexed discloses the debtor to be Patríele J. Corcoran. The name of the alleged surety, Mary Corcoran, does not appear at all. There is no proof 'whatever as to her liability for the debt; consequently, the judgment as to Mary Corcoran is void.
+The prosecutor argues three points, the first of which is that the District Court lacked power to vacate the judgment after the expiration of thirty days, unless upon newly discovered evidence, relying on the seventeenth section of the District Court act, supra. This argument seems to me to be without substance. In the absence of proof of liability a judgment should not have been entered against Mary Corcoran. It was a void judgment and might be vacated any time. McLaughlin v. Cross, 68 N. J. L. 591, 601; 53 Atl. Rep. 703. Under the proof as it appears in the return, this judgment is just as invalid as though the court lacked jurisdiction of the person.
+The second point made is that the District Court was without jurisdiction because a first rule to show cause, designed to accomplish the same purpose, was discharged and the prosecutor contends that the matter is therefore res judicata. This reason, too, seems to be unsound. This proceeding, in my view, is not an application for a new trial because there never has been a trial. While judgment may be entered where parties do not appear to defend, nevertheless it must be on proof. Here there was none making Mary Corcoran liable for the defendant. There is no substance, therefore, to the point that because a previous application to open or vacate the judgment was denied that the matter is at rest forever. It is the duty of the court to annul an invalid judgment. Its power to do so resides in its inherent jurisdiction and control over its judgments. Wardell v. Warshafsky, 10 N. J. Mis. R. 519; 159 Atl. Rep. 694.
+It is next argued that this defendant should now be estopped from challenging the validity of the judgment. This judgment creditor cannot be heard to urge the doctrine of estoppel under the circumstances of this case. Laches or estoppel are never invoked in support of an invalid proceeding or a void judgment. There has been no change in the position of the parties unfavorable to the judgment creditor.
+The writ will be dismissed, with costs.

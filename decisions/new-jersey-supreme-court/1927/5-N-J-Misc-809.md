@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1927-08-04"
-citations: ["5 N.J. Misc. 809", "5 N.J. Misc. 811"]
+citations: ["5 N.J. Misc. 809"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"

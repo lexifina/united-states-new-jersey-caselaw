@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1937-06-25"
-citations: ["15 N.J. Misc. 524", "15 N.J. Misc. 522"]
+citations: ["15 N.J. Misc. 524"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["ROSE GLICKFELD, PLAINTIFF-RESPONDENT, v. SYLVIA A. VENOKUR, TRADING A
 source_url: "https://static.case.law/nj-misc/15/cases/0524-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 580621
-cites_cases: ["111 N. J. L. 204", "113 N. J. L. 13", "120 Atl. Rep. 11", "168 Atl. Rep. 184", "172 Atl. Rep. 384", "98 N. J. L. 556"]
 ---
 
 # Glickfeld v. Venokur

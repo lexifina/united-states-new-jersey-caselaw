@@ -1,0 +1,31 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1932-04-08"
+citations: ["10 N.J. Misc. 511"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCIA BUSCHE, PLAINTIFF-RESPONDENT, v. NEW YORK, SUSQUEHANNA AND WESTERN RAILROAD COMPANY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/10/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 739143
+cites_cases: ["126 N. W. Rep. 995", "44 N. J. L. 247", "82 N. J. L. 416"]
+---
+
+# Busche v. New York, Susquehanna & Western Railroad
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The plaintiff had judgment in an action tried before the court. The suit was brought to recover damages for fire loss. The defendant appeals and submits five grounds for reversal as follows: (1) The court erred in refusing defendant’s motion for a nonsuit or a direction of verdict; (2) in excluding certain testimony; (3) in the admission of certain testimony; (4) in admitting Exhibit P-1 in evidence, and (5) there was no legal proof of value.
+The respondent has not seen fit to furnish us with a brief. As too frequently happens in this court, a map is returned with the record in form so large that no desk exists big enough to hold it and all pertinent marks are withheld as though essential facts could be discovered only in the most difficult possible manner.
+The plaintiff owned a tract of fifteen acres of woodland which was burned over. The land abutted on the southerly side of defendant’s right of way. The fire occurred on May 4th, 1930. Neighbors first observed the fire along and to the north of the railroad track after the noon train passed by. The season was dry; the weeds along the right of way had not been cut back; the wind was somewhat from the west; the engine emitted sparks—“they were out of reason.”
+The railroad offered proof that the equipment was standard; frequently inspected and in good order. The trainmen testified that they saw a fire before they came to the place in question and that it appeared to be a brush fire started for the purpose of spring cleaning by some of the farmers on land in the vicinity not part of the railroad right of way.
+1. We think that there was proof that the fire originated in a spark from the engine. Wiley v. West Jersey Railroad Co., 44 N. J. L. 247. The credibility of the witnesses was for the trial court and though sparks are not as visible by day as by night, clouds of dense stuff out of all reason emanating from an engine smokestack does not to our minds negative testimony of sparks. The witnesses further testified to weeds and cut grasses along the right of way, although the rails were laid upon a cinder bed. There was no attempt made to clear up the weeds and cuttings which accumulated in the ditches and furnished an ever-present source of danger and annual fires.
+“The plaintiff must prove circumstances which render it probable and not merely possible that the defendant is at fault. But when it is said that the circumstances must exclude the inference that the damage was due to a cause for which the defendant is not responsible, it is not meant to change the rule that ordinarily governs in civil cases and to force the plaintiff to exclude such inference beyond doubt. All that is required is that the circumtsances should be so strong that a jury might properly on grounds of probability rather than of certainty exclude the inference favorable to the defendant. The question arises only where the evidence is circumstantial and where probability may be all that is attainable.” Austin v. Pennsylvania, Railroad Co., 82 N. J. L. 416.
+Wo cannot see from all the proofs that the judgment was due to speculation upon the causes of the fire. We think the proofs established that it was probable that the fire was caused by defendant’s fault, and that, therefore, the weight and credibility of the testimony was for the trial court sitting without a jury.
+2. One of the plaintiff’s witnesses was subjected to a searching cross-examination. The trial court, quite properly on appropriate objection, checked the examination when it seemed to transcend the usual bounds essential to the testing of credibility. In that we see no harmful error. “The judge may see to it that the examination of witnesses is conducted in an orderly manner, and a large discretion is given to him in controlling such examination.” 38 Cyc. 1315.
+3. The admission of certain testimony as to the width of the defendant’s right of way where the fire first occurred was harmless, as we view the case, granting that it was hearsay. Although the railroad company failed to show more than its tracks along a map of the countryside, there was testimony indicative of a right of way along which the tracks were laid and upon which the dried and cut grass had been allowed to accumulate. It is a perfectly well known fact that railroad rights of way afford 'accommodation for the easy operation of trains and include more than the mere space for the laying of ties and rails. The witnesses living in the vicinity placed the fire along the right of way. If they placed it on Smith’s land or Brown’s land that would be some proof of the fact.
+4. We do not think the Exhibit P-1 was properly received in evidence, but in view of the foregoing its receipt was not harmful.
+5. Assuming that the true rule governing the measure of damages is as contended by the appellant—“the measure of damages for the destruction of fruit, shade, ornamental, or growing trees of shrubbery is the difference between the value of the land before and after they were destroyed.” Cleveland School District v. Great Northern Railway Co., 126 N. W. Rep. 995—still we think the market value of the standing timber was an element in determining the damages to the freehold. The number, size and value of the trees were elements to consider. The weight and credit to attach to the testimony of the witnesses, as to value, was for the trial court. Though the transactions were few and the details vague, we cannot say that no credit could attach to the testimony. In view of all the testimony, there seems to us to be sufficient evidence as to the extent of injury to the freehold to support the judgment.
+The judgment below is affirmed, with costs.

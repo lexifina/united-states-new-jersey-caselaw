@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1930-01-02"
-citations: ["8 N.J. Misc. 40", "8 N.J. Misc. 39"]
+citations: ["8 N.J. Misc. 40"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"

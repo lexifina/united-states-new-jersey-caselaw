@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1932-05-18"
-citations: ["10 N.J. Misc. 723", "10 N.J. Misc. 717", "10 N.J. Misc. 715", "10 N.J. Misc. 725"]
+citations: ["10 N.J. Misc. 723"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, GEORGE S. HOBART, ASSISTANT ATTORNEY-GENERAL, PR
 source_url: "https://static.case.law/nj-misc/10/cases/0723-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 739306
-cites_cases: ["103 N. J. L. 523", "103 N. J. L. 534", "106 N. J. L. 19", "122 Atl. Rep. 758", "138 Atl. Rep. 203", "138 Atl. Rep. 381", "138 Atl. Rep. 523", "140 Atl. Rep. 586", "148 Atl. Rep. 175", "99 N. J. L. 30", "99 N. J. L. 301"]
+cites_cases: ["106 N. J. L. 19", "140 Atl. Rep. 586", "148 Atl. Rep. 175"]
 ---
 
 # State v. Court of the First Criminal Judicial District

@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-02-28"
+citations: ["1 N.J. Misc. 113"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RHEINOLD HUENEGARTH v. KASPER KRONES."]
+source_url: "https://static.case.law/nj-misc/1/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586798
+---
+
+# Huenegarth v. Krones
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This was an automobile accident case. The plaintiff, who was on foot, attempted to cross Washington street, in the city of Hoboken, at about its intersection with Twelfth street. While making the crossing he was run down and injured by the defendant’s automobile. The verdict of the jury was in his favor and his damages were assessed at $7,000.
+The contention of the defendant upon the argument of this rule is that the verdict was contrary .to the clear preponderance of the evidence in three particulars: (1) That the finding of the jury was that the accident was the result of the negligence of the defendant; (2) that its finding was that the accident was not contributed to by the negligence of the plaintiff; and (3) that the finding on the question of damages was greatly in excess of what the evidence warranted.
+The plaintiff attempted to cross Washington street from west to east. An automobile was parked along the westerly curb a few feet to the north of where the plaintiff started to make his crossing. He proceeded into the street beyond the point where the parked car interfered with his vision, looked to the north and saw some cars coming, waited for them to pass, and then, after taking a few steps forward, was struck by the defendant’s car, which was running in the same direction as the cars that he first observed. To this extent the testimony on behalf of the plaintiff is uncontradicted. The plaintiff says that he failed to observe the approach of the defendant’s car, although he saw the others and permitted them to pass. He further says that he looked, and that he listened for a signal and heard none. The proof is undisputed that at the time of the accident he was blind in one eye and that the sight of his other eye was somewhat impaired. It is also undisputed that within an hour after the occurrence of the accident he became totally and permanently blind. On these facts, we do not think it can be said that the finding of the jury that the plaintiff acted with the reasonable care that is required of a man under similar conditions was contrary to the weight of the evidence. They might very well have found that his failure to observe the approach of the defendant’s car was the result of his defective eyesight. But it cannot be said that 'a man whose vision is somewhat obscured is guilty of negligence merely because he undertakes to cross a public street at a point where he is justified in assuming that his rights as a foot passenger will be respected by the drivers of automobiles traveling along the highway. Nor can we say that the jury was not justified in finding that the accident was the result of negligence on -the part of the driver of the defendant’s autombile. The law imposed upon him the duty of using due care to observe whether or not people were crossing the street at this point, and to use care to have his car under such control as not to jeopardize the safety of foot passengers who were using due care in crossing. The testimony in the case, we think, justified the jury in finding that such care was not exercised by the driver.
+We conclude, therefore, that this verdict cannot be disturbed upon either the one or. the other of these two findings of the wry-
+As to the exclusiveness oí the verdict. The principal ground upon which the defendant attacks the award is that the proofs justified the conclusion that the loss of sight of one eye was due to the syphilitic condition of the plaintiff, and that the impaired vision of the other eye was the natural result of that condition, and that this condition was a progressive one and would finally result in the-total blindness of the plaintiff. This may be true; but the jury was fully justified in finding that the total blindness of the plaintiff was produced, not by the diseased condition adverted to, but by the accident itself; and, if we accept the theory of the physicians of the defendant as to the great probability of total blindness resulting from the plaintiff's syphilitic condition, there is nothing by which it could be determined whether that total blindness would result in the near future or after several years; and, this being so, we do not feel justified in saying that the absolute deprivation of sight, resulting, as it did, from this negligent act of the defendant's driver, did not justify the award made by the jury.
+The rule to show cause will be discharged.

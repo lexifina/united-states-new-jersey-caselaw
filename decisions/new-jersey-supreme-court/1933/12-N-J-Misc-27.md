@@ -1,0 +1,34 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1933-12-16"
+citations: ["12 N.J. Misc. 27"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PASQUALE IMPERATO, ADMINISTRATOR AD PROSEQUENDUM, AND IN THE ALTERNATIVE, GENERAL ADMINISTRATOR OF THE ESTATE OF DOMINICK IMPERATO, DECEASED, PLAINTIFF-RESPONDENT, v. CONCORD CASUALTY AND SURETY COMPANY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-misc/12/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 429253
+cites_cases: ["109 N. J. L. 563", "162 Atl. Rep. 644", "36 N. J. L. 1", "51 Atl. Rep. 592", "56 Atl. Rep. 152", "67 N. J. L. 367", "70 N. J. L. 24"]
+---
+
+# Imperato v. Concord Casualty & Surety Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is the appeal of the Concord Casualty and Surety Company from a judgment entered upon the verdict of a jury in favor of the plaintiff on a liability insurance policy issued by the defendant company to the owner of the automobile •covered by the policy.
+The automobile covered was involved in an accident, as the result of which plaintiff’s decedent, Dominick Imperato, a passenger in the automobile, sustained injuries from which he died.
+On the occasion in question, one Jerry Ladalardo had borTowed the car from the owner for his personal use, and plaintiff’s intestate was riding with him on his invitation, and it was on this trip that the automobile ran into a tree and, as a result of which, injury was inflicted upon the plaintiff’s intestate.
+Suit was instituted by the administrator of the decedent against Jerry Ladalardo and was based upon his negligence-in the operation of the car, and in that suit plaintiff recovered a verdict of $6,000 upon which judgment was entered. Execution was issued and was returned unsatisfied.
+Then the present suit was instituted, based upon that judgment and the policy upon the theory that the policy not only insured the owner of the car, but also Ladalardo, and was-thus brought within section 9 of the policy which provided, among other things, that “the term assured shall include any person while riding in or legally operating such automobile * * * provided (a) such automobile is. being used with the permission of the named assured or * * * with the permission of an adult member of his household other than a chauffeur or domestic servant * * *.” This suit resulted in a verdict and judgment for the plaintiff from which defendant appeals.
+The first point is that the trial court erroneously struck out the fourth separate defense of the answer. We think not. The fourth separate defense was this: “The defendant says Jerry Ladalardo was not insured by the said defendant under the terms of the policy as alleged in the complaint.” That defense merely stated a conclusion of law and gave no facts upon which that conclusion was based, and it was therefore insufficient. Taylor v. New Jersey Title, &c., Co., 70 N. J. L. 24; 56 Atl. Rep. 152. Furthermore, if it had been permitted to stand the defendant could have offered no evidence under it. The plaintiff in the instant case averred performance of conditions precedent generally in compliance with section 118 of the Practice act of 1903. The defendant did not specify in its pleading any conditions precedent the performance of which it intended to contest, and hence under section 118 would not be permitted to offer any evidence of any matters tending to show failure on the part of the plaintiff to comply with conditions precedent. Vreeland v. Beekman, 36 N. J. L. 1; Dimick v. Metropolitan Life Insurance Co., 67 N. J. L. 367; 51 Atl. Rep. 592.
+The next point is that the trial court erroneously refused to order a judgment of nonsuit in favor of the Concord Casualty and Surety Company on the ground that the plaintiff failed to prove that Jerry Ladalardo was driving the car. The answer to this is that the question whether Ladalardo was driving the car was a jury question under the evidence. The plaintiff’s evidence tended to show that Ladalardo and Imperato were the only persons in the car at the time of the accident; that the car was loaned to Ladalardo and that, at the time of the accident, he was behind the wheel on the left-hand side; decedent’s body was found on the right-hand side of the car which was wrecked, and that Ladalardo stepped out of the left-hand side of the car, where the wheel was, which side was not damaged, and he was not injured. Of ■course that evidence was sufficient to take the question to the jury.
+It is next contended that “the trial judge erroneously refused to order a judgment of nonsuit in favor of the defendant, Concord Casualty and Surety Company on the ground that the plaintiff failed to show that the defendant received any notice of service upon the alleged insured, Jerry Ladalardo, ■of any suit papers in an action instituted in the ISTew Jersey Supreme Court by Pasquale Imperato, the plaintiff herein as administrator ad prosequendum of the estate of Dominick Imperato against the said Jerry Ladalardo.”
+To that point it is sufficient answer to say that no such reason was urged for nonsuit so far as the record discloses.
+It is next contended that “the trial judge erroneously refused to order a judgment of nonsuit in favor of the defendant, Concord Casualty and Surety Company, on the ground that the plaintiff failed to prove a prima facie case under the allegations of the complaint.”
+To that contention a sufficient answer is that the plaintiff proved facts more than sufficient to make out a prima facie case, viz., the judgment obtained by the administrator of Dominick Imperato against Jerry Ladalardo at the Monmouth County Circuit; the execution upon such judgment returned unsatisfied; the letters of administration; the insurance policy issued by the defendant to the owner of the ear covering the car involved in the accident, and that Jerry Ladalardo was driving the car. Gee v. Independent, &c., Insurance Co., 109 N. J. L. 563; 162 Atl. Rep. 644.
+We have examined the points made by the appellant to the effect that the court erred in the exclusion of testimony, and with respect thereto it is sufficient to say that, considering the state of the pleading and evidence, certainly there was no prejudicial error.
+It is said that the court erred in refusing to direct a verdict for the defendant on the ground that Ladalardo was not insolvent or a bankrupt. The answer to this is that the proof tended to show that he was insolvent and that execution was returned unsatisfied. Other points urged respecting error in refusing to direct a verdict for the defendant are sufficiently disposed of by what we have said.
+It is said that the court erred in charging the jury. We think not, considering the issues raised by the pleading and the evidence.
+The judgment will be affirmed, with costs.

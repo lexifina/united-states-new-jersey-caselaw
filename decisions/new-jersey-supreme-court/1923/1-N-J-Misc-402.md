@@ -1,0 +1,31 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1923-07-14"
+citations: ["1 N.J. Misc. 402"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE, EX REL. BENJAMIN CHERNIN, RELATOR, v. BOARD OF COMMISSIONERS OF THE TOWN OF NUTLEY, IN THE COUNTY OF ESSEX, DEFENDANT."]
+source_url: "https://static.case.law/nj-misc/1/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 586567
+---
+
+# State ex rel. Chernin v. Board of Commissioners
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+A peremptory mandamus is sought by the relator to compel the defendant, a municipal corporation, to call a special meeting for the specific purpose of submitting at such election to the electors of the town of Nutley a proposed ordinance entitled “An ordinance providing for the regulation of the operation of auto buses, commonly called jitneys, in the town of Nutley, in the county of Essex and State of New Jersey, and providing for the licensing of the same.”
+Counsel of the defendant in his brief admits that an application was made by petition signed by more than fifteen per cent, of the registered Voters of the town of Nutley at the general election, held in November, 1922, requesting the board of commissioners- of said town to pass the proposed ordinance, and that on May 2d, 1922, the town clerk attached his certificate of sufficiency to the petition in accordance with the statute; that all the proceedings up to and including the furnishing of a certificate by the town clerk that the petition and signers to the same were regular; that the commissioners refused to pass the ordinance or to submit it to 'the people to be voted upon.
+The two principal grounds urged in justification of such refusal are, firstly, that the proposed ordinance contains illegal provisions. and, secondly, that the right to initiate such an ordinance has been repealed by article 15, paragraph 1, section 1 of chapter 152 of the laws of 1917, and by the supplement of such act, chapter 89 of the laws of 1920.
+Now, as to the first ground that ordinance contains illegal provisions and under which it is argued that the provision of the Walsh act relating to the initiative and referendum in so far as they are applicable to an ordinance providing for the regulation of jitneys and fixing a fare is unconstitutional, we think that in the present proceeding the question of the illegality of the proposed ordinance cannot be properly considered.
+The validity of the proposed ordinance is not before us for consideration. This is manifestly so. For it may never ripen into an ordinance. It cannot become a law unless adopted by the vote of the electors. We cannot, therefore, be properly called upon to pass upon a matter which may become purely academic. If the proposed ordinance fails of adoption that is the. end of the matter. If it is adopted and an attempt is made to enforce its provisions then a proper foundation is laid for a. review of the legality of such municipal legislation.
+It would be quite perturbing to the sense of a wise and beneficial administration of thé law if every proposed legislative act, whether state or municipal, was made a proper basis for judicial inquiry and advice. Por it is apparent that such a course of procedure is the intermingling of judicial with legislative functions which is contrary to express constitutional mandate. It is only when proposed legislation has evoluted into a statute or ordinance that it may become subject to judicial inquiry and action.
+As to the second ground that the right to initiate such ordinance has been repealed and therefore there is no legal basis for the petition in the present proceeding our examination of the legislative acts relied on leads us to the conclusion that the contention of the defendant is untenable.
+It is argued, on behalf of the defendant, that article 15, paragraph 1, section 1, of an act entitled “An act concerning municipalities,” chapter 152 of the laws of 1917, page 358, which, under the caption “licenses,” provides: “The governing body of' every municipality shall have power to make, enforce, amend or repeal ordinances to license and regulate hacks, coupes, cars, omnibuses, stages * * * and all other vehicles used for the transportation of passengers” * * * confers upon the governing body of every municipality the power to regulate vehicles used for transportation purposes, and which power is enlarged by a supplement to the act (Pamph. L. 1920, ch. 89), by adding auto buses to the list of vehicles and thereby accentuates the right conferred upon the governing bodies of municipalities, by implication repeals that section of the Walsh act (Pamph. L. 1911, p. 479), relating to ordinances initiated by petition and adopted by the voters of the municipality or passed by the board of commissioners, which provides: “And any ordinance proposed by petition or which shall be adopted by the vote of the people cannot be repealed or amended except by a vote of the people,” because this provision is plainly inconsistent with the provision of the supplement to the act of 1917, supra.
+Counsel of defendant evidently overlooked the proviso of the supplement which reads: “provided, however, this shall not be in substitution of but in addition to whatever other right, power and authority any such municipality may at any time have as to licensing, regulating,” &c.
+We are unable to perceive in what respect the supplement to the act of 1917 is inconsistent with that provision of the Walsh act, which provides for “iniative” and “referendum.”
+Whether or not such an ordinance can only be amended or repealed by the people in view of the act of 1917 and the supplement thereto is a question to be considered when such a situation presents itself. Repeal by implication is not favored in the law.
+We are only concerned now with the question whether the statute relating to the “initiative” has been complied with. Counsel of defendant admits that it has. The statute makes it incumbent upon the commissioners to act upon the proposed ordinance, and as they have refused to pass it it becomes their duty to submit it to the vote1 of the people by calling a special election for the purpose.
+A peremptory mandamus to that end is ordered.

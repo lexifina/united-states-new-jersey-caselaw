@@ -1,0 +1,20 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1925-02-05"
+citations: ["3 N.J. Misc. 194"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDISON FIXTURE COMPANY, INCORPORATED, PLAINTIFF-APPELLANT, v. GEORGE GOLDBERG, TRADING, ETC., DEFENDANT-APPELLEE."]
+source_url: "https://static.case.law/nj-misc/3/cases/0194-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 439486
+---
+
+# Edison Fixture Co. v. Goldberg
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Our examination of the record discloses no error justifying reversal. This case was argued with Edison Fixture Co., Inc., v. Copoulos, No. 475, of the present term, but it differs from that in a material matter. Here, the evidence permitted of the inference by the trial judge, sitting without a jury, that the-plaintiff deceived the defendant as to the fact that he was signing a contract, by the false representation that he was signing, as a matter of form, a paper having no obligatory force.
+This testimony furnishes a basis for the jndment in favor of the defendant, which will be affirmed, with costs.

@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Supreme Court"
 decided: "1927-12-09"
-citations: ["5 N.J. Misc. 1096", "6 N.J. Misc. 4", "6 N.J. Misc. 3"]
+citations: ["5 N.J. Misc. 1096", "6 N.J. Misc. 4"]
 reporter: "nj-misc"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,6 @@ parties: ["CITY OF PATERSON, PROSECUTOR, v. JAMES BAKER ET AL., CONSTITUTING THE
 source_url: "https://static.case.law/nj-misc/5/cases/1096-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 730668
-cites_cases: ["100 N. J. L. 131"]
 ---
 
 # City of Paterson v. Baker

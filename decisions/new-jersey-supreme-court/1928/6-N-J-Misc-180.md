@@ -1,0 +1,24 @@
+---
+court: "New Jersey Supreme Court"
+decided: "1928-02-08"
+citations: ["6 N.J. Misc. 180"]
+reporter: "nj-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE STATE OF NEW JERSEY, DEFENDANT IN ERROR, v. NICHOLAS CHOFFE, PLAINTIFF IN ERROR."]
+source_url: "https://static.case.law/nj-misc/6/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 733023
+cites_cases: ["86 N. J. L. 547"]
+---
+
+# State v. Choffe
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This was an indictment against the defendant upon a charge of carnal abuse of a girl under the age of'sixteen, on the 15th of December, 1926.
+The proof of the state shows that the defendant and the complaining witness Margaret Mann had kept company for some months against the wishes of Margaret’s mother, as a result of which there were a number of acts of sexual intercourse between them, culminating in a condition of pregnancy which, according to the testimony of the physicians, had advanced about four and one-half months on the 3d of March, 1927. There was evidence to indicate that the defendant had admitted his intercourse with the girl and had agreed to marry her, and had made an appointment for that purpose at two o’clock on a certain afternoon, but did not appear. There was also evidence to show that when he was arrested he said he expected to be arrested. This, however, he denied.
+The defense was that he was fond of the girl and wanted to marry her after a perfectly respectful courtship until she told him that her stepfather had had illicit relations with her, and then he refused to proceed further with the marriage contract. He produced a letter at the trial from the girl, which was read to the jury, in which, as it is claimed, she practically confessed in writing. There is no copy of that letter in the record, and so, upon this hearing, we are unable to consider it, and can give it no weight upon the question of evidence. She said she had written this letter at his instance. Whether or not the letter was written voluntarily by her, or under persuasion amounting practically to duress, to shield him in case he were accused of seducing her, as she testified at the trial and as she repeated in the police court, were, of course, questions of fact for the jury. The defense, it is noticeable, did not offer the envelope in evidence, but used it on cross-examination of the- prosecuting witness. It is also noticeable that the stamp and the postmark, ordinarily upon a letter, had been torn off. The defendant also claimed that this letter was received in November, 1926, and not in the summer of that year; that he had several others of a similar tenor, but that he had destroyed them at the solicitation of the mother of the prosecuting witness, who on her bended knees requested him to do this; but that he had by some oversight put this particular letter in another pocket, so that he was able to produce it at the trial. This was denied upon the part of the prosecution, which denial also presented a question of fact for the jury.
+• We have examined the question of the weight of the evidence and have concluded that its weight under the circumstances was for the jury, and that the verdict is not so clearly against the weight of the evidence as to make the inquiry a court question. The indictment is not for statutory seduction, nor is it a case of bastardy, but one for carnal abuse. The stepfather was put upon the stand and denied any such conduct as was charged against him, and it is to be noticed that he was not cross-examined. The jury had the opportunity of observing his as well as considering his testimony in connection with his presence, and this presented a question of fact for them to determine. The defendant when on the stand was asked whether on March 27th he told the prosecuting witness, who informed him that a child was coming, and asked him what he was going to do about it, “get rid of it;” and this is alleged as error upon the part of the court. We think it was perfectly legitimate cross-examination as an admission on his part of his guilt. The prosecuting witness upon cross-examination was allowed to refresh her memory by reading memoranda made several months before the trial, and the argument is that it was error to permit her to do this since the entries were not made at or near the time of the acts complained of. She evidently was uncertain in her recollection as to dates, and the privilege of allowing her to refresh her recollection under the circumstances was an act within the discretion of the court. State v. Dougherty, 86 N. J. L. 547.
+On consideration of the whole case as presented by the record we have concluded that the conviction should be affirmed.
